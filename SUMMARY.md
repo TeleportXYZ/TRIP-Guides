@@ -32,10 +32,15 @@
 
 ## Contributing
 
-* [Contributing Basics](contributing/contributing-basics.md)
+* [Contributing to TRIP](contributing/contributing-to-trip.md)
+* [Nav Guidelines](contributing/nav-guidelines.md)
+* [Report Guidelines](contributing/report-guidelines.md)
+* [API Documentation Guidelines](contributing/api-documentation-guidelines.md)
+* [Litepaper Guidelines](contributing/litepaper-guidelines.md)
 
 ***
 
 * [FAQ](faq/README.md)
   * [Atomic Network Estimates](faq/atomic-network-estimates.md)
 * [Litepaper](litepaper.md)
+* [Nav Roadmap](https://github.com/TeleportXYZ/The-TRIP-Nav/issues)
