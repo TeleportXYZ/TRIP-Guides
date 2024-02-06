@@ -30,12 +30,16 @@
 * [Report Basics](report/report-basics.md)
 * [Rideshare Economics 101](report/rideshare-economics-101.md)
 
+## Site
+
+* [Site Basics](site/site-basics.md)
+
 ## Contributing
 
 * [Contributing to TRIP](contributing/contributing-to-trip.md)
 * [Nav Guidelines](contributing/nav-guidelines.md)
 * [Report Guidelines](contributing/report-guidelines.md)
-* [API Documentation Guidelines](contributing/api-documentation-guidelines.md)
+* [Site Guidelines](contributing/site-guidelines.md)
 * [Litepaper Guidelines](contributing/litepaper-guidelines.md)
 
 ***
