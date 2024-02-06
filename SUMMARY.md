@@ -37,7 +37,7 @@
 ## Contributing
 
 * [Contributing to TRIP](contributing/contributing-to-trip.md)
-* [Nav Guidelines](contributing/nav-guidelines.md)
+* [Guides Guidelines](contributing/guides-guidelines.md)
 * [Report Guidelines](contributing/report-guidelines.md)
 * [Site Guidelines](contributing/site-guidelines.md)
 * [Litepaper Guidelines](contributing/litepaper-guidelines.md)
@@ -47,5 +47,5 @@
 * [FAQ](faq/README.md)
   * [Atomic Network Estimates](faq/atomic-network-estimates.md)
 * [Litepaper](litepaper.md)
-* [Nav Roadmap](https://github.com/TeleportXYZ/The-TRIP-Nav/issues)
+* [Guides Roadmap](https://github.com/TeleportXYZ/TRIP-Guides/issues)
 * [Teleport](https://www.teleport.xyz/)
