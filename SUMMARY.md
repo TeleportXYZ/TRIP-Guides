@@ -14,10 +14,6 @@
 
 * [Guide Basics](guides/guide-basics.md)
 
-## Rewards
-
-* [Rewards Basics](rewards/rewards-basics.md)
-
 ## Explorer
 
 * [Explorer Basics](explorer/explorer-basics.md)
