@@ -18,13 +18,6 @@
 
 * [Rewards Basics](rewards/rewards-basics.md)
 
-## Other Roles
-
-* [Operators](other-roles/operators.md)
-* [Verifiers](other-roles/verifiers.md)
-* [Apps](other-roles/apps.md)
-* [Auditors](other-roles/auditors.md)
-
 ## Explorer
 
 * [Explorer Basics](explorer/explorer-basics.md)
@@ -33,6 +26,13 @@
 
 * [Report Basics](report/report-basics.md)
 * [Rideshare Economics 101](report/rideshare-economics-101.md)
+
+## Other Roles
+
+* [Operators](other-roles/operators.md)
+* [Verifiers](other-roles/verifiers.md)
+* [Apps](other-roles/apps.md)
+* [Auditors](other-roles/auditors.md)
 
 ## Site
 
