@@ -2,7 +2,7 @@
 
 On the surface, riding with TRIP is familiar. If you have ever used Uber, it works the same way. You open the app, enter your destination, get in a car, and go.
 
-<figure><img src=".gitbook/assets/app.001.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/app.001.png" alt=""><figcaption></figcaption></figure>
 
 So you might be wondering, if TRIP is so much like Uber, why is it getting so much attention? What’s different about TRIP that makes it standout?
 
@@ -20,7 +20,7 @@ Instead, we use web3 rewards to motivate early adopters to recruit new users. Lo
 
 The result? We save money. A lot of it. And we split those savings between you and your driver. You pay less for your ride. A lot less. And your driver takes home more. Much more.
 
-<figure><img src=".gitbook/assets/TRIP Deck_MB Harry.014.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TRIP Deck_MB Harry.014.png" alt=""><figcaption></figcaption></figure>
 
 Want to know exactly how these costs breakdown for Uber vs TRIP? Read on to learn more.
 
@@ -28,11 +28,11 @@ Want to know exactly how these costs breakdown for Uber vs TRIP? Read on to lear
 
 <div>
 
-<figure><img src=".gitbook/assets/Uber_Ride_Breakdown_4.5_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Uber_Ride_Breakdown_4.5_2.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/TRIP_Ride_Breakdown_4.5_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TRIP_Ride_Breakdown_4.5_2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -44,7 +44,7 @@ We did the research to find out exactly that.
 
 Let’s start with Uber. We analyzed their public filings and gathered insights from industry experts. And from that, we found that about 24% of your $50 fare goes to “Incentives & Advertising”.
 
-<figure><img src=".gitbook/assets/Uber_Ride_Breakdown_4.5_2_zoom.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Uber_Ride_Breakdown_4.5_2_zoom.png" alt=""><figcaption></figcaption></figure>
 
 This cost is how much Uber spends to attract new drivers. And they do this so that the rider experience is as good as they can afford to make it. Without this cost, you would be less likely to get an Uber ride when and where you want without waiting a long time.
 
@@ -60,7 +60,7 @@ And those cash bonuses come out of existing drivers’ earnings.
 
 Which leads Uber drivers to feel they aren’t paid well. And the cycle continues.
 
-<figure><img src=".gitbook/assets/TRIP Deck_MB Harry.004.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TRIP Deck_MB Harry.004.png" alt=""><figcaption></figcaption></figure>
 
 Uber has reached somewhat of an equilibrium with this model. That said, it’s a vicious cycle.
 
@@ -72,7 +72,7 @@ Now let’s take a moment to look at TRIP.
 
 With TRIP, none of your $50 fare goes to “Incentives & Advertising”.
 
-<figure><img src=".gitbook/assets/TRIP_Ride_Breakdown_4.5_2_zoom_variable.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TRIP_Ride_Breakdown_4.5_2_zoom_variable.png" alt=""><figcaption></figcaption></figure>
 
 That’s right, TRIP spends nothing to attract and keep drivers.
 
@@ -86,7 +86,7 @@ It’s because of TRIP’s web3 rewards and how they work:
 2. To some people, TRIP Rewards are as attractive, if not more so, than cash bonuses.
 3. So, TRIP Rewards motivate people to refer drivers to where they are most needed.
 
-<figure><img src=".gitbook/assets/TRIP Deck_MB Harry.016.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TRIP Deck_MB Harry.016.png" alt=""><figcaption></figcaption></figure>
 
 TRIP Rewards cost almost nothing to issue. So we can remove “Incentives & Advertising”.
 
@@ -104,7 +104,7 @@ For our second biggest cost savings gain, let’s look at Uber’s fixed costs n
 
 ### Uber’s fixed costs
 
-<figure><img src=".gitbook/assets/Uber_Ride_Breakdown_4.5_2_zoom_fixed.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Uber_Ride_Breakdown_4.5_2_zoom_fixed.png" alt=""><figcaption></figcaption></figure>
 
 Uber’s fixed costs are costs that do not change with the number of rides taken on their network.
 
@@ -124,7 +124,7 @@ For example, the web is an open protocol. Any web browser can “talk to”, or 
 
 And because of this, open protocols like the web, allow for permissionless building. Meaning anyone with the technical knowhow can build a website and add it to the web.
 
-<figure><img src=".gitbook/assets/TRIP Deck_MB Harry 3.001.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TRIP Deck_MB Harry 3.001.png" alt=""><figcaption></figcaption></figure>
 
 Due to permissionless building, some of the most valuable businesses start on open protocols.
 
@@ -146,15 +146,15 @@ Now, what kind of businesses are built on top of TRIP?
 
 Beyond driving, there are two worth noting at the moment: Clients and Operators. Clients are companies that create software for riders and drivers to access TRIP. For example, Teleport, the mobile app, is TRIP’s first Client.
 
-<figure><img src=".gitbook/assets/TRIP Deck_MB Harry.021.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TRIP Deck_MB Harry.021.png" alt=""><figcaption></figcaption></figure>
 
 Operators match drivers and riders for trips.
 
-<figure><img src=".gitbook/assets/64b952051d007fdfdf5a50b9_Matching&#x26;Pricing.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/64b952051d007fdfdf5a50b9_Matching&#x26;Pricing.png" alt=""><figcaption></figcaption></figure>
 
 By observing all local laws, they protect riders and drivers as trips take place.
 
-<figure><img src=".gitbook/assets/64b952f43cfc3d833a9bb908_Dispute Resolution.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/64b952f43cfc3d833a9bb908_Dispute Resolution.png" alt=""><figcaption></figcaption></figure>
 
 Clients and Operators can both set their own take rates.
 
@@ -162,7 +162,7 @@ That said, anyone can become a Client or Operator on TRIP. As a result, Clients 
 
 If they don’t, drivers and riders will move to other Clients or Operators on TRIP.
 
-<figure><img src=".gitbook/assets/TRIP Deck_MB Harry.017.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TRIP Deck_MB Harry.017.png" alt=""><figcaption></figcaption></figure>
 
 What’s more, Clients and Operators receive TRIP Rewards when facilitating rides.
 
@@ -177,7 +177,7 @@ Given this:
 
 Now with TRIP, what happens to the remaining 90% of your $50 fare?
 
-<figure><img src=".gitbook/assets/TRIP_Ride_Breakdown_4.5_2_zoom_trip_take.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TRIP_Ride_Breakdown_4.5_2_zoom_trip_take.png" alt=""><figcaption></figcaption></figure>
 
 About 5% goes to the TRIP protocol itself. This fee protects and sustains the protocol.
 
