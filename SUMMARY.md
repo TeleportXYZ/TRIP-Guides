@@ -14,11 +14,15 @@
 
 * [Guide Basics](guides/guide-basics.md)
 
+## Rewards
+
+* [Rewards Basics](rewards/rewards-basics.md)
+
 ## Other Roles
 
 * [Operators](other-roles/operators.md)
 * [Verifiers](other-roles/verifiers.md)
-* [Clients](other-roles/clients.md)
+* [Apps](other-roles/apps.md)
 * [Auditors](other-roles/auditors.md)
 
 ## Explorer

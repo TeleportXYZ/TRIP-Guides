@@ -1,8 +1,7 @@
 ---
 description: >-
-  The Rideshare Protocol (TRIP) is a new kind of
-  rideshare.                                                           Riders
-  pay less. Drivers earn more. Early adopters get rewarded.
+  The Rideshare Protocol (TRIP) is a new kind of rideshare. Riders pay less.
+  Drivers earn more. Early adopters get rewarded.
 ---
 
 # Welcome
