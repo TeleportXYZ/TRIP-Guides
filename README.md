@@ -1,7 +1,5 @@
 ---
-description: >-
-  Riders pay less. Drivers earn more. Early adopters get rewarded. Welcome to
-  TRIP.
+description: Riders pay less. Drivers earn more. Early adopters get rewarded.
 ---
 
 # Welcome
