@@ -30,16 +30,16 @@
 * [Apps](other-roles/apps.md)
 * [Auditors](other-roles/auditors.md)
 
-## Site
+## Website
 
-* [Site Basics](site/site-basics.md)
+* [Website Basics](website/website-basics.md)
 
 ## Contributing
 
 * [Contributing to TRIP](contributing/contributing-to-trip.md)
 * [Guides Guidelines](contributing/guides-guidelines.md)
 * [Report Guidelines](contributing/report-guidelines.md)
-* [Site Guidelines](contributing/site-guidelines.md)
+* [Website Guidelines](contributing/website-guidelines.md)
 * [Litepaper Guidelines](contributing/litepaper-guidelines.md)
 
 ***

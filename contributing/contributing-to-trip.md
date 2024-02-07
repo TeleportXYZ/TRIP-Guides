@@ -96,7 +96,7 @@ When working with documentation, please take into account the:&#x20;
 
 * [Guides Guidelines](https://guides.trip.dev/contributing/guides-guidelines)
 * [Report Guidelines](https://guides.trip.dev/contributing/report-guidelines)
-* [Site Guidelines](https://guides.trip.dev/contributing/site-guidelines)
+* [Website Guidelines](https://guides.trip.dev/contributing/website-guidelines)
 * [Litepaper Guidelines](https://guides.trip.dev/contributing/litepaper-guidelines)
 
 #### Write Your Content
