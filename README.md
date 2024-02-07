@@ -8,6 +8,8 @@ description: Riders pay less. Drivers earn more. Early adopters get rewarded.
 Teleport: Ride and drive on the TRIP rideshare protocol.
 {% endembed %}
 
+### TRIP Goals
+
 **Mission:** **Free** the **rideshare market** so that **drivers earn more** and **riders pay less**.
 
 **H1 2024 Goal:** Reach **100,000 sign ups** globally.
