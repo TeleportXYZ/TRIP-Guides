@@ -26,9 +26,9 @@ For example, the web is an open protocol. Any web browser can “talk to”, or 
 
 And because of this, open protocols like the web, allow for permissionless building. Meaning anyone with the technical knowhow can build a website and add it to the web.
 
-So using the same reasoning, anyone can contribute to TRIP. Today, one of the best ways you can contribute to TRIP is by creating content that helps TRIP spread quickly and effectively.
+So using the same reasoning, anyone can contribute to TRIP. Today, one of the best ways you can contribute to TRIP is by creating content that helps people share TRIP effectively.
 
-To more effectively coordinate the community's efforts, we have created the TRIP Guides site you are reading here. TRIP Guides are designed to help you spread TRIP quickly and effectively, and to help you understand how all of the pieces fit together.
+To more effectively coordinate the community's efforts, we have created the TRIP Guides site you are reading here. TRIP Guides are designed to help you share TRIP effectively, and to help you understand how all of the pieces fit together.
 
 Anyone, including you, can create new TRIP Guides or edit existing ones.
 
