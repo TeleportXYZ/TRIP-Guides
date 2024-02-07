@@ -1,6 +1,6 @@
 ---
-name: TRIP Report newsletter proposal
-about: Propose a TRIP Report newsletter
+name: Newsletter proposal
+about: Propose a new Newsletter or edits to an existing one.
 title: ''
 labels: report
 assignees: ''
