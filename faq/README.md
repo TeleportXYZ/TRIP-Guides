@@ -1,4 +1,4 @@
-# Community FAQ
+# FAQ
 
 ### How can I get an invitation?
 
@@ -21,6 +21,10 @@ Telegram is a free instant messaging and group chat app.
 #### Are Telegram and Teleport related?
 
 No, Telegram is an unrelated instant messaging app we use for the TRIP Community.
+
+#### **What's Teleport?**
+
+Teleport is the first mobile app that lets anyone ride and drive on the TRIP rideshare protocol.
 
 #### **How do I ask for an invitation?**
 
