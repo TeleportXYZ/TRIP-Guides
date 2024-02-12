@@ -151,7 +151,7 @@ A lot of different entities are required to make a ride happen:
 * Riders
 * Balancers
 * Verifiers
-* Compliance Auditors
+* Auditors
 * Operators
 * Client Companies (Mobile Application Developers)
 
@@ -219,7 +219,7 @@ The operation of the decentralized rideshare network involves the following enti
 3. **The TRIP Marketplace** consists of a set of blockchain smart contracts that offer coordination and consensus services to the rideshare network. These smart contracts are governed by a Decentralized Autonomous Organization (DAO) of TRIP Reward holders and help the network remain neutral and fair without having to rely on centralized authority.
 4. **Balancers** are network participants that help the TRIP Marketplace overcome supply/demand imbalances by inviting additional drivers and riders.
 5. **Verifiers** are entities who inspect driver licenses, perform car inspections, conduct background checks and verify phone numbers.
-6. **Compliance Auditors** are entities that are capable of confirming the legal and operational readiness of both Verifiers and Operators.
+6. **Auditors** are entities that are capable of confirming the legal and operational readiness of both Verifiers and Operators.
 
 Once verified, any entity that is capable and legally permitted of performing a role can fulfill that role within the system.
 
@@ -249,7 +249,7 @@ The TRIP Marketplace is a set of smart contracts that run on a blockchain. It pr
 
 In order to comply with legal and regulatory requirements, maintain high safety standards, and ensure customer satisfaction, all rideshare network participants must undergo an authorization process appropriate for their role before being granted access to the network.
 
-The TRIP Marketplace is democratically governed by network participants and holds ultimate authority on the network. Through voting on the TRIP Marketplace, the authority to make attestations can be temporarily and revocably delegated from the TRIP marketplace to dedicated Compliance Auditors and Verifiers.
+The TRIP Marketplace is democratically governed by network participants and holds ultimate authority on the network. Through voting on the TRIP Marketplace, the authority to make attestations can be temporarily and revocably delegated from the TRIP marketplace to dedicated Auditors and Verifiers.
 
 A Compliance Auditor is a firm or individual authorized by the governance of the TRIP Marketplace to verify that Operators and Verifiers are legally permitted and operationally capable of fulfilling their assigned roles on the network.
 
