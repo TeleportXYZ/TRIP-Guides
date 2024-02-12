@@ -10,9 +10,9 @@
 
 * [Driver Basics](drivers/driver-basics.md)
 
-## Guides
+## Balancers
 
-* [Guide Basics](guides/guide-basics.md)
+* [Balancer Basics](balancers/balancer-basics.md)
 
 ## Explorer
 
