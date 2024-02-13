@@ -12,8 +12,8 @@ assignees: ''
 
 <!-- Include your examples, templates, and evidence from users here -->
 
-### Expected content
+### Gist of expected content
 <!-- Tell us what content should be present -->
 
-### Actual content
+### Gist of actual content
 <!-- Tell us what actual content is present instead -->
