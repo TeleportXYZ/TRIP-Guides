@@ -8,6 +8,7 @@
 
 ## Drivers
 
+* [Cashing Out](drivers/cashing-out.md)
 * [Driver Basics](drivers/driver-basics.md)
 
 ## Balancers
