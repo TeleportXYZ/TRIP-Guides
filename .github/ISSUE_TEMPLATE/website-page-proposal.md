@@ -15,5 +15,5 @@ assignees: ''
 ### Expected content
 <!-- Tell us what content should be present -->
 
-### Actual content
-<!-- Tell us what actual content is present instead -->
+### Current content
+<!-- Tell us what current content is present instead -->
