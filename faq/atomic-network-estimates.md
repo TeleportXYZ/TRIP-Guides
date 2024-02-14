@@ -3,7 +3,7 @@
 We use rideshare simulations to estimate the atomic network for each city.
 
 {% embed url="https://www.youtube.com/watch?v=8RmK6ql8XtA" %}
-Here's an example rideshare simulation of San Francisco.
+An example rideshare simulation for San Francisco.
 {% endembed %}
 
 Here is a list of cities we’ve prepared estimates for to date.
