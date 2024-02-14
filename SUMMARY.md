@@ -13,7 +13,7 @@
 
 ## Balancers
 
-* [Balancer Basics](balancers/balancer-basics.md)
+* [Balancer Basics](balancers/guide-basics.md)
 
 ## Explorer
 
