@@ -15,5 +15,5 @@ assignees: ''
 ### Gist of expected content
 <!-- Tell us what content should be present -->
 
-### Gist of actual content
-<!-- Tell us what actual content is present instead -->
+### Gist of current content
+<!-- Tell us what current content is present instead -->
