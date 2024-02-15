@@ -1,13 +1,13 @@
 ---
 name: Short form proposal
-about: Join the TRIP meme army. Propose short form content for social media.
+about: Propose short form content for social media.
 title: ''
 labels: short form
 assignees: ''
 
 ---
 
-<!-- Want to join the TRIP meme army? You can do so by contributing short form content for the community to post on social media. If you're ready to help but not sure where to start, use the below template to get inspiration for what content you can contribute. If you have an idea for piece of content already, great! Still look through the template. It will likely spark tweaks to improve the idea you have. -->
+<!-- Want to join the TRIP meme army? You can do so by contributing short form content (memes, text posts, videos, etc) for the community to post on social media. If you're ready to help but not sure where to start, use the below template to get inspiration for what content you can contribute. If you have an idea for piece of content already, great! Still look through the template. It will likely spark tweaks to improve the idea you have. -->
 
 ### Related Newsletter
 
