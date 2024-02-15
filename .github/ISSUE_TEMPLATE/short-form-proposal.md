@@ -1,0 +1,57 @@
+---
+name: Short form proposal
+about: Propose a short form piece of content for social media.
+title: ''
+labels: short form
+assignees: ''
+
+---
+
+<!-- Want to join the TRIP meme army? You can do so by contributing short form content for the community at large to post on social media. If you're ready to help but not sure where to start, use the below template to get ideas and inspiration on what content you can contribute. If you have an idea for piece of content already, great! Still look through the template. It might spark tweaks to improve what you already have. -->
+
+### Post Style
+
+- [ ] Story
+- [ ] Observation
+- [ ] Contrarian
+- [ ] Listicle
+- [ ] Analyze
+- [ ] Other (share below)
+
+### Post Template
+
+- [ ] How can people do something, step-by-step?
+- [ ] Inspire people to take action through a story or anecdote.
+- [ ] Do a tear down of a company, person, content style, etc.
+- [ ] Compare two situations for an interesting takeaway.
+- [ ] How things work today vs. how you think in the future?
+- [ ] What are you working on this week?
+- [ ] Pain, Agitate, Intrigue, Positive Future, Solution
+- [ ] A list of things (top books, people, podcasts, etc.)
+- [ ] Something you feel differently about vs. the status quo.
+- [ ] Book Quote
+- [ ] Pencil Drawing
+- [ ] Question
+- [ ] What's something you've observed that you can talk about?
+- [ ] How things worked in the past vs. how things work today.
+- [ ] What went well and what went poorly. (Usually good for a Friday.)
+- [ ] Other (share below)
+
+### Post Medium
+
+- [ ] Video
+- [ ] Image
+- [ ] Text
+- [ ] Audio
+- [ ] Other (share below)
+
+### Post Location
+
+- [ ] Teleport X Account
+- [ ] Paul Bohm X Account
+- [ ] Harry Whelchel X Account
+- [ ] Other (share below)
+
+### Post Content
+
+<!-- If you have the post already made, share the text, image, or video here. Otherwise, write text that describes what the post will be in as much detail as possible. If it's going to be an image, describe what the image is and the text that's included, if any. If it's going to be a video, describe what the video will be showing and include any key dialogue or narration. -->

@@ -1,5 +1,5 @@
 ---
-name: Website page proposal
+name: Website proposal
 about: Proposal a new Website page or edits to an existing one.
 title: ''
 labels: website
