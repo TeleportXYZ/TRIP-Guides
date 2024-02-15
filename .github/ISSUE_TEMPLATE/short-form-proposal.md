@@ -62,4 +62,4 @@ assignees: ''
 
 ### Post Content
 
-<!-- If you have the post already made, share the text, image, or video here. Otherwise, write text that describes the post in detail. If it's going to be an image, describe what the image is and the text that's included, if any. If it's going to be a video, describe what the video will be and include any key audio. -->
+<!-- If you have the post already made, share the text, image, or video here. Otherwise, write text that describes the post in detail. If it's going to be an image, describe what the image is and the text that's included, if any. If it's going to be a video, describe what the video will be and include any key dialogue or narration. -->
