@@ -1,6 +1,6 @@
 ---
 name: Short form proposal
-about: Propose a short form piece of content for social media.
+about: Join the TRIP meme army. Propose short form content for social media.
 title: ''
 labels: short form
 assignees: ''
