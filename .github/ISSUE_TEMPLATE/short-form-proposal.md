@@ -11,6 +11,8 @@ assignees: ''
 
 ### Post Style
 
+<!-- Add an x between the brackets like this [x] to select your option. Alternatively, you can submit the issue and once it's created you'll see checkboxes you can click on to select your option. -->
+
 - [ ] Story
 - [ ] Observation
 - [ ] Contrarian
@@ -19,6 +21,8 @@ assignees: ''
 - [ ] Other (share below)
 
 ### Post Template
+
+<!-- Add an x between the brackets like this [x] to select your option. Alternatively, you can submit the issue and once it's created you'll see checkboxes you can click on to select your option. -->
 
 - [ ] How can people do something, step-by-step?
 - [ ] Inspire people to take action through a story or anecdote.
@@ -39,6 +43,8 @@ assignees: ''
 
 ### Post Medium
 
+<!-- Add an x between the brackets like this [x] to select your option. Alternatively, you can submit the issue and once it's created you'll see checkboxes you can click on to select your option. -->
+
 - [ ] Video
 - [ ] Image
 - [ ] Text
@@ -46,6 +52,8 @@ assignees: ''
 - [ ] Other (share below)
 
 ### Post Location
+
+<!-- Add an x between the brackets like this [x] to select your option. Alternatively, you can submit the issue and once it's created you'll see checkboxes you can click on to select your option. -->
 
 - [ ] Teleport X Account
 - [ ] Paul Bohm X Account
