@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-<!-- Want to join the TRIP meme army? You can do so by contributing short form content for the community at large to post on social media. If you're ready to help but not sure where to start, use the below template to get ideas and inspiration on what content you can contribute. If you have an idea for piece of content already, great! Still look through the template. It might spark tweaks to improve what you already have. -->
+<!-- Want to join the TRIP meme army? You can do so by contributing short form content for the community to post on social media. If you're ready to help but not sure where to start, use the below template to get inspiration for what content you can contribute. If you have an idea for piece of content already, great! Still look through the template. It will likely spark tweaks to improve the idea you have. -->
 
 ### Post Style
 
@@ -62,4 +62,4 @@ assignees: ''
 
 ### Post Content
 
-<!-- If you have the post already made, share the text, image, or video here. Otherwise, write text that describes what the post will be in as much detail as possible. If it's going to be an image, describe what the image is and the text that's included, if any. If it's going to be a video, describe what the video will be showing and include any key dialogue or narration. -->
+<!-- If you have the post already made, share the text, image, or video here. Otherwise, write text that describes the post in detail. If it's going to be an image, describe what the image is and the text that's included, if any. If it's going to be a video, describe what the video will be and include any key audio. -->
