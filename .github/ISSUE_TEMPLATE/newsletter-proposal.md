@@ -2,7 +2,7 @@
 name: Newsletter proposal
 about: Propose a new Newsletter or edits to an existing one.
 title: ''
-labels: ''
+labels: newsletter
 assignees: ''
 
 ---
