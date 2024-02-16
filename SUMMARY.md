@@ -19,10 +19,10 @@
 
 * [Explorer Basics](explorer/explorer-basics.md)
 
-## Report
+## Newsletter
 
-* [Report Basics](report/report-basics.md)
-* [Rideshare Economics 101](report/rideshare-economics-101.md)
+* [Newsletter Basics](newsletter/newsletter-basics.md)
+* [Rideshare Economics 101](newsletter/rideshare-economics-101.md)
 
 ## Other Roles
 
@@ -39,7 +39,7 @@
 
 * [Contributing to TRIP](contributing/contributing-to-trip.md)
 * [Guides Guidelines](contributing/guides-guidelines.md)
-* [Report Guidelines](contributing/report-guidelines.md)
+* [Newsletter Guidelines](contributing/newsletter-guidelines.md)
 * [Website Guidelines](contributing/website-guidelines.md)
 * [Litepaper Guidelines](contributing/litepaper-guidelines.md)
 
