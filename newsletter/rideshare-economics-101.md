@@ -195,8 +195,11 @@ Together, we will free the rideshare market once and for all.
 
 Carpe Viam.
 
-### Want to learn more?
+{% hint style="info" %}
+### Whenever you're ready, there are 4 ways to get more involved:
 
-Follow Teleport on X: [https://twitter.com/teleportxyz](https://twitter.com/teleportxyz).
-
-Join us on Telegram in the TRIP Community: [https://trip.dev/chat](https://trip.dev/chat).
+1. [Download the App](https://apps.apple.com/us/app/teleport-request-a-ride/id1607881031): Ride and drive on the TRIP network with the Teleport app. Teleport is available on iOS. We don’t have a release date for Android we can share yet but it’s important to us and on our radar. [Join the waitlist here](https://www.teleport.xyz/waitlist).
+2. [Join the TRIP Community](https://trip.dev/chat): Join 1,331+ members and get exclusive tips, strategies, and resources to help you free your local rideshare market so that rides cost less, drivers earn more and you as an early adopter get rewarded.
+3. [Contribute to TRIP](https://guides.trip.dev/contributing/contributing-to-trip): Join dozens of contributors by proposing, creating, and editing content that helps the community share TRIP more clearly and effectively with newcomers. Contribute memes, posts, videos, and more.
+4. [Bring TRIP to your city](https://explorer.trip.dev/): See the progress to bringing TRIP to your city with the TRIP Explorer. Check back regularly as more features and updates are added.
+{% endhint %}
