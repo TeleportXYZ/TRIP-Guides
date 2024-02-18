@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-<!-- Join the TRIP meme army by contributing memes, text posts, videos, etc., for social media. Fill in the below sections to share your idea. -->
+<!-- Contribute text posts, memes, videos, etc., for social media. -->
+
+### Short Form Content Idea
+
+<!-- Share your content or provide a detailed description. For images, describe the visual and text elements. For videos, outline the content and key dialogue or narration. -->
 
 ### Newsletter Link
 
-<!-- Link to a related TRIP Report newsletter, if any. -->
-
-### Content Description
-
-<!-- Share your content or provide a detailed description. For images, describe the visual and text elements. For videos, outline the content and key dialogue or narration. -->
+<!-- Link to a related TRIP Report newsletter (optional). -->
