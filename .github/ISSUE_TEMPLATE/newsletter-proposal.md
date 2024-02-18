@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ### What do you want to see covered in the TRIP Report newsletter?
-<!-- Read before creating your first issue: https://guides.trip.dev/contributing/contributing-to-trip -->
+<!-- Read this link before creating your first issue: https://guides.trip.dev/contributing/contributing-to-trip -->
 
 <!-- Include your examples and evidence from users here -->
 
