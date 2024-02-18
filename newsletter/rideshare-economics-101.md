@@ -200,6 +200,6 @@ Carpe Viam.
 
 1. [Download the App](https://apps.apple.com/us/app/teleport-request-a-ride/id1607881031): Ride and drive on the TRIP network with the Teleport app. Teleport is available on iOS. We don’t have a release date for Android we can share yet but it’s important to us and on our radar. [Join the waitlist here](https://www.teleport.xyz/waitlist).
 2. [Join the TRIP Community](https://trip.dev/chat): Join 1,331+ members and get exclusive tips, strategies, and resources to help you free your local rideshare market so that riders pay less, drivers earn more and early adopters get rewarded.
-3. [Contribute to TRIP](https://guides.trip.dev/contributing/contributing-to-trip): Join dozens of contributors by proposing, creating, and editing content that helps us all share TRIP more clearly and effectively with newcomers. Contribute long form guides, social posts, memes, and more.
+3. [Contribute to TRIP](https://github.com/TeleportXYZ/TRIP-Guides/issues/): Join dozens of contributors by proposing, creating, and editing content that helps us all share TRIP more clearly and effectively with newcomers. Contribute long form guides, social posts, memes, and more.
 4. [Bring TRIP to your city](https://explorer.trip.dev/): See the progress to bringing TRIP to your city with the TRIP Explorer. Check back regularly as more features and updates are added.
 {% endhint %}
