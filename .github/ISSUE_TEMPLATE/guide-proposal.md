@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ### What's missing from the TRIP Guides
-<!-- (Guidelines for Guide proposals are [available here](https://guides.trip.dev/contributing/contributing-to-trip#proposing-a-guide) -->
+<!-- Read before creating your first issue: https://guides.trip.dev/contributing/contributing-to-trip -->
 
 <!-- Include your examples, templates, and evidence from users here -->
 

@@ -8,7 +8,8 @@ assignees: ''
 ---
 
 ### What's missing from the [TRIP Website](https://trip.dev)
-<!-- (Guidelines for Website proposals are [available here](https://guides.trip.dev/contributing/website-guidelines) -->
+<!-- Read before creating your first issue: https://guides.trip.dev/contributing/contributing-to-trip -->
+
 
 <!-- Include your examples, templates, and evidence from users here -->
 
