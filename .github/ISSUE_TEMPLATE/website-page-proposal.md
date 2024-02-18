@@ -10,11 +10,10 @@ assignees: ''
 ### What's missing from the [TRIP Website](https://trip.dev)
 <!-- Read this link before creating your first issue: https://guides.trip.dev/contributing/contributing-to-trip -->
 
-
-<!-- Include your examples, templates, and evidence from users here -->
+<!-- Include your examples, templates, and evidence from users here. -->
 
 ### Expected content
-<!-- Tell us what content should be present -->
+<!-- Describe what content should be present. -->
 
 ### Current content
-<!-- Tell us what current content is present instead -->
+<!-- Describe what current content is present instead. -->
