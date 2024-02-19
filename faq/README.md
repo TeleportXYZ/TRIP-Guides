@@ -36,13 +36,9 @@ The TRIP Community is not on Discord.
 
 ### How can I buy the token?
 
-We have no plans to sell a token.
-
-Today, we issue TRIP Rewards in the form of NFTs to people who build the network.
+Today, TRIP Rewards are issued in the form of NFTs to people who build the network.
 
 Building the network means driving or riding on the network or inviting drivers and riders.
-
-Once the network is decentralized, the system may evolve pending votes from the governance.
 
 #### How can I earn TRIP Rewards?
 
@@ -53,14 +49,6 @@ Building the network means driving or riding on the network or inviting drivers 
 #### What can I do with TRIP Rewards once I have them?
 
 TRIP Rewards are NFTs. What can be done with NFTs can be done with TRIP Rewards.
-
-Once the network is decentralized, the system may evolve pending votes from the governance.
-
-#### What does decentralization mean in this context?
-
-Decentralization means the network’s success does not depend on the efforts of any third party.
-
-A third party would be any centralized actor like an individual person or company.
 
 ### Is the app available on Android?
 
@@ -264,21 +252,11 @@ You can also earn TRIP Rewards by signing up drivers or by riding or driving on 
 
 To get someone to try something new, you have to lead with “what’s in it for them”.
 
-This is often called a value proposition (or value prop if you’re hip).
+Riders will pay less on average for rides. We estimate 15% less.
 
-Our core value prop to riders is that they will pay less on average for rides. We estimate 15% less.
+Riders will earn TRIP Rewards for using the network.
 
-Our secondary value prop is that riders will earn TRIP Rewards for using the network.
-
-You can explain TRIP Rewards in whatever way you feel makes them as attractive as possible.
-
-So lead with these points to get people’s attention and you’ll have lots of folks signing up.
-
-If you want to be even more effective from here, all you need to do is riff on these points.
-
-In other words, think about as many different ways you can convey these value props.
-
-For example:
+Here are some ways to share these points by word of mouth:
 
 1. In different places: flyers, t-shirts, stickers, car seat sign, X/Twitter, TikTok, Instagram, etc.
 2. From different perspectives: Quotes from riders, quotes from drivers, quotes from different kinds of people from all different walks of life in your area. Quotes from local influencers.
@@ -289,9 +267,9 @@ There are many other dimensions of variation you can use to riff even further on
 
 Mix and match them to come up with new and effective ways to spread the word.
 
-Then make sure to share your learnings in the TRIP Community. Not only will that benefit others.
+Then make sure to share your learnings in the TRIP Community. Not only will that benefit others, it will also benefit you.&#x20;
 
-It will also benefit you. The community will give you suggestions to improve your work further.
+The community will give you suggestions to improve your approach further.
 
 ### How can I become a driver?
 
@@ -373,7 +351,7 @@ We will provide more detailed guidance on this in time.
 
 Google: “Rideshare licensing and insurance requirements {YOUR\_STATE}” for more details.
 
-The Wikipedia article, “[Legality of ridesharing companies by jurisdiction](https://en.wikipedia.org/wiki/Legality\_of\_ridesharing\_companies\_by\_jurisdiction)”, is helpful as well.
+The Wikipedia article, “[Legality of ridesharing companies by jurisdiction](https://en.wikipedia.org/wiki/Legality\_of\_ridesharing\_companies\_by\_jurisdiction)”, is helpful as a starting point as well.
 
 #### What specific licenses and insurance do I need to operate in my city?
 
@@ -535,60 +513,6 @@ While we love fellow DePIN projects like Hivemapper and Helium, we want to make 
 
 We welcome community members making rigorous arguments as to why we should use specific technologies. We are only receptive to arguments that speak to achieving our mission.
 
-### How does your company make money?
-
-Today, our operations are financed by a $9.5 million seed round.
-
-Our immediate focus is on developing the TRIP network and the community around it.
-
-In time, TRIP will facilitate more and more of the $300 billion per year rideshare market.
-
-Given that, there will be plenty of opportunity for the company to make money.
-
-And because TRIP is open, any business model we pursue will be both driver and rider friendly.
-
-#### **What are the ways your company could make money as the network grows?**
-
-There are many ways our company could make money as the network grows.
-
-We believe in aligning our interests with the interests of drivers and riders as well as with the other participants in the network like operators.
-
-We also believe in creating orders of magnitude more value than what we capture.
-
-And because TRIP is open, any business model we pursue will be both driver and rider friendly.
-
-#### What is a seed round?
-
-A seed round is when a company raises an initial investment for a startup venture.
-
-It’s usually raised to finance the initial development of a product.
-
-#### What are you using the investment for?
-
-We are using the investment to finance the development of the network.
-
-It’s gone into protocol design, software development, early stage community building, and more.
-
-#### Are you raising at the moment?
-
-We are always open to conversations with accredited investors and qualified purchasers. Because of legal constraints we are not able to accept investment from non-accredited investors.
-
-#### How can I invest?
-
-We are a US based company, only able to work with accredited investors.
-
-Please email danie \[at] teleport \[dot] xyz if you would like to learn more.
-
-#### Why will you all be profitable when Uber has struggled to reach profitability?
-
-TRIP is able to avoid Uber’s struggle for profitability because it is an open protocol.
-
-Open protocols like email or the web aren’t businesses. They have no concept of profitability.
-
-As long as users find the protocol useful, the protocol will be healthy and grow.
-
-Operators on TRIP will operate at whatever price they deem reasonable.
-
 ### How can I contribute to the community?
 
 No matter your skills, experience, age, location, etc, you can contribute to the community.
@@ -644,7 +568,6 @@ Everyone in our rideshare network, including drivers, riders, and operators, nee
 Here's what happens:
 
 * **Operators** (people who manage drivers and riders in different places) need to get the right licenses and insurance. They have to meet all safety rules before they can operate.
-* If operators don't support customers well, give wrong times for rides, or don't follow safety rules, we might have to give them a penalty or even remove them from our network.
 * **Drivers and Riders** also need to follow all safety rules. If they don't, they could also face penalties or be removed from the network.
 
 #### **What is the authorization process for operators, drivers and riders?**
@@ -694,7 +617,7 @@ All safety measures on TRIP are at least as exhaustive as those of legacy ridesh
 
 #### Do you have a public roadmap?
 
-We do not have a public roadmap at this time.
+We do not have a public roadmap.
 
 Is there a project that has a great product roadmap you like?
 
