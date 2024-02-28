@@ -4,43 +4,43 @@
 
 ## 1. Introduction
 
-The internet is an open network on which anyone can start an internet service provider, run a web site, or build an email client. This open structure has led to the creation of the world's most dynamic economy: the online economy.
+The internet is an open network: Anyone can start an internet service provider, run a web site, or build an email client. This open structure has led to the world's most dynamic economy: the online economy.
 
-However, before the invention of digital programmable money, it was impossible to design open systems for marketplaces such as rideshare, food delivery, and vacation rentals. As a result, intermediaries have stepped in and started charging high fees instead of letting markets set fair prices.
+Before the invention of digital programmable money, it was impossible to design open systems for marketplaces such as rideshare, food delivery, and vacation rentals. As a result, middlemen stepped in and charged high fees instead of letting markets set fair prices.
 
-In the rideshare industry, the intermediary's take rate can often exceed 40%. This means that a significant portion of the money paid by customers is taken out of local economies and funneled towards centralized, multinational intermediaries.
+In the rideshare industry, the middleman’s take rate often exceeds 40%. This means that a significant portion of the money paid by customers is taken out of local economies and funneled away elsewhere.
 
-This paper proposes an alternative approach: the creation of a fair and independent marketplace that is built on an open and interoperable protocol: The Rideshare Protocol (**TRIP**).
+This paper proposes an alternative approach: The creation of a fair and independent marketplace. This marketplace would use an open and interoperable protocol: The Rideshare Protocol (**TRIP**).
 
-TRIP enables local, lean rideshare companies to work together and form a global network that benefits drivers, riders, and regional economies while being self-governed by the participants.
+TRIP lets small rideshare companies work together. They can then form a global network that benefits drivers, riders, and regional economies. What’s more, the network is self-governed by the participants.
 
 ### 1.1 Definition of Rideshare
 
 <figure><img src=".gitbook/assets/64a71142870b4648f6410f68_Centralized.png" alt=""><figcaption></figcaption></figure>
 
-The purpose of a rideshare system is to connect drivers with nearby riders and facilitate safe, fast, comfortable, and economical transportation.
+Rideshare connects drivers with nearby riders. It makes transportation safe, fast, comfortable, and affordable .
 
-The key actors in rideshare are **Drivers** and **Riders**. The rider is able to indicate their current location and intended destination via a **Rideshare Application** installed on their phone. A **Rideshare Company** then looks for nearby drivers who are similarly connected to the platform.
+The key actors in rideshare are **Drivers** and **Riders**. The rider can provide their location and destination via a **Rideshare App** on their phone. A **Rideshare Company** then looks for nearby drivers who are similarly connected to the app.
 
 ### 1.2 Decentralizing Rideshare
 
 ![](.gitbook/assets/64a7118027989c9989449590\_Decentralized.png)
 
-In a closed system, rideshare applications from different companies are not compatible. If email worked in this way, users of **Microsoft Outlook** and **Apple Mail** would not be able to email each other. Similarly, if the web were closed, Apple's **Safari browser** would not be able to communicate with **Microsoft's website**. When protocols are closed, like in the case of rideshare, it becomes difficult for users to switch between different vendors.
+In a closed system, rideshare apps from different companies are not compatible. If email worked in this way, users of **Microsoft Outlook** and **Apple Mail** would not be able to email each other. Similarly, if the web were closed, Apple's **Safari browser** would not be able to open **Microsoft's website**. When protocols are closed, like in the case of rideshare, it is difficult for users to switch between different vendors.
 
 Decentralizing rideshare means returning it to the open norms of the internet. In a decentralized system, participants can choose from a variety of apps and servers by many different vendors that communicate with each other.
 
-Centralized rideshare services often do not allow the market to set a fair price. Instead, they set prices themselves and maximize the value they can extract. **Redesigning rideshare as a decentralized system** means more money goes to drivers, riders pay less per ride, and more money stays in local economies.
+Centralized rideshare services tend towards preventing the market from setting a fair price. Instead, they set prices themselves and maximize the value they can extract. **Redesigning rideshare as a decentralized system** means more money goes to drivers, riders pay less per ride, and more money stays in local economies.
 
 ### 1.3 Companies and Protocols
 
-Many internet applications, including Twitter and Reddit, were initially developed as open systems. Twitter launched its public API in September 2006, leading to a thriving ecosystem of third-party Twitter software that helped the platform succeed. However, Twitter decided to lock down its API in August 2012, once it became large enough to no longer require third-party applications.
+Many internet applications, including Twitter and Reddit, were initially developed as open systems. Twitter launched its public API in September 2006, leading to a thriving ecosystem of third-party Twitter software that helped the platform succeed. However, Twitter decided to lock down its API in August 2012, once it became large enough to no longer benefit from third-party applications.
 
-Reddit's openness has followed a similar path: thousands of developers have created third-party Reddit software over the years, but Reddit is now shutting down API access in preparation for its IPO.
+Reddit's openness has followed a similar path: thousands of developers created third-party Reddit software over the years, but Reddit has now shut down API access in preparation for its IPO.
 
-Centralized rideshare companies similarly [have promised good pay and flexibility to drivers but then reneged](https://www.latimes.com/business/story/2021-05-28/uber-flexibility-prop-22) on those promises the moment they were no longer convenient.
+Centralized rideshare companies similarly[ have promised good pay and flexibility to drivers but then reneged](https://www.latimes.com/business/story/2021-05-28/uber-flexibility-prop-22) on those promises the moment they were no longer convenient.
 
-For users and developers alike, it has become evident that company promises of remaining fair, neutral, and open cannot be trusted. The solution is to construct genuinely decentralized and provably impartial protocols that are not owned or controlled by any single company, but rather enable all participants to freely collaborate in creating, maintaining, and improving the system.
+For users and developers alike, it is now evident that company promises of remaining fair, neutral, and open cannot be trusted. The solution is to construct genuinely decentralized and provably impartial protocols that are not owned or controlled by any single company, but rather enable all participants to freely collaborate in creating, maintaining, and improving the system.
 
 With the arrival of distributed consensus technology, it is now possible to construct such provably self-governed protocols for marketplaces and online communication systems.
 
@@ -62,13 +62,13 @@ Bringing open marketplace technology to rideshare will unlock the advantages of 
 
 ![](<.gitbook/assets/64a723808cb80a7220e1e5de\_Network Effects and Competitive Moats.png>)
 
-When a networked service starts gaining users, its value proposition becomes stronger: more drivers on a rideshare application mean shorter wait times for riders, while more riders mean higher chances of drivers finding a fare nearby. This positive feedback loop is called a _network effect_, and it can fuel rapid growth of a new service.
+When a networked service starts gaining users, its value proposition becomes stronger: more drivers on a rideshare app mean shorter wait times for riders, while more riders mean higher chances of drivers finding a fare nearby. This positive feedback loop is called a _network effect_, and it can fuel rapid growth of a new service.
 
 This strength can also become a _moat_, deterring new entrants from competing in the same space. If a new rideshare service starts up, it'll struggle to attract enough drivers and passengers to achieve the same level of service efficiency unless it heavily invests in incentives to quickly build its user base.
 
 While network effects and moats are often used to justify high valuations for startups that are first to market, in reality, they rarely end up being the ultimate winners, and network effects are frequently disrupted by new entrants.
 
-Understanding how network effects are built was key to first building out the digital frontier. However, now that many markets have matured, it has become even more important to understand how network effects can be broken.
+Understanding how network effects are built was key to first building out the digital frontier. However, now that many markets have matured, it is even more important to understand how network effects can be broken.
 
 ### 2.2 Habit and Brand Recognition
 
@@ -76,7 +76,7 @@ Understanding how network effects are built was key to first building out the di
 
 Habit, brand recognition, and trust can create strong barriers to entry on their own, but they do not represent good examples of network effects. In the absence of a network effect, a formerly unknown but superior product with better customer experience and/or cheaper prices can still become a competitive threat by first serving a subgroup of users to build trust and brand recognition and then expanding from there.
 
-A moat in the network effect sense requires an advantage that doesn’t derive from the relationship of an individual with the product, but from advantages a service can only garner from having a larger numbers of users.
+A moat in the network effect sense requires an advantage that doesn’t derive from the relationship of an individual with the product, but from advantages a service can only garner from having a larger number of users.
 
 For users, the immediately tangible effects of network effects present in just two dimensions:
 
@@ -89,13 +89,19 @@ A moat only protects the incumbent if there is no "bridge": a contiguous and gro
 
 ![](<.gitbook/assets/64a723aa339568621e1b3e1b\_Your margin is my opportunitity.png>)
 
-While network effects provide the incumbent with an advantage, operational inefficiencies can nullify these advantages. Such operational inefficiencies can include:
+While network effects provide the incumbent with an advantage, operational inefficiencies can negate these advantages. Such operational inefficiencies can include:
 
 * A large headcount in the tens of thousands.
 * Excessive corporate debt.
 * High customer and driver acquisition cost.
 
 These unfavorable conditions are present in current rideshare incumbents.
+
+<figure><img src=".gitbook/assets/image-litepaper.png" alt=""><figcaption><p>Cost structure of rideshare on legacy rideshare services.</p></figcaption></figure>
+
+Cost structure of rideshare on legacy rideshare services.
+
+In[ TRIP Rideshare Economics 101](https://guides.trip.dev/newsletter/rideshare-economics-101) we further explore how the fares differ between legacy rideshare and the TRIP rideshare protocol.
 
 If a new system could establish itself with an initial audience and then grow, its higher operational efficiency would quickly become a threat to the established competition. As the new system grows, the relative advantage of the competition's network decreases, while its disadvantage in operational efficiency remains. This destructive cycle can rapidly become fatal for the outmaneuvered incumbent.
 
@@ -109,15 +115,15 @@ Rideshare companies have fought long and hard to classify their drivers as indep
 
 If all drivers and riders were to switch services at the same time, they could transition to a more free and fair system. However, such coordination has often been considered impossible.
 
+<figure><img src=".gitbook/assets/image-litepaper-2.png" alt=""><figcaption><p>Cost structure of rideshare on The Rideshare Protocol (TRIP).</p></figcaption></figure>
+
+Cost Structure of Rideshare on The Rideshare Protocol (TRIP)
+
 What is missing is a mechanism to coordinate this switch. We call a tool to enable such social coordination a "Bridge," because it can overcome the moat of a network effect.
 
-Instead of attempting to convince everyone to switch at the same time, a bridge provides an opportunity for those who switch first to help build and take on a larger role in the governance of the network. Voting power on the network is held by participation badges, known as TRIP Rewards, which we will describe in more detail later.
+Instead of attempting to convince everyone to switch at the same time, a bridge provides an opportunity for those who switch first to help build and take on a larger role in the governance of the network. Voting power on the network is held by TRIP Tokens, which we will describe in more detail later.
 
-A rideshare marketplace that is fairer, with the participants - not intermediaries - in control, is not just a better system. It also has the potential to become a social movement and spread like one.
-
-As more users switch, the risk of switching decreases, and the newly issued TRIP Rewards are spread out across a larger and increasingly more diverse user base. The earliest and most active users get a larger amount of the network’s voting power, but all active users have a say in the governance of the network. Eventually, the new solution becomes so influential that staying on the old platform becomes riskier than switching.
-
-At this point, the bridge has successfully facilitated the transition to the open network by helping users coordinate their actions.
+A rideshare marketplace that is fairer, with the participants - not middlemen - in control, is not just a better system. It also has the potential to become a social movement and spread like one.
 
 ## 3. Rules and Decisions
 
@@ -127,25 +133,29 @@ Marketplaces, even those located in town squares, have always been subject to ru
 
 Since a marketplace requires rules, the question of who creates those rules on a decentralized marketplace arises. While concentrating governance in a single company may work in the short term, monopolists are likely to abuse their power in the long term. The ideal scenario would be for the governance of the network to be in the hands of its most active participants. However, the most active participants on a network are constantly changing — new participants join and old participants leave.
 
-### 3.1 Self-Governance
+### 3.1 Self-Governance (TRIP Tokens)
 
-![](<.gitbook/assets/64a724ebdefc46e149bb3835\_Trip Cards.png>)
+![](<.gitbook/assets/Trip Cards.png>)
 
-The TRIP Network is governed by holders of TRIP Rewards. TRIP Rewards are instantiated as non-fungible or fungible tokens that represent participation and voting power in the network.
+The TRIP Network is governed by holders of TRIP Tokens. TRIP Tokens are fungible tokens that represent participation and voting power in the network. TRIP Tokens will be issued once the network is sufficiently decentralized and stable.
 
-General governance including protocol upgrades, changes to authorization-flow, the change of fundamental network parameters all require voting.
+General governance including protocol upgrades, changes to authorization-flow, the change of fundamental network parameters all require voting by the Token-holders.
 
-TRIP Rewards serve a variety of functions on the network: they help maintain a proper balance between supply and demand, ensure smooth operation of the network, and keep governance maximally decentralized and in the hands of the most active network participants.
+### 3.2 Network Incentives (TRIP Rewards)
 
-### 3.2 TRIP Reward Issuance
+<figure><img src=".gitbook/assets/trip reards.png" alt=""><figcaption></figcaption></figure>
+
+TRIP Rewards are digital collectibles that are issued to individuals as a reward for contributing to the health and growth of the network. Unlike TRIP Tokens they have no voting power and are not involved in the governance of the network.
+
+TRIP Rewards are represented as NFTs commemorating actions such as taking a first trip, inviting users, or riding in a new city, while others are issued to those who contribute the most to the network within a certain time span.
+
+### 3.3 Reward Issuance
 
 ![](<.gitbook/assets/64b94f8e2a2f9c5477fb1545\_Token Issuance.png>)
 
-TRIP Rewards are automatically issued by the protocol to acknowledge those who participate in operating and growing the network. Some TRIP Rewards might be represented as NFTs commemorating taking a first trip or riding in a new city, while others are issued to those who contribute the most to the network within a certain time span.
+One way to obtain TRIP Rewards is by participating in a weekly competition to contribute the most to the health and growth of the network. These weekly rewards are created on a fixed issuance schedule, with new weekly rewards minted in each epoch (7 days in block time) and automatically distributed to the most active network participants.
 
-One way to obtain TRIP Rewards is by participating in a weekly competition to contribute the most to the health and growth of the network. These cards are created on a fixed issuance schedule, with new cards minted in each epoch (7 days in block time) and automatically distributed to the most active network participants.
-
-A lot of different entities are required to make a ride happen:
+These rewards can go to all the different entities that are required to make a ride happen:
 
 * Drivers
 * Riders
@@ -153,70 +163,59 @@ A lot of different entities are required to make a ride happen:
 * Verifiers
 * Auditors
 * Operators
-* Client Companies (Mobile Application Developers)
+* Apps
 
-The TRIP protocol ensures that voting power is continuously rebalanced towards the subset of entities that are most actively contributing to making the TRIP Marketplace successful.
-
-### 3.3 Sybil Protection Fee
+### 3.4 Sybil Protection Fee
 
 ![](<.gitbook/assets/64a7250986c87c63f62500db\_Sybil Avoidance Mechanism.png>)
 
-In protocol design, a sybil attack is an attempt by an individual to gain influence over the network by creating multiple fake identities or transactions. For example, an attacker who controls both a rider and a driver could create many fake transactions between them to gain additional voting power on the TRIP Marketplace.
+In protocol design, a sybil attack is an attempt by an individual to manipulate the network by creating multiple fake identities or transactions.
 
-To prevent fake transactions and accounts from distorting the allocation of voting power, the protocol requires a sybil fee to be paid to the TRIP Marketplace from every transaction on the network. This fee is necessary for the transaction to be considered valid. Transactions are conducted in national currency stablecoins and we’ll go deeper into the payment flow in future sections.
+The TRIP protocol requires a sybil fee to be paid to the TRIP Marketplace on every transaction on the network. This fee is necessary for the transaction to be considered valid. Transactions are conducted in national currency stablecoins and we’ll go deeper into the payment flow in future sections.
 
-The TRIP Marketplace holds the Sybil fee, to be exclusively controlled by the network's governance.
+The TRIP Marketplace holds the Sybil fee, to be exclusively controlled by the network's governance (using TRIP Tokens).
 
-TRIP Reward holders have the ability to vote on the exact amount of sybil fee that must be paid, however if the sybil fee were to be removed or significantly lowered by vote, the network could quickly be hijacked by a hostile attacker capable of creating a large number of fake transactions. This demonstrates the critical importance of functioning governance for the operation of the network.
+In future iterations of the protocol, the USDC Sybil fee could also potentially be used to finance the automated acquisition of gas for the blockchain the protocol utilizes, as well as to facilitate the automated payment of other various blockchain operations.
 
-In future iterations of the protocol, the USDC Sybil fee could also potentially be used to finance the automated acquisition of gas for the blockchain the protocol utilizes, as well as to facilitate the automated payment of various other blockchain operations.
-
-### 3.4 Network Growth
+### 3.5 Network Growth
 
 ![](<.gitbook/assets/653143d6c2251d92a32a04bd\_Referral Rewards.png>)
 
 To create a decentralized rideshare marketplace that can compete with centralized rideshare companies, the network needs widespread adoption and a healthy balance of drivers (supply) and riders (demand).
 
-A key precondition for incentivizing adoption is to operate with lower overhead costs compared to centralized rideshare companies. By creating a network of local, lean rideshare companies powered by free open-source software, drivers can earn more and riders can pay less. Moreover, the fees paid to local rideshare companies will circulate in their respective local economies instead of being siphoned off to multinational corporations.
+A key condition for incentivizing adoption is to operate with lower overhead costs compared to centralized rideshare companies. By creating a network of local rideshare companies powered by free open-source software, drivers can earn more and riders can pay less. Moreover, the fees paid to these rideshare companies will circulate in their respective local economies instead of being siphoned off to multinational corporations.
 
-To accelerate network growth even further, the system also continuously issues additional voting power in the form of TRIP Reward to the most active and supportive participants. This additional issuance is called the balancing mechanism. Balancing helps repair supply and demand imbalances and ensures that control over network governance remains in the hands of the most actively contributing participants.
+To accelerate network growth even further, the system continuously issues TRIP Reward digital collectibles to the most active and supportive participants. This additional issuance is called the balancing mechanism.
 
-Users who refer other users (drivers or riders) are called Balancers. When a ride is completed, the system keeps track of all the entities involved in making the ride successful. All completed transactions on the network are counted towards this balancing mechanism.
+Users who invite other users (drivers or riders) to the network are called Balancers. When a ride is completed, the system keeps track of all the entities involved in making the ride successful. All completed transactions on the network are counted towards this balancing mechanism.
 
-New TRIP Reward are issued at the end of each epoch to all entities based on the amount of transaction volume they contributed to during that epoch.
+Balancers are especially involved in building community and helping other drivers, riders, and balancers understand the system and onboard into the system.
 
-### 3.5 Long-Term Governance
+New TRIP Rewards are issued at the end of each epoch to all entities based on the amount of transaction volume they contributed to during that epoch.
 
-![](.gitbook/assets/64a7258d66c17be352222749\_Chart.png)
+### 3.6 Decentralization
 
-To ensure that governance remains in the hands of those who do the most work on the network, the system locks all newly issued TRIP Reward and prevents immediate on-chain transfers. The parameters of this lock-up mechanism are automatic and cannot be changed except through protocol governance.
+Initially the protocol will be operated while relying on centralized development and operation.
 
-As the network matures, these protections become less necessary, and transfers become less disruptive to the network's success. There are two ways to measure the maturity of the network:
+Once a decentralization milestone has been achieved the governance of the network can be handed over to the community running the network by issuing TRIP Tokens.
 
-1. Time: As time passes, the network matures.
-2. Transaction Volume: The total transaction volume (in USDC) as a measure of the global adoption of the protocol.
+After decentralization has been achieved the protocol can be upgraded by the means of democratic governance by the network participants.
 
-Just as there is only one global email protocol (SMTP) and one global web protocol (HTTP), we believe that there will ultimately be only one global rideshare protocol (TRIP).
-
-Based on predictions of total future rideshare transaction volume ([$300 billion annually by 2030](https://www.globenewswire.com/news-release/2021/09/28/2304958/0/en/Ride-Sharing-Market-Size-to-Worth-Around-US-344-4-Bn-by-2030.html)), we can measure how far TRIP adoption has come based on annual transaction volume in USDC.
-
-A time-volume clock combines the measures of both time and transaction volume. This on-chain clock unlocks TRIP Rewards as time and transaction volume accumulate. If adoption happens faster than predicted, the unlock speed will accelerate. If adoption lags behind the predicted curve, the unlock will slow down, but it will never fall below the bounds set by the time-based unlock.
-
-### 3.6 Protocol Upgrades
+### 3.7 Protocol Upgrades
 
 ![](<.gitbook/assets/64a7259d6827ad3993e9bbc1\_Protocol Upgrades.png>)
 
-Future software upgrades for the TRIP Protocol will be adopted through governance mechanisms that use a decentralized proposal process. This process allows community members to actively shape the protocol's future, rather than a single organization or company controlling the network.
+Future software upgrades for the TRIP protocol will be adopted through governance mechanisms that use a decentralized proposal process. This process allows community members to actively shape the protocol's future, rather than a single organization or company controlling the network.
 
-We believe that a robust and fair governance structure is key to the protocol's success. TRIP Reward holders will have the ability to create and vote on proposals for protocol improvements. This decentralized approach ensures that the platform remains flexible and adaptive to the changing needs of its users, incorporating diverse perspectives and ideas.
+We believe that a robust and fair governance structure is key to the protocol's success. TRIP Token holders will have the ability to create and vote on proposals for protocol improvements. This decentralized approach ensures that the platform remains flexible and adaptive to the changing needs of its users, incorporating diverse perspectives and ideas.
 
 ## 4. Protocol Design
 
 The operation of the decentralized rideshare network involves the following entities:
 
-1. **Riders and Drivers** are **Users** who connect to the protocol to offer or request rides using **Rideshare Applications**. These apps are the equivalent of a web browser or email client.
+1. **Riders** and **Drivers** are **Users** who connect to the protocol to offer or request rides using **Rideshare Apps**. These apps are the equivalent of a web browser or email client.
 2. **Operators** handle the regulatory and operational requirements of providing rideshare service. They are powered by **Rideshare Server** software which is comparable to a web or email server. Depending on the applicable local regulatory framework, an Operator may serve as Transportation Network Company (TNC) or Transportation Network Provider (TNP) or Fleet Manager.
-3. **The TRIP Marketplace** consists of a set of blockchain smart contracts that offer coordination and consensus services to the rideshare network. These smart contracts are governed by a Decentralized Autonomous Organization (DAO) of TRIP Reward holders and help the network remain neutral and fair without having to rely on centralized authority.
+3. The **TRIP Marketplace** consists of a set of blockchain smart contracts that offer coordination and consensus services to the rideshare network. These smart contracts are governed by a Decentralized Autonomous Organization (DAO) of TRIP Token holders and help the network remain neutral and fair without having to rely on centralized authority.
 4. **Balancers** are network participants that help the TRIP Marketplace overcome supply/demand imbalances by inviting additional drivers and riders.
 5. **Verifiers** are entities who inspect driver licenses, perform car inspections, conduct background checks and verify phone numbers.
 6. **Auditors** are entities that are capable of confirming the legal and operational readiness of both Verifiers and Operators.
@@ -251,7 +250,7 @@ In order to comply with legal and regulatory requirements, maintain high safety 
 
 The TRIP Marketplace is democratically governed by network participants and holds ultimate authority on the network. Through voting on the TRIP Marketplace, the authority to make attestations can be temporarily and revocably delegated from the TRIP marketplace to dedicated Auditors and Verifiers.
 
-A Compliance Auditor is a firm or individual authorized by the governance of the TRIP Marketplace to verify that Operators and Verifiers are legally permitted and operationally capable of fulfilling their assigned roles on the network.
+An Auditor is a firm or individual authorized by the governance of the TRIP Marketplace to verify that Operators and Verifiers are legally permitted and operationally capable of fulfilling their assigned roles on the network.
 
 A Verifier is a service or entity that validates claims or assertions made by users or entities within the decentralized ecosystem. Verifiers play a crucial role in establishing trust and credibility when traditional centralized authorities are not present.
 
@@ -263,26 +262,26 @@ Verifiers must be in legal and operational compliance with all applicable regula
 
 Operators must obtain licenses and insurance, and be operationally prepared to comply with regulatory and safety requirements in each geography they wish to serve, before they can begin matching riders and drivers within those locations.
 
-To ensure that Verifiers and Operators are compliant with local regulation and operational requirements, the TRIP Marketplace votes to deputize **dedicated compliance auditing firms**. These firms receive authorization by multi-sig keys to sign off on the regulatory and operational readiness of Operators and Verifiers.
+To ensure that Verifiers and Operators are compliant with local regulation and operational requirements, the TRIP Marketplace votes to deputize dedicated auditing firms. These firms receive authorization by multi-sig keys to sign off on the regulatory and operational readiness of Operators and Verifiers.
 
 Once Operators and Verifiers have been approved by a majority multi-sig vote, they are publicly listed on the contract together with their public key and DNS address, as well as additional metadata such as geographic zones of operation.
 
 #### 4.4.2 Certificate-Based Authorization
 
-![](<.gitbook/assets/64a723e22fc942c93065fc7b\_Attestations (1).png>)
+![](.gitbook/assets/Attestations.png)
 
 While Operators and Verifiers are authorized on the blockchain, drivers and riders (users) are authenticated off-chain to preserve privacy and control.
 
-After a Verifier has completed the certificate-based authorization flow, t he user's rideshare application receives certificates that they can use to prove their authorization with a high level of precision and control. Types of authorizations include background checks, driver licenses, car inspections, and any other credentials required for legal operation.
+After a Verifier has completed the certificate-based authorization flow, the user's rideshare app receives certificates that they can use to prove their authorization with a high level of precision and control. Types of authorizations include background checks, driver licenses, car inspections, and any other credentials required for legal operation.
 
-For example, if a user’s rideshare application requires a certificate to prove that its phone number has been verified, they can contact a Verifier capable of providing that service. After the usual public key-based handshake described earlier, the Verifier then sends a text message with a code to the user’s phone number.
+For example, if a user’s rideshare app requires a certificate to prove that its phone number has been verified, they can contact a Verifier capable of providing that service. After the usual public key-based handshake described earlier, the Verifier then sends a text message with a code to the user’s phone number.
 
-After the user enters the correct code in either the ride share app or on a dedicated website, the phone number Verifier confirms that the phone number has been verified by transmitting two signed certificates to the user’s rideshare application:
+After the user enters the correct code in either the ride share app or on a dedicated website, the phone number Verifier confirms that the phone number has been verified by transmitting two signed certificates to the user’s rideshare app:
 
 1. A signed certificate stating that “\<Verifier PubKey> has established on \<Date> that \<User PubKey> has a valid phone number.”
 2. A signed certificate stating that “\<Verifier pubKey> has established on \<Date> that \<User PubKey> has a valid phone number, and that this phone number is +1 (415) 000-9999.”
 
-Having received two separate certificates, the user’s application is now in a position to choose whether to prove that their phone number has been verified, or that a specific phone number has been verified for their use, without having to resort to Zero Knowledge Proof techniques. Certificates have an expiration date and can be revoked through a certificate revocation list.
+Having received two separate certificates, the user’s app is now in a position to choose whether to prove that their phone number has been verified, or that a specific phone number has been verified for their use, without having to resort to Zero Knowledge Proof techniques. Certificates have an expiration date and can be revoked through a certificate revocation list.
 
 The user is now verified through the Verifier and can prove to any other entities that their phone number has been verified, without needing to disclose the phone number to other protocol participants.
 
@@ -308,9 +307,9 @@ The multiple redundancies in this process help ensure that rides established via
 
 Both riders and drivers can connect to all Operators that are licensed to operate in or near their current geographic region.
 
-Riders can query all applicable Operators for offers. Depending on local insurance, regulatory, and practical requirements, Drivers can be connected to and/or online with one or more Operators at the same time. Drivers can further instantly deactivate their active status with one Operator and switch to another. The specific policy and triggers for switching are up to the rideshare application, but most handovers are expected to happen organically without user intervention.
+Riders can query all applicable Operators for offers. Depending on local insurance, regulatory, and practical requirements, Drivers can be connected to and/or online with one or more Operators at the same time. Drivers can further instantly deactivate their active status with one Operator and switch to another. The specific policy and triggers for switching are up to the rideshare app, but most handovers are expected to happen organically without user intervention.
 
-For example, automatic switching from one Operator to another can occur when crossing state or country lines. Once the driver application crosses a service area border, the rideshare application will automatically become active with an Operator licensed in the newly entered state or country.
+For example, automatic switching from one Operator to another can occur when crossing state or country lines. Once the driver app crosses a service area border, the rideshare app will automatically become active with an Operator licensed in the newly entered state or country.
 
 In the United States the Interstate Commerce Clause (Article 1, Section 8, Clause 3 of the U.S. Constitution), the Full Faith and Credit Clause (Article 4, Section 1), and the Real Interstate Drivers’ Equity (RIDE) Act (48 U.S.C. 14501(d)) ensure that drivers can drop off customers in states other than the one where the initial pick-up contract was established.
 
@@ -318,9 +317,9 @@ In the United States the Interstate Commerce Clause (Article 1, Section 8, Claus
 
 ![](<.gitbook/assets/64b951f4a21e999ef4a6da5d\_Supply & Demand.png>)
 
-Once drivers and riders are connected and their credentials are validated by local Operator, drivers can indicate that they are available to accept rides (supply indication), and riders can request rides (demand indication).
+Once drivers and riders are connected and their credentials are validated by a local Operator, drivers can indicate that they are available to accept rides (supply indication), and riders can request rides (demand indication).
 
-After going active, the driver's rideshare application regularly updates the driver's location with its active Operator.
+After going active, the driver's rideshare app regularly updates the driver's location with its active Operator.
 
 #### 4.5.4 Matching & Pricing
 
@@ -334,13 +333,13 @@ Payments on the rideshare protocol (TRIP) are made using national currencies, su
 
 Bank transfers (ACH, FedWire) and credit card payment systems were originally designed between the 1910s and 1960s. As a result, they lack the necessary capabilities to fully interoperate with decentralized marketplaces designed in the 2020s. To bring the stability and security of national currencies, such as the US Dollar, to the rideshare network, TRIP utilizes stablecoins. Stablecoins are digital equivalents of national currencies that can be used on modern open, programmable protocols such as TRIP. One such stablecoin is USDC.
 
-In the context of the TRIP protocol, USDC or other stablecoins are used as modern payment rails for the US dollar. Most payments within the TRIP protocol are made in USDC, or in other countries, using comparable, well-regulated, local-market stablecoins. TRIP rideshare applications on mobile phones include software (a digital wallet) to directly store stablecoin balances. This gives users complete control over their funds without requiring any intermediaries or exposure to exchange rate risk.
+In the context of the TRIP protocol, USDC or other stablecoins are used as modern payment rails for the US dollar. Most payments within the TRIP protocol are made in USDC, or in other countries, using comparable, well-regulated, local-market stablecoins. TRIP rideshare apps on mobile phones include software (a digital wallet) to directly store stablecoin balances. This gives users complete control over their funds without requiring any intermediaries or exposure to exchange rate risk.
 
 #### 4.5.6 Payment
 
 ![](.gitbook/assets/64b9521770084959a678c513\_Payment.png)
 
-When booking a ride through a mobile application, users have several payment options. They can directly use USDC from their digital wallets, refill their digital wallets with the help of a licensed money transmitter, or pay a booking or aggregation agent by credit card or bank transfer to assist with the booking process.
+When booking a ride through a mobile app, users have several payment options. They can directly use USDC from their digital wallets, refill their digital wallets with the help of a licensed money transmitter, or pay a booking or aggregation agent by credit card or bank transfer to assist with the booking process.
 
 As soon as the customer begins searching for a ride, USDC funds that cover the ride are placed into an escrow program on the TRIP Marketplace.
 
@@ -352,7 +351,7 @@ Since the purchase of a ride by a customer is a normal e-commerce transaction, a
 
 If a customer wants to refill USDC for direct use in their non-custodial wallet, additional identity verification is required to comply with Anti-Money-Laundering (AML) and Know-Your-Customer (KYC) regulation.
 
-Drivers are always paid in USDC to their non-custodial USDC wallets. The developers of the iPhone and Android applications can work with licensed money transmitters to facilitate withdrawals to drivers' bank accounts via ACH.
+Drivers are always paid in USDC to their non-custodial USDC wallets. The developers of the iPhone and Android apps can work with licensed money transmitters to facilitate withdrawals to drivers' bank accounts via ACH.
 
 If the money transmitter accepts TRIP certificate credentials, it is possible that the driver background checks that were already conducted for passenger safety can be reused by the licensed money transmitters to facilitate ACH withdrawals.
 
@@ -370,13 +369,13 @@ Driver, Rider, and Operator ratings are optionally reported to a rating aggregat
 
 ![](<.gitbook/assets/64b952f43cfc3d833a9bb908\_Dispute Resolution (1).png>)
 
-Operators are responsible for the trips they facilitate and are required to conduct background checks on both riders and drivers before facilitating a match. The TRIP Protocol enforces this by ensuring that both Operator and the driver/rider they are matched with are licensed, insured, permitted to operate in their geographic target area, and have passed a background check.
+Operators are responsible for the trips they facilitate and are required to conduct background checks on both riders and drivers before facilitating a match. The TRIP protocol enforces this by ensuring that both Operator and the driver/rider they are matched with are licensed, insured, permitted to operate in their geographic target area, and have passed a background check.
 
-Operators who operate using the TRIP Protocol are subject to the same requirements as any other rideshare operator. This includes full compliance with all applicable local regulations and laws, handling customer support requests, and cooperating with law enforcement. Operators also have the final say in resolving disputes and issuing refunds, in compliance with applicable laws and regulations.
+Operators who operate using the TRIP protocol are subject to the same requirements as any other rideshare operator. This includes full compliance with all applicable local regulations and laws, handling customer support requests, and cooperating with law enforcement. Operators also have the final say in resolving disputes and issuing refunds, in compliance with applicable laws and regulations.
 
-To join the network, Operator must establish mechanisms for registering and responding to customer requests and complaints. This process is validated by dedicated compliance auditing firms that review their applications before verifying them via on-chain authorization.
+To join the network, Operators must establish mechanisms for registering and responding to customer requests and complaints. This process is validated by dedicated compliance auditing firms that review their apps before verifying them via on-chain authorization.
 
-Operators that underdeliver on customer support, provide bad estimated times of arrival (ETAs), or are negligent of their duties to comply with safety regulations and ensuring the well-being of drivers and riders will be penalized by the TRIP Marketplace or even removed from the network.
+Operators that underdeliver on customer support, provide bad estimated times of arrival (ETAs), or are negligent of their duties to comply with safety regulations and ensure the well-being of drivers and riders will be penalized by the TRIP Marketplace or even removed from the network.
 
 Increased competition, closely tracked ratings, and enforcement of high standards by The TRIP Marketplace compel Operators to deliver higher-quality service. Unlike in a centralized monopoly, riders and drivers have plenty of alternative options to choose from.
 
@@ -396,4 +395,6 @@ In this paper, we’ve introduced **TRIP**, The Rideshare Protocol, an open and 
 
 With slight modifications, this approach could be applied to a broad range of online marketplaces. As the field develops, we expect that many of the necessary components we’re developing will become interoperable across various protocols. A lot of what we have pioneered with TRIP will also be relevant to developers of future decentralized food delivery, courier service, vacation rental, and auction marketplaces. Some of these marketplace functions could potentially even be served by extensions of the TRIP Marketplace framework.
 
-We welcome feedback and contributions and are looking forward to the launch of the first TRIP services, servers, and mobile applications.
+We welcome feedback and contributions and are looking forward to the launch of the first TRIP services, servers, and mobile apps.
+
+\
