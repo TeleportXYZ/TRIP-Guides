@@ -43,4 +43,4 @@ Yes. One of the reasons prices on TRIP are fairer is that multiple Operators can
 
 #### How do I get started?
 
-The process will require you to get a license from your state, country, or municipality, and get all the required insurance. An auditor will then validate that your business is capable of and permitted to operate. Next, [fill in this form](https://44kus966t0o.typeform.com/to/YFyZeLuy), and someone from the TRIP core team can help you set up the rideshare server so your company can get ready to operate.
+The process will require you to get a license from your state, country, or municipality, and get all the required insurance. An auditor will then validate that your business is capable of and permitted to operate. Next, [fill in this form](https://teleportxyz.typeform.com/to/YFyZeLuy?typeform-source=44kus966t0o.typeform.com), and someone from the TRIP core team can help you set up the rideshare server so your company can get ready to operate.
