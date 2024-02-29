@@ -1,6 +1,6 @@
 # Litepaper
 
-<figure><img src=".gitbook/assets/header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/header (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 1. Introduction
 
