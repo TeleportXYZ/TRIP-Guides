@@ -1,6 +1,6 @@
 # Litepaper
 
-<figure><img src=".gitbook/assets/64639fff2e8a545ddc0ca466_logolockup2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/header.png" alt=""><figcaption></figcaption></figure>
 
 ## 1. Introduction
 
