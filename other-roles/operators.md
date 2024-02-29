@@ -4,8 +4,7 @@
 
 An Operator handles the regulatory and operational requirements of providing rideshare service.
 
-[\
-](https://private-user-images.githubusercontent.com/159361266/303765575-b3fa8637-ac99-4302-89ef-fbbf96789ab4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc5MjY5MjUsIm5iZiI6MTcwNzkyNjYyNSwicGF0aCI6Ii8xNTkzNjEyNjYvMzAzNzY1NTc1LWIzZmE4NjM3LWFjOTktNDMwMi04OWVmLWZiYmY5Njc4OWFiNC5wbmc\_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIxNFQxNjAzNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZjI4MmE0Mzk4OGVlZDVmZmY1ZjVjMDcxOTc4ZGJhNTExMGQ0MzgxMDI0YjRkZDYwZGUxNGM5MmFhMDdhNGQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.lw1b9ou9tJfQN-hds-TdKd4JPuabR\_nilPHdQBdjHiQ)![](<../.gitbook/assets/image (8).png>)
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **What are the requirements of an Operator?**
 
