@@ -151,7 +151,7 @@ TRIP Rewards are represented as NFTs commemorating actions such as taking a firs
 
 ### 3.3 Reward Issuance
 
-![](<.gitbook/assets/64b94f8e2a2f9c5477fb1545\_Token Issuance.png>)
+![](<.gitbook/assets/Token Issuance (1).png>)
 
 One way to obtain TRIP Rewards is by participating in a weekly competition to contribute the most to the health and growth of the network. These weekly rewards are created on a fixed issuance schedule, with new weekly rewards minted in each epoch (7 days in block time) and automatically distributed to the most active network participants.
 
@@ -244,7 +244,7 @@ The TRIP Marketplace is a set of smart contracts that run on a blockchain. It pr
 
 ### 4.4 Network Authorization
 
-![](.gitbook/assets/64b95084d47b58e50a2bd1e3\_Authorization.png)
+![](<.gitbook/assets/Authorization (1).png>)
 
 In order to comply with legal and regulatory requirements, maintain high safety standards, and ensure customer satisfaction, all rideshare network participants must undergo an authorization process appropriate for their role before being granted access to the network.
 
@@ -337,7 +337,7 @@ In the context of the TRIP protocol, USDC or other stablecoins are used as moder
 
 #### 4.5.6 Payment
 
-![](.gitbook/assets/64b9521770084959a678c513\_Payment.png)
+![](.gitbook/assets/Payment.png)
 
 When booking a ride through a mobile app, users have several payment options. They can directly use USDC from their digital wallets, refill their digital wallets with the help of a licensed money transmitter, or pay a booking or aggregation agent by credit card or bank transfer to assist with the booking process.
 
@@ -367,7 +367,7 @@ Driver, Rider, and Operator ratings are optionally reported to a rating aggregat
 
 #### 4.5.8 Dispute Resolution
 
-![](<.gitbook/assets/64b952f43cfc3d833a9bb908\_Dispute Resolution (1).png>)
+![](<.gitbook/assets/Dispute Resolution.png>)
 
 Operators are responsible for the trips they facilitate and are required to conduct background checks on both riders and drivers before facilitating a match. The TRIP protocol enforces this by ensuring that both Operator and the driver/rider they are matched with are licensed, insured, permitted to operate in their geographic target area, and have passed a background check.
 
