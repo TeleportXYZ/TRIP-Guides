@@ -2,7 +2,7 @@
 
 ## **Insurance Coverage**
 
-The following insurance coverage on behalf of you in the state of Texas\*
+Here's how insurance coverage works today in the state of Texas.
 
 ### **Offline Coverage**
 
@@ -14,11 +14,12 @@ When you're not driving for the service, your own personal auto insurance applie
 * Property damage coverage up to $25,000 per accident.
 * Coverage is contingent on the excess liability of your personal auto insurance
 
-### **During a Trip or Heading to Pick Up a Passenger**
+### **During a Trip or Driving to Pick Up a Passenger**
 
-* Third-party damages compliant with Texas TNC guidelines
+* Third-party damages compliant with Texas TNC guidelines.
 * Your vehicle repair costs are covered up to its actual cash value of $50,000, with a deductible of $2,500, contingent on your personal policy including comprehensive and collision coverage.
 
+### Insurance Policy Holder
 
+The insurance policy is held by Emory Peak, a TRIP Operator approved in the state of Texas.
 
-_\*Coverage is provided by Teleport or a local affiliate_
