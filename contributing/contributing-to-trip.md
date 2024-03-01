@@ -64,7 +64,7 @@ Anything you can do to make issues more succinct or easier to understand helps f
 
 #### Commenting on Change Requests
 
-You can also help out by examining change requests that have been submitted to TRIP via [GitBook](https://gitbook.com/). You'll need to create a (free) GitBook account to comment on existing change requests, create a new Guide, or edit an existing one.
+You can also help out by examining change requests that have been submitted to TRIP via [GitBook](https://app.gitbook.com/invite/0WSd8UiSeH2xhfJrSbUr/YFiygcuBiy7oN3WJyDRs). You'll need to [create a (free) GitBook account](https://app.gitbook.com/invite/0WSd8UiSeH2xhfJrSbUr/YFiygcuBiy7oN3WJyDRs) to comment on existing change requests, create a new Guide, or edit an existing one.
 
 Here are some things to think about when commenting on change requests:
 
@@ -84,18 +84,18 @@ If your comment simply reads "+1", then odds are that other reviewers aren't goi
 
 ### More Ways to Contribute to TRIP
 
-TRIP has two main sets of documentation: TRIP Guides, which help you learn about TRIP in general, and the TRIP Report, which serves as a newsletter on what's happening on the TRIP protocol.
+TRIP has two main sets of documentation: TRIP Guides, which help you learn about TRIP in general, and the TRIP Newsletter, which serves as a newsletter on what's happening on the TRIP protocol.
 
 You can also propose improvements to the [TRIP Site](https://www.trip.dev/) or even the [TRIP Litepaper](https://guides.trip.dev/litepaper) itself.
 
-You can help improve the Guides, Report, Site, or Litepaper by making them more coherent, consistent, or readable, adding missing information, correcting factual errors, fixing typos, or bringing them up to date with the latest understanding of TRIP.
+You can help improve the Guides, Newsletter, Site, or Litepaper by making them more coherent, consistent, or readable, adding missing information, correcting factual errors, fixing typos, or bringing them up to date with the latest understanding of TRIP.
 
-To do so, click Edit in GitBook to open a new change request. Once you've opened a new change request, you can make edits and request a review of them to get your changes merged into the documentation.
+To do so, click Edit in GitBook to [open a new change request](https://docs.gitbook.com/content-editor/editor/change-requests). Once you've opened a new change request, you can make edits and request a review of them to get your changes merged into the documentation.
 
 When working with documentation, please take into account the:&#x20;
 
 * [Guides Guidelines](https://guides.trip.dev/contributing/guides-guidelines)
-* [Report Guidelines](https://guides.trip.dev/contributing/report-guidelines)
+* [Newsletter Guidelines](https://guides.trip.dev/contributing/newsletter-guidelines)
 * [Website Guidelines](https://guides.trip.dev/contributing/website-guidelines)
 * [Litepaper Guidelines](https://guides.trip.dev/contributing/litepaper-guidelines)
 
@@ -125,7 +125,7 @@ Additionally, we recommend using [Hemingway](https://hemingwayapp.com/) to impro
 
 #### Commit Your Changes
 
-When you're happy with your writing, you need to request a review of your change request in GitBook.
+When you're happy with your writing, you need to [request a review of your change request](https://docs.gitbook.com/content-editor/editor/change-requests#request-a-review-on-a-change-request) in GitBook.
 
 Before you request a review of your change request in GitBook, write a commit message for it in GitBook. The commit message should include a clear title and a link to the related GitHub issue.
 
