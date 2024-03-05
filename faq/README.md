@@ -479,23 +479,23 @@ We will use the best tools available to achieve our mission quickly and effectiv
 
 We welcome community members making rigorous arguments as to why we should use specific technologies. We are receptive to arguments that speak to achieving our mission.
 
-### Is the app built with web3 technology?
+### Is the app built with onchain technology?
 
 Yes, the app is built on the Solana blockchain.
 
-#### **What is web3, and how does it help users?**
+#### **What is onchain technology, and how does it help users?**
 
-web3 is a label that’s used to describe a new set of applications for the internet.
+Onchain is a label that’s used to describe a new set of applications for the internet.
 
-web3 projects typically use decentralization, blockchains, and tokens in useful ways.
+Onchain projects typically use decentralization, blockchains, and tokens in useful ways.
 
-In our case, web3 allows you to pay less for rides. And for your driver to earn more.
+In our case, our use of onchain technology allows you to pay less for rides. And for your driver to earn more.
 
-#### **Do I need to know anything about web3 to use the app?**
+#### **Do I need to know anything about onchain technology to use the app?**
 
-No, you don’t need to know anything about web3 to use the app.
+No, you don’t need to know anything about onchain technology to use the app.
 
-#### Will you add support for my favorite web3 technology?
+#### Will you add support for my favorite onchain technology?
 
 Our mission is to free the rideshare market so that drivers earn more and riders pay less.
 

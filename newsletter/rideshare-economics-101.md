@@ -16,7 +16,7 @@ Traditional rideshare companies spend a lot on recruiting riders and drivers, am
 
 Our approach is different. With our approach, we spend almost nothing on recruiting. And we remove many of the extra costs traditional rideshare companies face.
 
-Instead, we use web3 rewards to motivate early adopters to recruit new users. Lots of new users. And as well, we use web3 rewards to motivate users to help operate TRIP around the world.
+Instead, we use onchain rewards to motivate early adopters to recruit new users. Lots of new users. And as well, we use onchain rewards to motivate users to help operate TRIP around the world.
 
 The result? We save money. A lot of it. And we split those savings between you and your driver. You pay less for your ride. A lot less. And your driver takes home more. Much more.
 
@@ -80,7 +80,7 @@ And TRIP is able to do so without sacrificing your experience as a rider.
 
 How does TRIP solve this?
 
-It’s because of TRIP’s web3 rewards and how they work:
+It’s because of TRIP’s onchain rewards and how they work:
 
 1. If you refer others to TRIP, you earn TRIP Rewards.
 2. To some people, TRIP Rewards are as attractive, if not more so, than cash bonuses.
