@@ -6,31 +6,31 @@ Driving with TRIP, you get paid in USD Coin (or USDC).&#x20;
 
 To convert your USDC into cash in your bank account, you need two things:&#x20;
 
-* A free web3 wallet
-* A free account on a web3 exchange.&#x20;
+* A free onchain wallet
+* A free account on a onchain exchange.&#x20;
 
-The web3 wallet allows you to send your USDC to a web3 exchange.
+The onchain wallet allows you to send your USDC to a onchain exchange.
 
-The web3 exchange allows you to send your USDC to your bank account.
+The onchain exchange allows you to send your USDC to your bank account.
 
 In this guide, you'll learn how to set both of these up and cash out your earnings.
 
-### Creating your web3 wallet
+### Creating your onchain wallet
 
-If you have an existing web3 wallet, you can use that.
+If you have an existing onchain wallet, you can use that.
 
-If you don't, we recommend creating a web3 wallet with [Ottr](https://ottr.finance/).
+If you don't, we recommend creating a onchain wallet with [Ottr](https://ottr.finance/).
 
 To create your Ottr wallet:
 
 1. Download the Ottr iOS app [(click here)](https://apps.apple.com/us/app/ottr-wallet/id1628669270).
 2. In the app, follow the onboarding steps to create your wallet.
 
-### Creating your web3 exchange account
+### Creating your onchain exchange account
 
-If you have an existing web3 exchange account, you can use that.
+If you have an existing onchain exchange account, you can use that.
 
-If you don't, we recommend [Coinbase](https://coinbase.com/) for your web3 exchange.
+If you don't, we recommend [Coinbase](https://coinbase.com/) for your onchain exchange.
 
 To create your Coinbase account:
 
@@ -50,9 +50,9 @@ When prompted to add your bank account, go ahead and add that now. That way, you
 
 ### Cashing Out
 
-With your web3 wallet and web3 exchange accounts created, you're now ready to cash out.
+With your onchain wallet and onchain exchange accounts created, you're now ready to cash out.
 
-**To send your earnings from Teleport to your web3 wallet:**
+**To send your earnings from Teleport to your onchain wallet:**
 
 1. Open the Teleport App and tap **Profile** in the bottom menu bar.
 2. Tap the green **Wallet** button in the top right of the screen.
@@ -60,7 +60,7 @@ With your web3 wallet and web3 exchange accounts created, you're now ready to ca
 4. Within the Ottr app, tap the wallet in the top middle. Then tap **Import Wallet**.
 5. Paste in your secret phrase and tap **Import Wallet** again. You should see your earnings.
 
-**To send your earnings from your web3 wallet to your web3 exchange account:**
+**To send your earnings from your onchain wallet to your onchain exchange account:**
 
 1. Next within the Coinbase app, click **Send & Receive.** Then click **Receive.**
 2. Select **USD Coin** at the top. Switch the **Network** to Solana.
