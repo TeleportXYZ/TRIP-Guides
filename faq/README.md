@@ -483,17 +483,17 @@ We welcome community members making rigorous arguments as to why we should use s
 
 Yes, the app is built on the Solana blockchain.
 
-#### **What is onchain, and how does it help users?**
+#### **What is onchain technology, and how does it help users?**
 
-onchain is a label that’s used to describe a new set of applications for the internet.
+Onchain is a label that’s used to describe a new set of applications for the internet.
 
-onchain projects typically use decentralization, blockchains, and tokens in useful ways.
+Onchain projects typically use decentralization, blockchains, and tokens in useful ways.
 
-In our case, onchain allows you to pay less for rides. And for your driver to earn more.
+In our case, our use of onchain technology allows you to pay less for rides. And for your driver to earn more.
 
-#### **Do I need to know anything about onchain to use the app?**
+#### **Do I need to know anything about onchain technology to use the app?**
 
-No, you don’t need to know anything about onchain to use the app.
+No, you don’t need to know anything about onchain technology to use the app.
 
 #### Will you add support for my favorite onchain technology?
 
