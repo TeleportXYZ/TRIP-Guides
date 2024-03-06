@@ -14,6 +14,7 @@
 ## Balancers
 
 * [Balancer Basics](balancers/guide-basics.md)
+* [Signup Progress](balancers/signup-progress.md)
 
 ## Explorer
 
