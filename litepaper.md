@@ -18,7 +18,7 @@ TRIP lets small rideshare companies work together. They can then form a global n
 
 <figure><img src=".gitbook/assets/64a71142870b4648f6410f68_Centralized.png" alt=""><figcaption></figcaption></figure>
 
-Rideshare connects drivers with nearby riders. It makes transportation safe, fast, comfortable, and affordable .
+Rideshare connects drivers with nearby riders. It makes transportation safe, fast, comfortable, and affordable.
 
 The key actors in rideshare are **Drivers** and **Riders**. The rider can provide their location and destination via a **Rideshare App** on their phone. A **Rideshare Company** then looks for nearby drivers who are similarly connected to the app.
 
@@ -325,7 +325,7 @@ After going active, the driver's rideshare app regularly updates the driver's lo
 
 ![](<.gitbook/assets/64b952051d007fdfdf5a50b9\_Matching\&Pricing (1).png>)
 
-When an Operator with active drivers receives a ride request from an eligible rider it checks the location of nearby drivers and uses its internal pricing engine to prepare an offer to both drivers and riders. Offers include both pricing and ETA estimates. Drivers get offers only from their active Operator, but riders get offers from all validated and licensed Operator in the geographic area. The pricing offers to both drivers and riders need to be mutually accepted before a trip is established. All pricing information and the take-rate of all involved entities is fully transparent to all participants.
+When an Operator with active drivers receives a ride request from an eligible rider it checks the location of nearby drivers and uses its internal pricing engine to prepare an offer to both drivers and riders. Offers include both pricing and ETA estimates. Drivers get offers only from their active Operator, but riders get offers from all validated and licensed Operators in the geographic area. The pricing offered to both drivers and riders need to be mutually accepted before a trip is established. All pricing information and the take-rate of all involved entities is fully transparent to all participants.
 
 #### 4.5.5 Payment Rails
 
