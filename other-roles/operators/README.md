@@ -4,7 +4,7 @@
 
 An Operator handles the regulatory and operational requirements of providing rideshare service.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **What are the requirements of an Operator?**
 
@@ -27,7 +27,7 @@ Operators who operate using the TRIP protocol are subject to the same requiremen
 
 #### **What is the benefit of becoming an Operator?**
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Operators connect drivers and riders and get compensated with a percentage of fares, as well as network rewards issued by the protocol.
 

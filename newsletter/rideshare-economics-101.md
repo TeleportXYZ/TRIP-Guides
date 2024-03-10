@@ -196,7 +196,7 @@ Together, we will free the rideshare market once and for all.
 Carpe Viam.
 
 {% hint style="info" %}
-### Whenever you're ready, there are 4 ways to get more involved:
+#### Whenever you're ready, there are 4 ways to get more involved:
 
 1. [Download the App](https://apps.apple.com/us/app/teleport-request-a-ride/id1607881031): Ride and drive on the TRIP network with the Teleport app. Teleport is available on iOS. We don’t have a release date for Android we can share yet but it’s important to us and on our radar. [Join the waitlist here](https://www.teleport.xyz/waitlist).
 2. [Join the TRIP Community](https://trip.dev/chat): Join 1,331+ members and get exclusive tips, strategies, and resources to help you free your local rideshare market so that riders pay less, drivers earn more and early adopters get rewarded.
