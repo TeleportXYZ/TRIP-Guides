@@ -14,6 +14,8 @@ After reading this guide, you will know:
 
 Each guide should start with motivational text at the top (that's the little introduction in the blue area). The prologue should tell the reader what the guide is about, and what they will learn.
 
+In GitBook these are called [Hints](https://docs.gitbook.com/content-editor/blocks/hint).
+
 ## Show Don't Tell
 
 "Showing" is stating how TRIP works today. "Telling" is stating how TRIP will work in the future.
@@ -41,6 +43,24 @@ Coinbase has done a lot of [consumer research](https://twitter.com/jessepollak/s
 Therefore avoid using blockchain, web3, crypto, NFT, etc. where possible. Words like blockchain and NFT are ok to use where technical implementation details must be discussed. That said, consider if that content can be reworked to not reference them.
 
 For example, refer to "digital collectibles" instead of NFTs.
+
+## Footer
+
+At the end of each guide include a Hint section like this:
+
+{% hint style="info" %}
+#### Feedback
+
+You're encouraged to help improve the quality of this guide.
+
+Please contribute if you see any typos or factual errors. To get started, you can read our [Contributing to TRIP](https://guides.trip.dev/contributing/contributing-to-trip) section.
+
+You may also find incomplete content or stuff that is not up to date. Please do add any missing content by [creating a free account in GitBook](https://app.gitbook.com/invite/0WSd8UiSeH2xhfJrSbUr/YFiygcuBiy7oN3WJyDRs). Check the [TRIP Guides Guidelines](https://guides.trip.dev/contributing/guides-guidelines) for style and conventions.
+
+If for whatever reason you spot something to improve but cannot do it yourself, please [open an issue](https://github.com/TeleportXYZ/TRIP-Guides/issues/).
+
+And last but not least, any kind of discussion regarding TRIP documentation is very welcome in the [official TRIP Community on Telegram](https://trip.dev/chat).
+{% endhint %}
 
 ## Headings
 
