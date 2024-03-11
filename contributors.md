@@ -1,5 +1,6 @@
 # Contributors
 
+* Ryan Woosley
 * Daniel Paulino
 * Harry Whelchel
 * Matt Brigante
