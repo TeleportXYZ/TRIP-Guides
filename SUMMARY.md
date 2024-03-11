@@ -28,8 +28,8 @@
 ## Other Roles
 
 * [Operators](other-roles/operators/README.md)
-  * [Caribbean](other-roles/operators/caribbean/README.md)
-    * [Dominican Republic](other-roles/operators/caribbean/dominican-republic.md)
+  * [North America](other-roles/operators/north-america/README.md)
+    * [Dominican Republic](other-roles/operators/north-america/dominican-republic.md)
 * [Verifiers](other-roles/verifiers.md)
 * [Apps](other-roles/apps.md)
 * [Auditors](other-roles/auditors.md)
