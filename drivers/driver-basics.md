@@ -23,6 +23,11 @@ When you're not driving for the service, your own personal auto insurance applie
 
 The insurance policy is held by Emory Peak, a TRIP Operator approved in the state of Texas.
 
+## Driver Cancelations
+
+* **Driver en route to pickup:** While en route to the rider, the rider can cancel the ride for a full refund.
+* **After pickup:** The driver is unable to cancel the ride. To end the ride, the driver must complete the ride and will receive their full payment.
+
 {% hint style="info" %}
 #### Feedback
 
