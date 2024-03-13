@@ -1,7 +1,7 @@
 # Explorer Basics
 
 {% hint style="info" %}
-This guide documents the basics of using the TRIP Explorer.
+This guide documents the basics of using the [TRIP Explorer](https://explorer.trip.dev/).
 
 The TRIP Explorer is a useful tool to visualize the growth of the TRIP protocol.
 
