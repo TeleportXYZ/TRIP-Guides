@@ -27,7 +27,7 @@
 
 ## Other Roles
 
-* [Operators](other-roles/operators/README.md)
+* [Operators](other-roles/operators.md)
   * [North America](other-roles/operators/north-america/README.md)
     * [Dominican Republic](other-roles/operators/north-america/dominican-republic.md)
 * [Verifiers](other-roles/verifiers.md)
