@@ -27,8 +27,10 @@
 ## Other Roles
 
 * [Operators](other-roles/operators.md)
-  * [North America](other-roles/operators/north-america/README.md)
-    * [Dominican Republic](other-roles/operators/north-america/dominican-republic.md)
+  * [North America](other-roles/operators/caribbean/README.md)
+    * [Dominican Republic](other-roles/operators/caribbean/dominican-republic.md)
+  * [South America](other-roles/operators/south-america/README.md)
+    * [Uruguay](other-roles/operators/south-america/uruguay.md)
 * [Verifiers](other-roles/verifiers.md)
 * [Apps](other-roles/apps.md)
 * [Auditors](other-roles/auditors.md)
