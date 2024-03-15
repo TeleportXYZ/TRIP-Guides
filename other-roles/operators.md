@@ -1,5 +1,9 @@
 # Operators
 
+{% hint style="info" %}
+**Note:** The TRIP protocol is not fully decentralized at this time. Demonstrating Operator eligibility does not guarantee you will be added to the network. Guidance will be provided when the network is ready for more Operators.
+{% endhint %}
+
 ## **What is an Operator?**
 
 An Operator handles the regulatory and operational requirements of providing rideshare service.
