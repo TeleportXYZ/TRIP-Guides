@@ -35,10 +35,6 @@
 * [Apps](other-roles/apps.md)
 * [Auditors](other-roles/auditors.md)
 
-## Website
-
-* [Website Basics](website/website-basics.md)
-
 ## Contributing
 
 * [Contributing to TRIP](contributing/contributing-to-trip.md)
