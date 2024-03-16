@@ -40,7 +40,6 @@
 * [Contributing to TRIP](contributing/contributing-to-trip.md)
 * [Guides Guidelines](contributing/guides-guidelines.md)
 * [Newsletter Guidelines](contributing/newsletter-guidelines.md)
-* [Litepaper Guidelines](contributing/litepaper-guidelines.md)
 
 ***
 
