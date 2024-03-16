@@ -23,6 +23,8 @@ For example, if a driver provides a driver's license, a verifier inspects the li
 
 Verifiers not only inspect driver licenses they also perform car inspections, conduct background checks and verify phone numbers.
 
+<figure><img src="../.gitbook/assets/Attestations (1).png" alt=""><figcaption></figcaption></figure>
+
 Once a verifier has validated an assertion, they provide a cryptographic attestation (think stamp of approval) that the assertion is true.
 
 Therefore, verifiers play a crucial role in establishing trust and credibility when traditional centralized authorities are not present.

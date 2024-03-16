@@ -17,6 +17,8 @@ After reading this guide, you will know:
 
 ## What is an Auditor
 
+<figure><img src="../.gitbook/assets/Authorization (2).png" alt=""><figcaption></figcaption></figure>
+
 An Auditor is a firm or individual authorized by the governance of the TRIP Marketplace to verify that Operators and Verifiers are legally permitted and operationally capable of fulfilling their assigned roles on the network.
 
 ## How to become an Auditor

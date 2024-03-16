@@ -17,6 +17,8 @@ After reading this guide, you will know:
 
 ## What is an App
 
+<figure><img src="../.gitbook/assets/spaces_NwtZr1A5O8eLe1w4Pmm4_uploads_awEiVViUMOZYiLSG9Ubs_TRIP Deck_MB Harry 3.webp" alt=""><figcaption></figcaption></figure>
+
 An app is a software client that allows riders and drivers to access the TRIP protocol.
 
 Think of a web browser like Chrome that allows you to access the internet or a mail app like Gmail that allows you to send and receive email.
