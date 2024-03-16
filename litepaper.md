@@ -373,7 +373,7 @@ Operators are responsible for the trips they facilitate and are required to cond
 
 Operators who operate using the TRIP protocol are subject to the same requirements as any other rideshare operator. This includes full compliance with all applicable local regulations and laws, handling customer support requests, and cooperating with law enforcement. Operators also have the final say in resolving disputes and issuing refunds, in compliance with applicable laws and regulations.
 
-To join the network, Operators must establish mechanisms for registering and responding to customer requests and complaints. This process is validated by dedicated compliance auditing firms that review their apps before verifying them via on-chain authorization.
+To join the network, Operators must establish mechanisms for registering and responding to customer requests and complaints. This process is validated by dedicated compliance auditing firms that review their applications before verifying them via on-chain authorization.
 
 Operators that underdeliver on customer support, provide bad estimated times of arrival (ETAs), or are negligent of their duties to comply with safety regulations and ensure the well-being of drivers and riders will be penalized by the TRIP Marketplace or even removed from the network.
 
