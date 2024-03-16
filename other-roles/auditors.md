@@ -1,13 +1,38 @@
 # Auditors
 
 {% hint style="info" %}
+This guide documents the basics of TRIP Auditors.
+
+Auditors confirm the legal and operational readiness of Operators and Verifiers.
+
+After reading this guide, you will know:
+
+* What is an Auditor.
+* How to become an Auditor.
+{% endhint %}
+
+{% hint style="info" %}
 **Note:** The TRIP protocol is not fully decentralized at this time. Demonstrating Auditor eligibility does not guarantee you will be added to the network. Guidance will be provided when the network is ready for more Auditors.
 {% endhint %}
 
-**This page is empty.** You can help by:
+## What is an Auditor
 
-1. Contributing to the [related issue](https://github.com/TeleportXYZ/TRIP-Guides/issues/9) in GitHub.
-2. Commenting on a related change request in [GitBook](https://app.gitbook.com/invite/0WSd8UiSeH2xhfJrSbUr/YFiygcuBiy7oN3WJyDRs) if it exists.
-3. If no change request exists, creating your own and contributing to this page.
+An Auditor is a firm or individual authorized by the governance of the TRIP Marketplace to verify that Operators and Verifiers are legally permitted and operationally capable of fulfilling their assigned roles on the network.
 
-NOTE: GitHub and GitBook are both free to sign up for and to use.
+## How to become an Auditor
+
+As mentioned above, the TRIP protocol is not fully decentralized at this time. Demonstrating Auditor eligibility does not guarantee you will be added to the network. Guidance will be provided when the network is ready for more Auditors.
+
+{% hint style="info" %}
+#### Feedback
+
+You're encouraged to help improve the quality of this guide.
+
+Please contribute if you see any typos or factual errors. To get started, you can read our [Contributing to TRIP](https://guides.trip.dev/contributing/contributing-to-trip) section.
+
+You may also find incomplete content or stuff that is not up to date. Please do add any missing content by [creating a free account in GitBook](https://app.gitbook.com/invite/0WSd8UiSeH2xhfJrSbUr/YFiygcuBiy7oN3WJyDRs). Check the [TRIP Guides Guidelines](https://guides.trip.dev/contributing/guides-guidelines) for style and conventions.
+
+If for whatever reason you spot something to improve but cannot do it yourself, please [open an issue](https://github.com/TeleportXYZ/TRIP-Guides/issues/).
+
+And last but not least, any kind of discussion regarding TRIP documentation is very welcome in the [official TRIP Community on Telegram](https://trip.dev/chat).
+{% endhint %}
