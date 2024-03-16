@@ -10,6 +10,17 @@ After reading this guide, you will know:
 * What conventions to follow when writing TRIP newsletter issues.
 {% endhint %}
 
+## Guides Guidelines
+
+Newsletter issues and TRIP Guides should be coherent and consistent where appropriate. In particular, these sections of the [Guides Guidelines](https://guides.trip.dev/contributing/guides-guidelines) also apply to the newsletter:
+
+* [Show Don't Tell](https://guides.trip.dev/contributing/guides-guidelines#show-dont-tell)
+* [Words to Avoid](https://guides.trip.dev/contributing/guides-guidelines#words-to-avoid)
+* [Headings](https://guides.trip.dev/contributing/guides-guidelines#headings)
+* [Wording](https://guides.trip.dev/contributing/guides-guidelines#wording)
+* [English](https://guides.trip.dev/contributing/guides-guidelines#english)
+* [Oxford Comma](https://guides.trip.dev/contributing/guides-guidelines#oxford-comma)
+
 ## Footer
 
 At the end of each newsletter issue include a Hint section like this:
@@ -23,16 +34,7 @@ At the end of each newsletter issue include a Hint section like this:
 4. [Bring TRIP to your city](https://explorer.trip.dev/): See the progress to bringing TRIP to your city with the TRIP Explorer. Check back regularly as more features and updates are added.
 {% endhint %}
 
-## Guides Guidelines
-
-Newsletter issues and TRIP Guides should be coherent and consistent where appropriate. In particular, these sections of the [Guides Guidelines](https://guides.trip.dev/contributing/guides-guidelines) also apply to the newsletter:
-
-* [Show Don't Tell](https://guides.trip.dev/contributing/guides-guidelines#show-dont-tell)
-* [Words to Avoid](https://guides.trip.dev/contributing/guides-guidelines#words-to-avoid)
-* [Headings](https://guides.trip.dev/contributing/guides-guidelines#headings)
-* [Wording](https://guides.trip.dev/contributing/guides-guidelines#wording)
-* [English](https://guides.trip.dev/contributing/guides-guidelines#english)
-* [Oxford Comma](https://guides.trip.dev/contributing/guides-guidelines#oxford-comma)
+As the TRIP Community grows, feel free to update the count of TRIP community members in the above hint to reflect the current numbers.
 
 {% hint style="info" %}
 #### Feedback
