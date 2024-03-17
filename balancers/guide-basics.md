@@ -8,7 +8,7 @@ More cities will be added to this list and estimates may change.&#x20;
 
 Check back regularly.
 
-{% embed url="https://dec.metabaseapp.com/public/dashboard/2a7828b4-e76b-4db9-94cd-dbd316757b6a" fullWidth="true" %}
+{% embed url="https://dec.metabaseapp.com/public/dashboard/2a7828b4-e76b-4db9-94cd-dbd316757b6a" fullWidth="false" %}
 
 {% hint style="info" %}
 #### Feedback
