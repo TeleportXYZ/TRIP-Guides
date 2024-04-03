@@ -2,47 +2,20 @@
 
 ## Overview
 
-There are two ways to cash out your driver earnings:
+Driving with TRIP, you get paid in USD Coin (or USDC).
 
-1. Direct deposit to your bank account (recommended).
-2. Transfer from a third party wallet (advanced).
-
-This guide will go through both options to cash out your earnings.
-
-## Direct deposit to your bank account
-
-The simplest way to cash out is direct deposit to your bank account.
-
-<figure><img src="../.gitbook/assets/Cash out guides -- bank transfer (1).png" alt=""><figcaption></figcaption></figure>
-
-In the Teleport app:
-
-1. Tap Profile in the bottom right corner.
-2. Tap the green button displaying your earnings in the top right corner.
-3. Tap Cash Out.
-4. Select Bank Transfer.
-5. If this is your first time, you will be asked to provide additional information to verify your identity. Once you have done so, you will be able to connect your bank account.
-6. Once back in the Teleport app, tap Instant or Standard.
-   * Instant takes a few minutes for your earnings to land in your bank account. This option has a 2% fee (with a minimum fee of $2).
-   * Standard takes 1-3 business days for your earnings to land in your bank account. This option is free.
-7. Tap Transfer.
-
-That's it! Your money is on the way.
-
-## Transfer from a third party wallet
-
-To use this method to cash out your USDC to your bank account, you need two things:
+To convert your USDC into cash in your bank account, you need two things:
 
 * A free third party wallet (like Solflare).
 * A free account on an exchange (like Coinbase).
 
-The third party wallet allows you to send your USDC to an exchange.
+The wallet allows you to send your USDC to the exchange.
 
-The exchange allows you to convert your USDC to US dollars in your bank account.
+The exchange allows you to send your USDC to your bank account.
 
-Let's learn how to set both of these up to cash out your earnings.
+In this guide, you'll learn how to set both of these up and cash out your earnings.
 
-### Creating your third party wallet
+## Creating your third party wallet
 
 If you have an existing third party wallet with Solana support, you can use that.
 
@@ -61,7 +34,7 @@ To create your Solflare wallet:
 
 You should now see your earnings in Solflare.
 
-### Creating your exchange account
+## Creating your exchange account
 
 If you have an existing exchange account, you can use that.
 
@@ -85,7 +58,7 @@ When prompted to add your bank account, go ahead and add that now.&#x20;
 
 That way, you won’t have to add it when you cash out later.
 
-### Transfer your earnings to your exchange account
+## Transfer your earnings to your exchange account
 
 With your third party wallet and exchange accounts created, you're almost finished.
 
