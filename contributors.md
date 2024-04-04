@@ -2,6 +2,7 @@
 
 * Ryan Woosley
 * Daniel Paulino
+* Gustavo Meghirditchian
 * Harry Whelchel
 * Matt Brigante
 * Thaddeus Low
