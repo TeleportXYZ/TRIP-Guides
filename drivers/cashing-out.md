@@ -2,20 +2,47 @@
 
 ## Overview
 
-Driving with TRIP, you get paid in USD Coin (or USDC).
+Driving with TRIP, there are two ways to cash out your earnings:
 
-To convert your USDC into cash in your bank account, you need two things:
+1. Transfer to your bank account (recommended).
+2. Transfer from a third party wallet (advanced).
+
+This guide will walk you through how to use both options.
+
+## Transfer to your bank account
+
+The simplest way to cash out is transferring to your bank account.
+
+In the Teleport app:
+
+1. In the bottom right corner, tap Profile.
+2. In the top right corner, tap the green button displaying your earnings.
+3. Tap Cash Out.
+4. Select Bank Transfer.
+5. Provide some additional information to connect your bank account.
+6. Back in the Teleport app, tap Instant or Standard.
+   * Instant takes a few minutes for your earnings to land in your bank account. This option has a 2% fee (with a minimum fee of $2).
+   * Standard takes 1-3 business days for your earnings to land in your bank account. This option is free.
+7. Tap Transfer.
+
+That's it! Your earnings are on the way.
+
+## Transfer from a third party wallet
+
+Driving with TRIP, you get paid in a stablecoin called USDC. USDC is like a digital dollar.
+
+If you want to access your earnings in USDC format, you need two things:
 
 * A free third party wallet (like Solflare).
 * A free account on an exchange (like Coinbase).
 
 The wallet allows you to send your USDC to the exchange.
 
-The exchange allows you to send your USDC to your bank account.
+The exchange allows you to access your USDC to use, trade, or convert it to cash.
 
-In this guide, you'll learn how to set both of these up and cash out your earnings.
+In this section, you'll learn how to set both of these up and access your earnings.
 
-## Creating your third party wallet
+### Creating your third party wallet
 
 If you have an existing third party wallet with Solana support, you can use that.
 
@@ -34,7 +61,7 @@ To create your Solflare wallet:
 
 You should now see your earnings in Solflare.
 
-## Creating your exchange account
+### Creating your exchange account
 
 If you have an existing exchange account, you can use that.
 
@@ -56,9 +83,9 @@ Coinbase requires the following to create an account:
 
 When prompted to add your bank account, go ahead and add that now.&#x20;
 
-That way, you won’t have to add it when you cash out later.
+That way, you won’t have to add it if you want to cash out with this method later.
 
-## Transfer your earnings to your exchange account
+### Transfer your earnings to your exchange account
 
 With your third party wallet and exchange accounts created, you're almost finished.
 
@@ -71,7 +98,9 @@ With your third party wallet and exchange accounts created, you're almost finish
 5. Paste the USDC wallet address you copied from Coinbase here.
 6. Select USDC to send. Enter the amount to send. Confirm send.
 
-Now to cash out, back in the Coinbase app, simply click **Cash Out** to withdraw your earnings to your linked bank account.
+Now you can use, trade, or even cash out your USDC from Coinbase.
+
+To cash out, back in the Coinbase app, simply click **Cash Out** to withdraw your earnings to your linked bank account.
 
 {% hint style="info" %}
 #### Feedback
