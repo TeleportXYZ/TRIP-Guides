@@ -11,7 +11,9 @@ This guide will walk you through how to use both options.
 
 ## Transfer to your bank account
 
-The simplest way to cash out is transferring to your bank account.
+The simplest way to cash out is transferring to your bank account. We've partnered with [Coinflow](https://coinflow.cash/) to give you the ability to cash out USDC directly into your bank account.
+
+<figure><img src="../.gitbook/assets/Cash out guides -- bank transfer.png" alt=""><figcaption></figcaption></figure>
 
 In the Teleport app:
 
@@ -33,7 +35,7 @@ Driving with TRIP, you get paid in a stablecoin called USDC. USDC is like a digi
 
 If you want to access your earnings in USDC format, you need two things:
 
-* A free third party wallet (like Solflare).
+* A free third party wallet (like [Phantom](https://phantom.app/download), [Solflare](https://solflare.com/) or [Backpack](https://backpack.app/)).
 * A free account on an exchange (like Coinbase).
 
 The wallet allows you to send your USDC to the exchange.
@@ -46,20 +48,23 @@ In this section, you'll learn how to set both of these up and access your earnin
 
 If you have an existing third party wallet with Solana support, you can use that.
 
-If you don't, we recommend creating a wallet with Solflare.
+To get your private key from the Teleport app:
 
-To create your Solflare wallet:
+1. Go to the Profile tab and select the green wallet pill on the top right
+2. Tap on Cash Out button
+3. Select the Connect Wallet option
+4. Tap View Secret Phrase
+5. Copy the seed phrase to clipboard
 
-1. Download the Solflare iOS app [(click here)](https://apps.apple.com/us/app/solflare-solana-wallet/id1580902717).
-2. In the Solflare app, tap Import Wallet. It should ask for a recovery phrase.
-3. Open the Teleport App and tap **Profile** in the bottom menu bar.
-4. Tap the green **Wallet** button in the top right of the screen.
-5. Copy and paste your secret phrase into your Solflare wallet (or another wallet you are using). The secret phrase is the same thing as the recovery phrase.
-6. Within the Solflare app, paste in your secret phrase. You may have to tap "Allow Paste".&#x20;
-7. Tap Confirm. If it says No Active Wallets Found, tap Quick setup to continue.
-8. Follow the rest of the onboarding steps (creating a passcode, etc).&#x20;
+<figure><img src="../.gitbook/assets/Cash out guides -- connect wallet.png" alt=""><figcaption></figcaption></figure>
 
-You should now see your earnings in Solflare.
+To connect to another Solana wallet
+
+1. Download the  [Phantom](https://phantom.app/download), [Solflare](https://solflare.com/) or [Backpack](https://backpack.app/) app
+2. In all of these apps you will have the ability to `Import Wallet`. It should ask for a recovery phrase.
+3. Copy and paste your secret phrase. The secret phrase is the same thing as the recovery phrase.
+4. Once you confirm. If it says No Active Wallets Found, tap Quick setup to continue.
+5. Follow the rest of the onboarding steps (creating a passcode, etc).  You should now see your earnings in your new Solana wallet
 
 ### Creating your exchange account
 
@@ -94,7 +99,7 @@ With your third party wallet and exchange accounts created, you're almost finish
 1. Within the Coinbase app, click **Send & Receive.** Then click **Receive.**
 2. Select **USD Coin** at the top. Switch the **Network** to Solana.
 3. Copy the USDC wallet address shown to your clipboard.
-4. Now back in the Solflare app, click into your USDC balance, click **Send.**
+4. Now back in your Solana wallet, click into your USDC balance, click **Send.**
 5. Paste the USDC wallet address you copied from Coinbase here.
 6. Select USDC to send. Enter the amount to send. Confirm send.
 
