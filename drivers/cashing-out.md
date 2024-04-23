@@ -2,12 +2,10 @@
 
 ## Overview
 
-Driving with TRIP, there are two ways to cash out your earnings:
+Drivers on the TRIP get paid in US dollar stablecoin (USD Coin). This is held in your Teleport wallet. There are two ways to cash out your earnings. This guide will walk you through how to use both options:
 
 1. Transfer to your bank account (recommended).
 2. Transfer from a third party wallet (advanced).
-
-This guide will walk you through how to use both options.
 
 ## Transfer to your bank account
 
@@ -31,12 +29,10 @@ That's it! Your earnings are on the way.
 
 ## Transfer from a third party wallet
 
-Driving with TRIP, you get paid in a stablecoin called USDC. USDC is like a digital dollar.
+To access your USDC and to transfer it from another wallet, you need two things:
 
-If you want to access your earnings in USDC format, you need two things:
-
-* A free third party wallet (like [Phantom](https://phantom.app/download), [Solflare](https://solflare.com/) or [Backpack](https://backpack.app/)).
-* A free account on an exchange (like Coinbase).
+1. A free Solana wallet (like [Phantom](https://phantom.app/download), [Solflare](https://solflare.com/) or [Backpack](https://backpack.app/)).
+2. A free account on an exchange (like Coinbase).
 
 The wallet allows you to send your USDC to the exchange.
 
@@ -58,13 +54,15 @@ To get your private key from the Teleport app:
 
 <figure><img src="../.gitbook/assets/Cash out guides -- connect wallet.png" alt=""><figcaption></figcaption></figure>
 
-To connect to another Solana wallet
+To connect to another Solana wallet:
 
 1. Download the  [Phantom](https://phantom.app/download), [Solflare](https://solflare.com/) or [Backpack](https://backpack.app/) app
 2. In all of these apps you will have the ability to `Import Wallet`. It should ask for a recovery phrase.
 3. Copy and paste your secret phrase. The secret phrase is the same thing as the recovery phrase.
 4. Once you confirm. If it says No Active Wallets Found, tap Quick setup to continue.
-5. Follow the rest of the onboarding steps (creating a passcode, etc).  You should now see your earnings in your new Solana wallet
+5. Follow the rest of the onboarding steps (creating a passcode, etc).  You should now see your earnings in your new Solana wallet.&#x20;
+
+Here are some of their guides to help you: [Phantom](https://help.phantom.app/hc/en-us/articles/15079894392851-Importing-Your-Existing-Wallet-into-Phantom), [Solflare](https://academy.solflare.com/guides/how-to-import-your-solana-wallet-into-solflare-using-a-private-key-mobile/), [Backpack](https://support.backpack.exchange/en/articles/1062209)
 
 ### Creating your exchange account
 
