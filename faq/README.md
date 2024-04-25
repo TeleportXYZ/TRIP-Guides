@@ -74,9 +74,9 @@ Right now, the app is probably not available in your city.
 
 That said, we want to be in your city as soon as possible.
 
-We are on track for the Genesis City to be live on the network in February, 2024.
+Today, we are live in College Station, TX.
 
-We haven’t announced which city it will be. That said, it will be in Texas.
+We are on track for Austin, TX to be live on the network in May, 2024.
 
 From there, which cities are next live on the network will be community driven.
 
