@@ -49,3 +49,4 @@
 * [Contributors](contributors.md)
 * [Teleport](https://www.teleport.xyz/)
 * [Contribute on GitHub](https://github.com/TeleportXYZ/TRIP-Guides/issues)
+* [Disclaimer](https://www.trip.dev/disclaimer)
