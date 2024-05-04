@@ -121,39 +121,23 @@ Cost Structure of Rideshare on The Rideshare Protocol (TRIP)
 
 What is missing is a mechanism to coordinate this switch. We call a tool to enable such social coordination a "Bridge," because it can overcome the moat of a network effect.
 
-Instead of attempting to convince everyone to switch at the same time, a bridge provides an opportunity for those who switch first to help build and take on a larger role in the governance of the network. Voting power on the network is held by TRIP Tokens, which we will describe in more detail later.
+Instead of attempting to convince everyone to switch at the same time, a bridge provides an opportunity for those who switch first to help build and take on a larger role in the network.
 
 A rideshare marketplace that is fairer, with the participants - not middlemen - in control, is not just a better system. It also has the potential to become a social movement and spread like one.
 
-## 3. Rules and Decisions
-
-![](.gitbook/assets/64a724d566c17be35221293e\_Voting.png)
-
-Marketplaces, even those located in town squares, have always been subject to rules, whether they be noise ordinances or regulations regarding waste management. Customers won't visit a marketplace that's not clean and safe, so good governance is essential for a thriving marketplace. However, network effects and moats can put marketplaces in a privileged position where owners may favor their own interests over those of vendors and customers.
-
-Since a marketplace requires rules, the question of who creates those rules on a decentralized marketplace arises. While concentrating governance in a single company may work in the short term, monopolists are likely to abuse their power in the long term. The ideal scenario would be for the governance of the network to be in the hands of its most active participants. However, the most active participants on a network are constantly changing — new participants join and old participants leave.
-
-### 3.1 Self-Governance (TRIP Tokens)
-
-![](<.gitbook/assets/Trip Cards.png>)
-
-The TRIP Network is governed by holders of TRIP Tokens. TRIP Tokens are fungible tokens that represent participation and voting power in the network. TRIP Tokens will be issued once the network is sufficiently decentralized and stable.
-
-General governance including protocol upgrades, changes to authorization-flow, the change of fundamental network parameters all require voting by the Token-holders.
-
-### 3.2 Network Incentives (TRIP Rewards)
+## 3. Network Incentives (TRIP Rewards)
 
 <figure><img src=".gitbook/assets/trip reards.png" alt=""><figcaption></figcaption></figure>
 
-TRIP Rewards are digital collectibles that are issued to individuals as a reward for contributing to the health and growth of the network. Unlike TRIP Tokens they have no voting power and are not involved in the governance of the network.
+TRIP Rewards are digital collectibles that are issued to individuals as a reward for contributing to the health and growth of the network.
 
 TRIP Rewards are represented as NFTs commemorating actions such as taking a first trip, inviting users, or riding in a new city, while others are issued to those who contribute the most to the network within a certain time span.
 
-### 3.3 Reward Issuance
+### 3.1 Reward Issuance
 
 ![](<.gitbook/assets/Token Issuance (1).png>)
 
-One way to obtain TRIP Rewards is by participating in a weekly competition to contribute the most to the health and growth of the network. These weekly rewards are created on a fixed issuance schedule, with new weekly rewards minted in each epoch (7 days in block time) and automatically distributed to the most active network participants.
+One way to obtain TRIP Rewards is by participating in a daily competition to contribute the most to the health and growth of the network. These daily rewards are created on a fixed issuance schedule, with new daily rewards minted in each epoch (24 hours in block time) and automatically distributed to the most active network participants.
 
 These rewards can go to all the different entities that are required to make a ride happen:
 
@@ -165,7 +149,7 @@ These rewards can go to all the different entities that are required to make a r
 * Operators
 * Apps
 
-### 3.4 Sybil Protection Fee
+### 3.2 Sybil Protection Fee
 
 ![](<.gitbook/assets/64a7250986c87c63f62500db\_Sybil Avoidance Mechanism.png>)
 
@@ -173,11 +157,11 @@ In protocol design, a sybil attack is an attempt by an individual to manipulate 
 
 The TRIP protocol requires a sybil fee to be paid to the TRIP Marketplace on every transaction on the network. This fee is necessary for the transaction to be considered valid. Transactions are conducted in national currency stablecoins and we’ll go deeper into the payment flow in future sections.
 
-The TRIP Marketplace holds the Sybil fee, to be exclusively controlled by the network's governance (using TRIP Tokens).
+The TRIP Marketplace holds the Sybil fee, to be exclusively controlled by the network's governance.
 
 In future iterations of the protocol, the USDC Sybil fee could also potentially be used to finance the automated acquisition of gas for the blockchain the protocol utilizes, as well as to facilitate the automated payment of other various blockchain operations.
 
-### 3.5 Network Growth
+### 3.3 Network Growth
 
 ![](<.gitbook/assets/653143d6c2251d92a32a04bd\_Referral Rewards.png>)
 
@@ -193,21 +177,21 @@ Balancers are especially involved in building community and helping other driver
 
 New TRIP Rewards are issued at the end of each epoch to all entities based on the amount of transaction volume they contributed to during that epoch.
 
-### 3.6 Decentralization
+### 3.4 Decentralization
 
 Initially the protocol will be operated while relying on centralized development and operation.
 
-Once a decentralization milestone has been achieved the governance of the network can be handed over to the community running the network by issuing TRIP Tokens.
+Once a decentralization milestone has been achieved the governance of the network can be handed over to the community running the network.
 
 After decentralization has been achieved the protocol can be upgraded by the means of democratic governance by the network participants.
 
-### 3.7 Protocol Upgrades
+### 3.5 Protocol Upgrades
 
 ![](<.gitbook/assets/64a7259d6827ad3993e9bbc1\_Protocol Upgrades.png>)
 
 Future software upgrades for the TRIP protocol will be adopted through governance mechanisms that use a decentralized proposal process. This process allows community members to actively shape the protocol's future, rather than a single organization or company controlling the network.
 
-We believe that a robust and fair governance structure is key to the protocol's success. TRIP Token holders will have the ability to create and vote on proposals for protocol improvements. This decentralized approach ensures that the platform remains flexible and adaptive to the changing needs of its users, incorporating diverse perspectives and ideas.
+We believe that a robust and fair governance structure is key to the protocol's success. Community members will have the ability to create and vote on proposals for protocol improvements. This decentralized approach ensures that the platform remains flexible and adaptive to the changing needs of its users, incorporating diverse perspectives and ideas.
 
 ## 4. Protocol Design
 
@@ -215,7 +199,7 @@ The operation of the decentralized rideshare network involves the following enti
 
 1. **Riders** and **Drivers** are **Users** who connect to the protocol to offer or request rides using **Rideshare Apps**. These apps are the equivalent of a web browser or email client.
 2. **Operators** handle the regulatory and operational requirements of providing rideshare service. They are powered by **Rideshare Server** software which is comparable to a web or email server. Depending on the applicable local regulatory framework, an Operator may serve as Transportation Network Company (TNC) or Transportation Network Provider (TNP) or Fleet Manager.
-3. The **TRIP Marketplace** consists of a set of blockchain smart contracts that offer coordination and consensus services to the rideshare network. These smart contracts are governed by a Decentralized Autonomous Organization (DAO) of TRIP Token holders and help the network remain neutral and fair without having to rely on centralized authority.
+3. The **TRIP Marketplace** consists of a set of blockchain smart contracts that offer coordination and consensus services to the rideshare network. These smart contracts are governed by a Decentralized Autonomous Organization (DAO) and help the network remain neutral and fair without having to rely on centralized authority.
 4. **Balancers** are network participants that help the TRIP Marketplace overcome supply/demand imbalances by inviting additional drivers and riders.
 5. **Verifiers** are entities who inspect driver licenses, perform car inspections, conduct background checks and verify phone numbers.
 6. **Auditors** are entities that are capable of confirming the legal and operational readiness of both Verifiers and Operators.
