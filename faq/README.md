@@ -56,7 +56,7 @@ Being on Android is important to us.
 
 We don’t have a release date we can share yet but it’s on our radar.
 
-Join the waitlist here: [https://www.teleport.xyz/waitlist](https://www.teleport.xyz/waitlist)
+Join the waitlist here: [https://www.teleport.xyz/waitlist](https://www.teleport.xyz/waitlist).
 
 #### Is there a way I can participate until then?
 
@@ -67,6 +67,12 @@ If you have a friend or family member with an iPhone you can have them install t
 Keep in mind you won't be able to transfer their invite code to your phone in the future. The invite code is connected to them and their device. Otherwise, you'll have to sit tight.
 
 We don’t have a release date for Android we can share yet but it’s on our radar.
+
+### Can my iPhone run the app?
+
+Any iPhone compatible with iOS 17 can run the app.
+
+For a full list of iPhone versions, check [Apple's website](https://support.apple.com/guide/iphone/iphone-models-compatible-with-ios-17-iphe3fa5df43/ios).
 
 ### Is the app available in my city?
 
@@ -648,12 +654,6 @@ The TRIP Explorer currently shows sign ups happening around the world.
 US States that are green have at least one licensed operator present.
 
 In time, we will add more features to the TRIP Explorer so you can see which cities are live, which are close to being live, and where the most activity is happening.
-
-#### Are there other ways to get updates like a newsletter?
-
-We will be releasing a newsletter called the TRIP Report soon.
-
-We will announce the newsletter on X and Telegram when it’s released. Stay tuned!
 
 {% hint style="info" %}
 #### Feedback
