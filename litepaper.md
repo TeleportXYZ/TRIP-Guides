@@ -8,7 +8,7 @@ The internet is an open network: Anyone can start an internet service provider, 
 
 Before the invention of digital programmable money, it was impossible to design open systems for marketplaces such as rideshare, food delivery, and vacation rentals. As a result, middlemen stepped in and charged high fees instead of letting markets set fair prices.
 
-In the rideshare industry, the middleman’s take rate often exceeds 40%. This means that a significant portion of the money paid by customers is taken out of local economies and funneled away elsewhere.
+In the rideshare industry, the middleman’s take rate often exceeds 40%. This means that a significant portion of the money paid by customers is taken out of local economies and funneled away to elsewhere.
 
 This paper proposes an alternative approach: The creation of a fair and independent marketplace. This marketplace would use an open and interoperable protocol: The Rideshare Protocol (**TRIP**).
 
@@ -68,7 +68,7 @@ This strength can also become a _moat_, deterring new entrants from competing in
 
 While network effects and moats are often used to justify high valuations for startups that are first to market, in reality, they rarely end up being the ultimate winners, and network effects are frequently disrupted by new entrants.
 
-Understanding how network effects are built was key to first building out the digital frontier. However, now that many markets have matured, it is even more important to understand how network effects can be broken.
+Understanding how network effects are built was key to first building out the digital frontier. However, now that many markets have matured, it has become even more important to understand how network effects can be broken.
 
 ### 2.2 Habit and Brand Recognition
 
@@ -125,75 +125,165 @@ Instead of attempting to convince everyone to switch at the same time, a bridge 
 
 A rideshare marketplace that is fairer, with the participants - not middlemen - in control, is not just a better system. It also has the potential to become a social movement and spread like one.
 
-## 3. Network Incentives (TRIP Rewards)
-
-<figure><img src=".gitbook/assets/trip reards.png" alt=""><figcaption></figcaption></figure>
-
-TRIP Rewards are digital collectibles that are issued to individuals as a reward for contributing to the health and growth of the network.
-
-TRIP Rewards are represented as NFTs commemorating actions such as taking a first trip, inviting users, or riding in a new city, while others are issued to those who contribute the most to the network within a certain time span.
-
-### 3.1 Reward Issuance
-
+## 3. TRIP Miles
 ![](<.gitbook/assets/Token Issuance (1).png>)
 
-One way to obtain TRIP Rewards is by participating in a daily competition to contribute the most to the health and growth of the network. These daily rewards are created on a fixed issuance schedule, with new daily rewards minted in each epoch (24 hours in block time) and automatically distributed to the most active network participants.
+TRIP Miles are non-transferable, non-monetary reward points that network participants receive by contributing to the network.
 
-These rewards can go to all the different entities that are required to make a ride happen:
+TRIP Miles can be used to claim TRIP Rewards which will be explained in Section 4.
 
-* Drivers
-* Riders
-* Balancers
-* Verifiers
-* Auditors
-* Operators
-* Apps
+## 3.1 Proof-of-Ride
 
-### 3.2 Sybil Protection Fee
+One way that users can receive TRIP Miles is by facilitating rides on the network. These contributions are represented in terms of network revenue to account for variability in rides. Network revenue is gross bookings or total customer spend.
+
+## 3.2 Network Revenue Contribution
+
+Since multiple parties participate in facilitating each ride, revenue of a given ride is considered contributed by participants as follows:
+
+<figure style="flex: 1; margin: 0 10px; text-align: center;">
+    <img src="images/image-11.png" alt="alt text" width="350">
+    <figcaption style="text-align: center;">Revenue contribution of a completed ride for the purpose of distributing TRIP Miles</figcaption>
+</figure>
+
+Note: Drivers contribute 29% of the fare for the purpose of distributing TRIP Miles. This 29% contribution is separate from how much of the fare (on average 85%) the driver earns.
+
+## 3.3 Competition Miles Allocation
+
+TRIP Miles are allocated to competition participants in proportion to how much network revenue each participant contributed during a competition as described in section 3.2.
+
+Initially the competition is held every minute and 1,793,868.232224 TRIP Miles are split across all network participants who facilitated rides that ended during this minute.
+
+As network activity increases the allocation interval will increase and the TRIP Miles issuance would adjust along with it. For example when the competition is held every 10 minutes then 17,938,682.32224 TRIP Miles would be split across all network participants who facilitated rides that ended during these 10 minutes.
+
+While rider and driver contributions are considered equal for an individual ride, drivers typically receive more TRIP Miles due to completing more rides.
+
+## 3.4 Balancing Supply and Demand
+
+### 3.4.1 Competition Rollover
+
+When a competition has no rides, its TRIP Miles are rolled over to the next competition, increasing the TRIP Miles pool until a ride occurs. This balances supply and demand by incentivizing rides at off-peak times.
+
+### 3.4.2 Network Growth Incentives
+
+Inviting riders and drivers is incentivized. Invited users must actively participate for their inviters to receive TRIP Miles. TRIP Miles are allocated up the invite chain which encourages quality referrals.
+
+## 3.5 Sybil Protection Fee
 
 ![](<.gitbook/assets/64a7250986c87c63f62500db\_Sybil Avoidance Mechanism.png>)
 
 In protocol design, a sybil attack is an attempt by an individual to manipulate the network by creating multiple fake identities or transactions.
 
-The TRIP protocol requires a sybil fee to be paid to the TRIP Marketplace on every transaction on the network. This fee is necessary for the transaction to be considered valid. Transactions are conducted in national currency stablecoins and we’ll go deeper into the payment flow in future sections.
+The TRIP protocol requires a 5% sybil fee to be paid to the TRIP Marketplace on every transaction on the network. This fee is necessary for the transaction to be considered valid. Transactions are conducted in national currency stablecoins and we’ll go deeper into the payment flow in future sections.
 
 The TRIP Marketplace holds the Sybil fee, to be exclusively controlled by the network's governance.
 
 In future iterations of the protocol, the USDC Sybil fee could also potentially be used to finance the automated acquisition of gas for the blockchain the protocol utilizes, as well as to facilitate the automated payment of other various blockchain operations.
 
-### 3.3 Network Growth
+## 4. TRIP Rewards
 
-![](<.gitbook/assets/653143d6c2251d92a32a04bd\_Referral Rewards.png>)
+<figure><img src=".gitbook/assets/trip reards.png" alt=""><figcaption></figcaption></figure>
 
-To create a decentralized rideshare marketplace that can compete with centralized rideshare companies, the network needs widespread adoption and a healthy balance of drivers (supply) and riders (demand).
+TRIP Rewards are digital collectibles on The Rideshare Protocol (TRIP).
 
-A key condition for incentivizing adoption is to operate with lower overhead costs compared to centralized rideshare companies. By creating a network of local rideshare companies powered by free open-source software, drivers can earn more and riders can pay less. Moreover, the fees paid to these rideshare companies will circulate in their respective local economies instead of being siphoned off to multinational corporations.
+They are issued as non-fungible tokens (NFTs) on the Solana blockchain and commemorate network activity.
 
-To accelerate network growth even further, the system continuously issues TRIP Reward digital collectibles to the most active and supportive participants. This additional issuance is called the balancing mechanism.
+### 4.1 Reward Traits and Attributes
 
-Users who invite other users (drivers or riders) to the network are called Balancers. When a ride is completed, the system keeps track of all the entities involved in making the ride successful. All completed transactions on the network are counted towards this balancing mechanism.
+Each TRIP Reward has various traits such as vehicle, vehicle style, location, and mascot. Within each trait are multiple attributes. For example, vehicle includes supercar, motorcycle, and spaceship. Attributes of higher levels are rarer than attributes of lower levels.
 
-Balancers are especially involved in building community and helping other drivers, riders, and balancers understand the system and onboard into the system.
+| Level     | Vehicle            | Vehicle Style         | Location                | Mascot               |
+|-----------|--------------------|-----------------------|-------------------------|----------------------|
+| 0         | Sled               | Ice                   | Iceberg                 | Baby Penguin         |
+| 1         | Supercar           | Cyberpunk             | Futuristic City         | Baby Raccoon         |
+| 2         | Motorcycle         | Art Deco              | Desert                  | Baby Giraffe         |
+| 3         | Submarine          | Coral                 | Underwater              | Baby Octopus         |
+| 4         | Helicopter         | Fire                  | Volcano                 | Baby Dragon          |
+| 5         | Hot Air Balloon    | Wonderland            | Sugar Candyland         | Baby Bunny           |
+| 6         | Jetpack            | Futuristic            | Mars Colony             | Baby Squirrel        |
+| 7         | Airplane           | Folded Paper Origami  | Vaporwave Beach         | Baby Owl             |
+| 8         | Speedboat          | Pre-historic          | Dinosaur                | Baby Brontosaurus    |
+| 9         | Spaceship          | Fantasy Themed        | Fairytale Fantasy World | Baby Shiba Inu       |
 
-New TRIP Rewards are issued at the end of each epoch to all entities based on the amount of transaction volume they contributed to during that epoch.
+### 4.2 Reward Tiers
 
-### 3.4 Decentralization
+TRIP Rewards are classified into tiers numbered from 1 to 41. Higher tier TRIP Rewards have rarer attributes on average.
 
-Initially the protocol will be operated while relying on centralized development and operation.
+The TRIP Miles needed to advance from one tier to the next doubles. So, Tier 1 rewards can be claimed with 1 TRIP Mile, while Tier 2 with 2, Tier 6 with 32, Tier 11 with 1024, and so on.
 
-Once a decentralization milestone has been achieved the governance of the network can be handed over to the community running the network.
+<figure>
+    <img src="images/image-1.png" alt="">
+    <figcaption style="text-align: center;">Each colored bar represents the percentage chance an attribute of a given trait occurs at a specific tier.</figcaption>
+</figure>
+<!-- ![](images/image-1.png) -->
 
-After decentralization has been achieved the protocol can be upgraded by the means of democratic governance by the network participants.
+### 4.3 Claiming TRIP Rewards
+<img src="images/image-4.png" alt="drawing" width="150" style="display:block; margin-left: auto; margin-right:auto; margin-bottom:20px;"/>
 
-### 3.5 Protocol Upgrades
+TRIP Miles determine the tier of the TRIP Reward that can be claimed. When claiming a TRIP Reward using TRIP Miles always the highest tier available is claimed. Leftover TRIP Miles can be used to claim additional lower tier TRIP Rewards.
 
-![](<.gitbook/assets/64a7259d6827ad3993e9bbc1\_Protocol Upgrades.png>)
+The Solana blockchain might charge nominal gas fees for the minting process, but it is expected that various entities participating in the protocol will choose to serve as payer for those fees while managing the number of claims available to a user each day. The protocol's sybil protection fee could also be utilized to pay network gas for users.
 
-Future software upgrades for the TRIP protocol will be adopted through governance mechanisms that use a decentralized proposal process. This process allows community members to actively shape the protocol's future, rather than a single organization or company controlling the network.
+### 4.4 Attribute Rarity
 
-We believe that a robust and fair governance structure is key to the protocol's success. Community members will have the ability to create and vote on proposals for protocol improvements. This decentralized approach ensures that the platform remains flexible and adaptive to the changing needs of its users, incorporating diverse perspectives and ideas.
+To select attributes for a trait, a random number is drawn and compared against the probability criteria for each attribute in decreasing rarity (Attribute 9 → Attribute 0) until the random number is less than the probability value.
 
-## 4. Protocol Design
+The more TRIP Miles are provided during a TRIP Rewards claim, the higher the likelihood that a rarer attribute will be selected. This is accomplished via a rarity function that varies from 0-1 depending on the amount of TRIP Miles provided. Providing more TRIP Miles pushes the rarity function’s value closer to 1, which means closer to a 100% chance of an attribute at least that rare being selected.
+
+The probability selection criteria for trait $i$, attribute $j$, with respect to TRIP Miles, $M$ is defined as:
+
+$$ p_{ij}(M) = 1 - 2^{-\left( \frac{1}{Q_i} + \frac{M-1}{A_{ij}} \right)} $$
+
+where subscripts $i$ and $j$ are 1-based index.
+
+**Within each trait's set of attributes $i$**, the rarity functions are parameterized by:
+
+- a common value $Q_i$
+- a distinct value $A_{ij}$ for each attribute $j$
+
+The $A_{ij}$ parameter is defined based on an exponential decay relative to the $Q_i$ value, and increases by a factor of 2.5 with increasing attribute level $j$.
+
+$$ A_{ij} = 0.99 \cdot 2.5^{j - N_{a,i}} \cdot Q_i $$
+
+where $N_{a,i}$ is the number of attributes within the trait $i$
+
+For example, in trait 1:
+
+- $Q_1=156,250$
+- $A_{1j} = 0.99 * 2.5^{j-N_{a,1}} * Q_1$
+
+$Q_1=156,250$ means that providing 156,250 TRIP Miles is more than enough to give the user a 50% chance at achieving the rarest attribute in trait 1.
+
+The $A_{1j}$ parameter now increases by a factor of 2.5 with increasing attribute number within trait 1's set of attributes, ending at 0.99 of $Q_1$.
+
+The way $A$ and $Q$ vary for trait 1 staggers sigmoid (S-shaped) probability curves for each attribute, with the most common attribute starting at the lower end of the tier spectrum, and the most rare attribute ending at the upper end of the tier spectrum.
+
+<div style="display: flex; justify-content: space-between;">
+    <figure style="margin: 0 10px;">
+        <img src="images/image-10.png" alt="">
+        <figcaption style="text-align: center;">Staggered sigmoid-like probability curves for each attribute in trait 1.
+        </figcaption>
+    </figure>
+    <figure style="margin: 0 10px;">
+        <img src="images/image-9.png" alt="">
+        <figcaption style="text-align: center;">Rarity
+        distribution of trait 1 attributes as a variation of TRIP Rewards tier.
+        </figcaption>
+    </figure>
+</div>
+
+<br></br>
+Across each trait's set of attributes, $Q_i$ increases by a factor of 40 with increasing trait $i$, indicating the increasing relative rarity with increasing trait index.
+
+$$ Q_i = 1.0 \times 10^{10} \cdot 40^{i - N_t} $$
+
+where:
+
+- $N_t$ is the number of traits, with $N_t = 4$ for TRIP Rewards.
+- $i$ is the trait index
+
+Once attribute levels have been selected for all of the traits, the selected attribute levels are shuffled between the traits. This maintains the design principle where higher tiers have rarer traits, while introducing more visual variation in the final collection of TRIP Rewards.
+
+## 5. Protocol Design
 
 The operation of the decentralized rideshare network involves the following entities:
 
@@ -206,7 +296,7 @@ The operation of the decentralized rideshare network involves the following enti
 
 Once verified, any entity that is capable and legally permitted of performing a role can fulfill that role within the system.
 
-### 4.1 Key-Centric Identity
+### 5.1 Key-Centric Identity
 
 ![](<.gitbook/assets/64b9506d65b9a4548e700e5d\_Key-Centric Identity.png>)
 
@@ -214,7 +304,7 @@ All entities on the network are uniquely identified by a public/private key pair
 
 Entities use their keys to identify themselves, authenticate connections, sign messages, and store USDC and other digital tokens, as well as certificates associated with their public key.
 
-### 4.2 Attestations
+### 5.2 Attestations
 
 ![](.gitbook/assets/64a723e22fc942c93065fc7b\_Attestations.png)
 
@@ -315,10 +405,6 @@ When an Operator with active drivers receives a ride request from an eligible ri
 
 Payments on the rideshare protocol (TRIP) are made using national currencies, such as the US dollar. The system - as much as is possible - supports both traditional payment methods such as credit cards and bank transfers, as well as newer payment methods like stablecoins backed by national currencies.
 
-Bank transfers (ACH, FedWire) and credit card payment systems were originally designed between the 1910s and 1960s. As a result, they lack the necessary capabilities to fully interoperate with decentralized marketplaces designed in the 2020s. To bring the stability and security of national currencies, such as the US Dollar, to the rideshare network, TRIP utilizes stablecoins. Stablecoins are digital equivalents of national currencies that can be used on modern open, programmable protocols such as TRIP. One such stablecoin is USDC.
-
-In the context of the TRIP protocol, USDC or other stablecoins are used as modern payment rails for the US dollar. Most payments within the TRIP protocol are made in USDC, or in other countries, using comparable, well-regulated, local-market stablecoins. TRIP rideshare apps on mobile phones include software (a digital wallet) to directly store stablecoin balances. This gives users complete control over their funds without requiring any intermediaries or exposure to exchange rate risk.
-
 #### 4.5.6 Payment
 
 ![](.gitbook/assets/Payment.png)
@@ -327,7 +413,7 @@ When booking a ride through a mobile app, users have several payment options. Th
 
 As soon as the customer begins searching for a ride, USDC funds that cover the ride are placed into an escrow program on the TRIP Marketplace.
 
-After the ride concludes, funds from the escrow are used to settle balances with all entities that receive a payout from the ride. Payment flows will generally follow a broad overarching pattern, but may differ slightly between jurisdictions to comply with local regulations.
+After the ride concludes, funds from the escrow are used to settle balances with all entities that receive a payout from the ride.
 
 If the user decides to use a booking or aggregation agent to help book a ride and pay with a credit card or bank transfer, the payment process is similar to the non-custodial flow. The booking agent charges its own fee structure for assisting the customer in securing a ride and assumes all risk for the credit card or bank transfer transaction with the customer and then uses its own segregated USDC funds to order a ride to fulfill its booking contract with the customer.
 
