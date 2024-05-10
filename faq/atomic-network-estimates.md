@@ -14,8 +14,6 @@ In that case, look for a similar city to get an idea of how many riders and driv
 
 We will add more cities to this list and update the estimates over time. Check back regularly.
 
-{% embed url="https://dec.metabaseapp.com/public/dashboard/4f64518f-dc5a-4bc3-b7ed-cfa4b2a7c968" %}
-
 {% hint style="info" %}
 #### Feedback
 
