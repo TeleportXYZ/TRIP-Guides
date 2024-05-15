@@ -125,7 +125,7 @@ A rideshare marketplace that is fairer, with the participants - not middlemen - 
 
 ## 3. TRIP Miles
 
-![](<.gitbook/assets/Token Issuance (1).png>)
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 TRIP Miles are non-transferable, non-monetary reward points that network participants receive by contributing to the network.
 
