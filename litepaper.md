@@ -187,18 +187,7 @@ They are issued as non-fungible tokens (NFTs) on the Solana blockchain and comme
 
 Each TRIP Reward has various traits such as vehicle, vehicle style, location, and mascot. Within each trait are multiple attributes. For example, vehicle includes supercar, motorcycle, and spaceship. Attributes of higher levels are rarer than attributes of lower levels.
 
-| Level | Vehicle         | Vehicle Style        | Location                | Mascot            |
-| ----- | --------------- | -------------------- | ----------------------- | ----------------- |
-| 0     | Sled            | Ice                  | Iceberg                 | Baby Penguin      |
-| 1     | Supercar        | Cyberpunk            | Futuristic City         | Baby Raccoon      |
-| 2     | Motorcycle      | Art Deco             | Desert                  | Baby Giraffe      |
-| 3     | Submarine       | Coral                | Underwater              | Baby Octopus      |
-| 4     | Helicopter      | Fire                 | Volcano                 | Baby Dragon       |
-| 5     | Hot Air Balloon | Wonderland           | Sugar Candyland         | Baby Bunny        |
-| 6     | Jetpack         | Futuristic           | Mars Colony             | Baby Squirrel     |
-| 7     | Airplane        | Folded Paper Origami | Vaporwave Beach         | Baby Owl          |
-| 8     | Speedboat       | Pre-historic         | Dinosaur                | Baby Brontosaurus |
-| 9     | Spaceship       | Fantasy Themed       | Fairytale Fantasy World | Baby Shiba Inu    |
+<table><thead><tr><th>Level</th><th>Vehicle</th><th width="131">Vehicle Style</th><th>Location</th><th>Mascot</th></tr></thead><tbody><tr><td>0</td><td>Sled</td><td>Ice</td><td>Iceberg</td><td>Baby Penguin</td></tr><tr><td>1</td><td>Supercar</td><td>Cyberpunk</td><td>Futuristic City</td><td>Baby Raccoon</td></tr><tr><td>2</td><td>Motorcycle</td><td>Art Deco</td><td>Desert</td><td>Baby Giraffe</td></tr><tr><td>3</td><td>Submarine</td><td>Coral</td><td>Underwater</td><td>Baby Octopus</td></tr><tr><td>4</td><td>Helicopter</td><td>Fire</td><td>Volcano</td><td>Baby Dragon</td></tr><tr><td>5</td><td>Hot Air Balloon</td><td>Wonderland</td><td>Sugar Candyland</td><td>Baby Bunny</td></tr><tr><td>6</td><td>Jetpack</td><td>Futuristic</td><td>Mars Colony</td><td>Baby Squirrel</td></tr><tr><td>7</td><td>Airplane</td><td>Folded Paper Origami</td><td>Vaporwave Beach</td><td>Baby Owl</td></tr><tr><td>8</td><td>Speedboat</td><td>Pre-historic</td><td>Dinosaur</td><td>Baby Brontosaurus</td></tr><tr><td>9</td><td>Spaceship</td><td>Fantasy Themed</td><td>Fairytale Fantasy World</td><td>Baby Shiba Inu</td></tr></tbody></table>
 
 ### 4.2 Reward Tiers
 
@@ -224,31 +213,33 @@ The more TRIP Miles are provided during a TRIP Rewards claim, the higher the lik
 
 The probability selection criteria for trait $i$, attribute $j$, with respect to TRIP Miles, $M$ is defined as:
 
-$$p_{ij}(M) = 1 - 2^{-\left( \frac{1}{Q_i} + \frac{M-1}{A_{ij}} \right)}$$
+$$
+p_{ij}(M) = 1 - 2^{-\left( \frac{1}{Q_i} + \frac{M-1}{A_{ij}} \right)}
+$$
 
-where subscripts $i$ and $j$ are 1-based index.
+where subscripts $$i$$ and $$j$$ are 1-based index.
 
-**Within each trait's set of attributes $i$**, the rarity functions are parameterized by:
+**Within each trait's set of attributes** $$i$$, the rarity functions are parameterized by:
 
-* a common value $Q\_i$
-* a distinct value $A\_{ij}$ for each attribute $j$
+* a common value $$Q_i$$
+* a distinct value $$A_{ij}$$ for each attribute $$j$$
 
-The $A\_{ij}$ parameter is defined based on an exponential decay relative to the $Q\_i$ value, and increases by a factor of 2.5 with increasing attribute level $j$.
+The $$A_{ij}$$ parameter is defined based on an exponential decay relative to the $$Q_i$$ value, and increases by a factor of 2.5 with increasing attribute level $$j$$.
 
 $$A_{ij} = 0.99 \cdot 2.5^{j - N_{a,i}} \cdot Q_i$$
 
-where $N\_{a,i}$ is the number of attributes within the trait $i$
+where $$N_{a,i}$$ is the number of attributes within the trait $$i$$
 
 For example, in trait 1:
 
-* $Q\_1=156,250$
-* $A\_{1j} = 0.99 \* 2.5^{j-N\_{a,1\}} \* Q\_1$
+* $$Q_1=156,250$$
+* $$A_{1j} = 0.99 * 2.5^{j-N_{a,1}} * Q_1$$
 
-$Q\_1=156,250$ means that providing 156,250 TRIP Miles is more than enough to give the user a 50% chance at achieving the rarest attribute in trait 1.
+$$Q_1=156,250$$ means that providing 156,250 TRIP Miles is more than enough to give the user a 50% chance at achieving the rarest attribute in trait 1.
 
-The $A\_{1j}$ parameter now increases by a factor of 2.5 with increasing attribute number within trait 1's set of attributes, ending at 0.99 of $Q\_1$.
+The $$A_{1j}$$ parameter now increases by a factor of 2.5 with increasing attribute number within trait 1's set of attributes, ending at 0.99 of $$Q_1$$.
 
-The way $A$ and $Q$ vary for trait 1 staggers sigmoid (S-shaped) probability curves for each attribute, with the most common attribute starting at the lower end of the tier spectrum, and the most rare attribute ending at the upper end of the tier spectrum.
+The way $$A$$and $$Q$$ vary for trait 1 staggers sigmoid (S-shaped) probability curves for each attribute, with the most common attribute starting at the lower end of the tier spectrum, and the most rare attribute ending at the upper end of the tier spectrum.
 
 <div>
 
@@ -260,14 +251,16 @@ The way $A$ and $Q$ vary for trait 1 staggers sigmoid (S-shaped) probability cur
 
 </div>
 
-Across each trait's set of attributes, $Q\_i$ increases by a factor of 40 with increasing trait $i$, indicating the increasing relative rarity with increasing trait index.
+Across each trait's set of attributes, $$Q_i$$ increases by a factor of 40 with increasing trait $$i$$, indicating the increasing relative rarity with increasing trait index.
 
-$$Q_i = 1.0 \times 10^{10} \cdot 40^{i - N_t}$$
+$$
+Q_i = 1.0 \times 10^{10} \cdot 40^{i - N_t}
+$$
 
 where:
 
-* $N\_t$ is the number of traits, with $N\_t = 4$ for TRIP Rewards.
-* $i$ is the trait index
+* $$N_t$$ is the number of traits, with $$N_t = 4$$ for TRIP Rewards.
+* $$i$$ is the trait index
 
 Once attribute levels have been selected for all of the traits, the selected attribute levels are shuffled between the traits. This maintains the design principle where higher tiers have rarer traits, while introducing more visual variation in the final collection of TRIP Rewards.
 
