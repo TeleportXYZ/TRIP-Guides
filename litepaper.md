@@ -1,7 +1,5 @@
 # Litepaper
 
-<figure><img src=".gitbook/assets/header (1).png" alt=""><figcaption></figcaption></figure>
-
 ## 1. Introduction
 
 The internet is an open network: Anyone can start an internet service provider, run a web site, or build an email client. This open structure has led to the world's most dynamic economy: the online economy.
@@ -126,28 +124,26 @@ Instead of attempting to convince everyone to switch at the same time, a bridge 
 A rideshare marketplace that is fairer, with the participants - not middlemen - in control, is not just a better system. It also has the potential to become a social movement and spread like one.
 
 ## 3. TRIP Miles
+
 ![](<.gitbook/assets/Token Issuance (1).png>)
 
 TRIP Miles are non-transferable, non-monetary reward points that network participants receive by contributing to the network.
 
 TRIP Miles can be used to claim TRIP Rewards which will be explained in Section 4.
 
-## 3.1 Proof-of-Ride
+### 3.1 Proof-of-Ride
 
 One way that users can receive TRIP Miles is by facilitating rides on the network. These contributions are represented in terms of network revenue to account for variability in rides. Network revenue is gross bookings or total customer spend.
 
-## 3.2 Network Revenue Contribution
+### 3.2 Network Revenue Contribution
 
 Since multiple parties participate in facilitating each ride, revenue of a given ride is considered contributed by participants as follows:
 
-<figure style="flex: 1; margin: 0 10px; text-align: center;">
-    <img src="images/image-11.png" alt="alt text" width="350">
-    <figcaption style="text-align: center;">Revenue contribution of a completed ride for the purpose of distributing TRIP Miles</figcaption>
-</figure>
+<figure><img src=".gitbook/assets/image-11.png" alt="" width="563"><figcaption><p>Revenue contribution of a completed ride for the purpose of distributing TRIP Miles</p></figcaption></figure>
 
 Note: Drivers contribute 29% of the fare for the purpose of distributing TRIP Miles. This 29% contribution is separate from how much of the fare (on average 85%) the driver earns.
 
-## 3.3 Competition Miles Allocation
+### 3.3 Competition Miles Allocation
 
 TRIP Miles are allocated to competition participants in proportion to how much network revenue each participant contributed during a competition as described in section 3.2.
 
@@ -157,17 +153,17 @@ As network activity increases the allocation interval will increase and the TRIP
 
 While rider and driver contributions are considered equal for an individual ride, drivers typically receive more TRIP Miles due to completing more rides.
 
-## 3.4 Balancing Supply and Demand
+### 3.4 Balancing Supply and Demand
 
-### 3.4.1 Competition Rollover
+#### 3.4.1 Competition Rollover
 
 When a competition has no rides, its TRIP Miles are rolled over to the next competition, increasing the TRIP Miles pool until a ride occurs. This balances supply and demand by incentivizing rides at off-peak times.
 
-### 3.4.2 Network Growth Incentives
+#### 3.4.2 Network Growth Incentives
 
 Inviting riders and drivers is incentivized. Invited users must actively participate for their inviters to receive TRIP Miles. TRIP Miles are allocated up the invite chain which encourages quality referrals.
 
-## 3.5 Sybil Protection Fee
+### 3.5 Sybil Protection Fee
 
 ![](<.gitbook/assets/64a7250986c87c63f62500db\_Sybil Avoidance Mechanism.png>)
 
@@ -191,18 +187,18 @@ They are issued as non-fungible tokens (NFTs) on the Solana blockchain and comme
 
 Each TRIP Reward has various traits such as vehicle, vehicle style, location, and mascot. Within each trait are multiple attributes. For example, vehicle includes supercar, motorcycle, and spaceship. Attributes of higher levels are rarer than attributes of lower levels.
 
-| Level     | Vehicle            | Vehicle Style         | Location                | Mascot               |
-|-----------|--------------------|-----------------------|-------------------------|----------------------|
-| 0         | Sled               | Ice                   | Iceberg                 | Baby Penguin         |
-| 1         | Supercar           | Cyberpunk             | Futuristic City         | Baby Raccoon         |
-| 2         | Motorcycle         | Art Deco              | Desert                  | Baby Giraffe         |
-| 3         | Submarine          | Coral                 | Underwater              | Baby Octopus         |
-| 4         | Helicopter         | Fire                  | Volcano                 | Baby Dragon          |
-| 5         | Hot Air Balloon    | Wonderland            | Sugar Candyland         | Baby Bunny           |
-| 6         | Jetpack            | Futuristic            | Mars Colony             | Baby Squirrel        |
-| 7         | Airplane           | Folded Paper Origami  | Vaporwave Beach         | Baby Owl             |
-| 8         | Speedboat          | Pre-historic          | Dinosaur                | Baby Brontosaurus    |
-| 9         | Spaceship          | Fantasy Themed        | Fairytale Fantasy World | Baby Shiba Inu       |
+| Level | Vehicle         | Vehicle Style        | Location                | Mascot            |
+| ----- | --------------- | -------------------- | ----------------------- | ----------------- |
+| 0     | Sled            | Ice                  | Iceberg                 | Baby Penguin      |
+| 1     | Supercar        | Cyberpunk            | Futuristic City         | Baby Raccoon      |
+| 2     | Motorcycle      | Art Deco             | Desert                  | Baby Giraffe      |
+| 3     | Submarine       | Coral                | Underwater              | Baby Octopus      |
+| 4     | Helicopter      | Fire                 | Volcano                 | Baby Dragon       |
+| 5     | Hot Air Balloon | Wonderland           | Sugar Candyland         | Baby Bunny        |
+| 6     | Jetpack         | Futuristic           | Mars Colony             | Baby Squirrel     |
+| 7     | Airplane        | Folded Paper Origami | Vaporwave Beach         | Baby Owl          |
+| 8     | Speedboat       | Pre-historic         | Dinosaur                | Baby Brontosaurus |
+| 9     | Spaceship       | Fantasy Themed       | Fairytale Fantasy World | Baby Shiba Inu    |
 
 ### 4.2 Reward Tiers
 
@@ -210,14 +206,11 @@ TRIP Rewards are classified into tiers numbered from 1 to 41. Higher tier TRIP R
 
 The TRIP Miles needed to advance from one tier to the next doubles. So, Tier 1 rewards can be claimed with 1 TRIP Mile, while Tier 2 with 2, Tier 6 with 32, Tier 11 with 1024, and so on.
 
-<figure>
-    <img src="images/image-1.png" alt="">
-    <figcaption style="text-align: center;">Each colored bar represents the percentage chance an attribute of a given trait occurs at a specific tier.</figcaption>
-</figure>
-<!-- ![](images/image-1.png) -->
+<figure><img src=".gitbook/assets/image-1.png" alt="" width="563"><figcaption><p>Each colored bar represents the percentage chance an attribute of a given trait occurs at a specific tier.</p></figcaption></figure>
 
 ### 4.3 Claiming TRIP Rewards
-<img src="images/image-4.png" alt="drawing" width="150" style="display:block; margin-left: auto; margin-right:auto; margin-bottom:20px;"/>
+
+<figure><img src=".gitbook/assets/image-4.png" alt="" width="375"><figcaption></figcaption></figure>
 
 TRIP Miles determine the tier of the TRIP Reward that can be claimed. When claiming a TRIP Reward using TRIP Miles always the highest tier available is claimed. Leftover TRIP Miles can be used to claim additional lower tier TRIP Rewards.
 
@@ -231,55 +224,50 @@ The more TRIP Miles are provided during a TRIP Rewards claim, the higher the lik
 
 The probability selection criteria for trait $i$, attribute $j$, with respect to TRIP Miles, $M$ is defined as:
 
-$$ p_{ij}(M) = 1 - 2^{-\left( \frac{1}{Q_i} + \frac{M-1}{A_{ij}} \right)} $$
+$$p_{ij}(M) = 1 - 2^{-\left( \frac{1}{Q_i} + \frac{M-1}{A_{ij}} \right)}$$
 
 where subscripts $i$ and $j$ are 1-based index.
 
 **Within each trait's set of attributes $i$**, the rarity functions are parameterized by:
 
-- a common value $Q_i$
-- a distinct value $A_{ij}$ for each attribute $j$
+* a common value $Q\_i$
+* a distinct value $A\_{ij}$ for each attribute $j$
 
-The $A_{ij}$ parameter is defined based on an exponential decay relative to the $Q_i$ value, and increases by a factor of 2.5 with increasing attribute level $j$.
+The $A\_{ij}$ parameter is defined based on an exponential decay relative to the $Q\_i$ value, and increases by a factor of 2.5 with increasing attribute level $j$.
 
-$$ A_{ij} = 0.99 \cdot 2.5^{j - N_{a,i}} \cdot Q_i $$
+$$A_{ij} = 0.99 \cdot 2.5^{j - N_{a,i}} \cdot Q_i$$
 
-where $N_{a,i}$ is the number of attributes within the trait $i$
+where $N\_{a,i}$ is the number of attributes within the trait $i$
 
 For example, in trait 1:
 
-- $Q_1=156,250$
-- $A_{1j} = 0.99 * 2.5^{j-N_{a,1}} * Q_1$
+* $Q\_1=156,250$
+* $A\_{1j} = 0.99 \* 2.5^{j-N\_{a,1\}} \* Q\_1$
 
-$Q_1=156,250$ means that providing 156,250 TRIP Miles is more than enough to give the user a 50% chance at achieving the rarest attribute in trait 1.
+$Q\_1=156,250$ means that providing 156,250 TRIP Miles is more than enough to give the user a 50% chance at achieving the rarest attribute in trait 1.
 
-The $A_{1j}$ parameter now increases by a factor of 2.5 with increasing attribute number within trait 1's set of attributes, ending at 0.99 of $Q_1$.
+The $A\_{1j}$ parameter now increases by a factor of 2.5 with increasing attribute number within trait 1's set of attributes, ending at 0.99 of $Q\_1$.
 
 The way $A$ and $Q$ vary for trait 1 staggers sigmoid (S-shaped) probability curves for each attribute, with the most common attribute starting at the lower end of the tier spectrum, and the most rare attribute ending at the upper end of the tier spectrum.
 
-<div style="display: flex; justify-content: space-between;">
-    <figure style="margin: 0 10px;">
-        <img src="images/image-10.png" alt="">
-        <figcaption style="text-align: center;">Staggered sigmoid-like probability curves for each attribute in trait 1.
-        </figcaption>
-    </figure>
-    <figure style="margin: 0 10px;">
-        <img src="images/image-9.png" alt="">
-        <figcaption style="text-align: center;">Rarity
-        distribution of trait 1 attributes as a variation of TRIP Rewards tier.
-        </figcaption>
-    </figure>
+<div>
+
+<figure><img src=".gitbook/assets/image-10.png" alt="" width="450"><figcaption><p>Staggered sigmoid-like probability curves for each attribute in trait 1.</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image-9.png" alt="" width="450"><figcaption><p>Rarity distribution of trait 1 attributes as a variation of TRIP Rewards tier.</p></figcaption></figure>
+
 </div>
 
-<br></br>
-Across each trait's set of attributes, $Q_i$ increases by a factor of 40 with increasing trait $i$, indicating the increasing relative rarity with increasing trait index.
+Across each trait's set of attributes, $Q\_i$ increases by a factor of 40 with increasing trait $i$, indicating the increasing relative rarity with increasing trait index.
 
-$$ Q_i = 1.0 \times 10^{10} \cdot 40^{i - N_t} $$
+$$Q_i = 1.0 \times 10^{10} \cdot 40^{i - N_t}$$
 
 where:
 
-- $N_t$ is the number of traits, with $N_t = 4$ for TRIP Rewards.
-- $i$ is the trait index
+* $N\_t$ is the number of traits, with $N\_t = 4$ for TRIP Rewards.
+* $i$ is the trait index
 
 Once attribute levels have been selected for all of the traits, the selected attribute levels are shuffled between the traits. This maintains the design principle where higher tiers have rarer traits, while introducing more visual variation in the final collection of TRIP Rewards.
 
@@ -468,7 +456,7 @@ With slight modifications, this approach could be applied to a broad range of on
 We welcome feedback and contributions and are looking forward to the launch of the first TRIP services, servers, and mobile apps.
 
 {% hint style="info" %}
-#### Feedback
+**Feedback**
 
 You're encouraged to help improve the quality of this guide.
 
