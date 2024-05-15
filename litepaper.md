@@ -239,7 +239,7 @@ $$Q_1=156,250$$ means that providing 156,250 TRIP Miles is more than enough to g
 
 The $$A_{1j}$$ parameter now increases by a factor of 2.5 with increasing attribute number within trait 1's set of attributes, ending at 0.99 of $$Q_1$$.
 
-The way $$A$$and $$Q$$ vary for trait 1 staggers sigmoid (S-shaped) probability curves for each attribute, with the most common attribute starting at the lower end of the tier spectrum, and the most rare attribute ending at the upper end of the tier spectrum.
+The way $$A$$ and $$Q$$ vary for trait 1 staggers sigmoid (S-shaped) probability curves for each attribute, with the most common attribute starting at the lower end of the tier spectrum, and the most rare attribute ending at the upper end of the tier spectrum.
 
 <div>
 
