@@ -211,7 +211,7 @@ To select attributes for a trait, a random number is drawn and compared against 
 
 The more TRIP Miles are provided during a TRIP Rewards claim, the higher the likelihood that a rarer attribute will be selected. This is accomplished via a rarity function that varies from 0-1 depending on the amount of TRIP Miles provided. Providing more TRIP Miles pushes the rarity function’s value closer to 1, which means closer to a 100% chance of an attribute at least that rare being selected.
 
-The probability selection criteria for trait $i$, attribute $j$, with respect to TRIP Miles, $M$ is defined as:
+The probability selection criteria for trait $$i$$, attribute $$j$$, with respect to TRIP Miles, $$M$$ is defined as:
 
 $$
 p_{ij}(M) = 1 - 2^{-\left( \frac{1}{Q_i} + \frac{M-1}{A_{ij}} \right)}
