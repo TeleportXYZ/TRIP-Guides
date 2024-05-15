@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Litepaper](litepaper.md)
 
 ## Riders
 
@@ -45,7 +46,6 @@
 
 * [FAQ](faq/README.md)
   * [Atomic Network Estimates](faq/atomic-network-estimates.md)
-* [Litepaper](litepaper.md)
 * [Contributors](contributors.md)
 * [Teleport](https://www.teleport.xyz/)
 * [Contribute on GitHub](https://github.com/TeleportXYZ/TRIP-Guides/issues)
