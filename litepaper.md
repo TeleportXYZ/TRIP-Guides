@@ -123,7 +123,183 @@ Instead of attempting to convince everyone to switch at the same time, a bridge 
 
 A rideshare marketplace that is fairer, with the participants - not middlemen - in control, is not just a better system. It also has the potential to become a social movement and spread like one.
 
-## 3. TRIP Miles
+## 3. Protocol Design <a href="#id-5.-protocol-design" id="id-5.-protocol-design"></a>
+
+The operation of the decentralized rideshare network involves the following entities:
+
+1. **Riders** and **Drivers** are **Users** who connect to the protocol to offer or request rides using **Rideshare Apps**. These apps are the equivalent of a web browser or email client.
+2. **Operators** handle the regulatory and operational requirements of providing rideshare service. They are powered by **Rideshare Server** software which is comparable to a web or email server. Depending on the applicable local regulatory framework, an Operator may serve as Transportation Network Company (TNC) or Transportation Network Provider (TNP) or Fleet Manager.
+3. The **TRIP Marketplace** consists of a set of blockchain smart contracts that offer coordination and consensus services to the rideshare network. These smart contracts are governed by a Decentralized Autonomous Organization (DAO) and help the network remain neutral and fair without having to rely on centralized authority.
+4. **Balancers** are network participants that help the TRIP Marketplace overcome supply/demand imbalances by inviting additional drivers and riders.
+5. **Verifiers** are entities who inspect driver licenses, perform car inspections, conduct background checks and verify phone numbers.
+6. **Auditors** are entities that are capable of confirming the legal and operational readiness of both Verifiers and Operators.
+
+Once verified, any entity that is capable and legally permitted of performing a role can fulfill that role within the system.
+
+### 3.1 Key-Centric Identity
+
+![](<.gitbook/assets/64b9506d65b9a4548e700e5d\_Key-Centric Identity.png>)
+
+All entities on the network are uniquely identified by a public/private key pair that they self-generate.
+
+Entities use their keys to identify themselves, authenticate connections, sign messages, and store USDC and other digital tokens, as well as certificates associated with their public key.
+
+### 3.2 Attestations
+
+![](.gitbook/assets/64a723e22fc942c93065fc7b\_Attestations.png)
+
+Entities can make statements about each other by signing statements about the public keys of other entities. These statements can be made either onchain or off chain.
+
+### 3.3 The TRIP Marketplace
+
+![](<.gitbook/assets/64a723ff9edfe3959ee670fa\_Coordination Layer.png>)
+
+The TRIP Marketplace is a set of smart contracts that run on a blockchain. It provides consensus, coordination, and governance services for all other components of the rideshare network.
+
+### 3.4 Network Authorization
+
+![](<.gitbook/assets/Authorization (1).png>)
+
+In order to comply with legal and regulatory requirements, maintain high safety standards, and ensure customer satisfaction, all rideshare network participants must undergo an authorization process appropriate for their role before being granted access to the network.
+
+The TRIP Marketplace is democratically governed by network participants and holds ultimate authority on the network. Through voting on the TRIP Marketplace, the authority to make attestations can be temporarily and revocably delegated from the TRIP marketplace to dedicated Auditors and Verifiers.
+
+An Auditor is a firm or individual authorized by the governance of the TRIP Marketplace to verify that Operators and Verifiers are legally permitted and operationally capable of fulfilling their assigned roles on the network.
+
+A Verifier is a service or entity that validates claims or assertions made by users or entities within the decentralized ecosystem. Verifiers play a crucial role in establishing trust and credibility when traditional centralized authorities are not present.
+
+#### 3.4.1 Onchain Authorization
+
+![](<.gitbook/assets/64b95107ab846bbd967c86be\_On-Chain Authorization.png>)
+
+Verifiers must be in legal and operational compliance with all applicable regulations and laws before they begin providing attestation services to the network.
+
+Operators must obtain licenses and insurance, and be operationally prepared to comply with regulatory and safety requirements in each geography they wish to serve, before they can begin matching riders and drivers within those locations.
+
+To ensure that Verifiers and Operators are compliant with local regulation and operational requirements, the TRIP Marketplace votes to deputize dedicated auditing firms. These firms receive authorization by multi-sig keys to sign off on the regulatory and operational readiness of Operators and Verifiers.
+
+Once Operators and Verifiers have been approved by a majority multi-sig vote, they are publicly listed on the contract together with their public key and DNS address, as well as additional metadata such as geographic zones of operation.
+
+#### 3.4.2 Certificate-Based Authorization
+
+![](.gitbook/assets/Attestations.png)
+
+While Operators and Verifiers are authorized on the blockchain, drivers and riders (users) are authenticated off-chain to preserve privacy and control.
+
+After a Verifier has completed the certificate-based authorization flow, the user's rideshare app receives certificates that they can use to prove their authorization with a high level of precision and control. Types of authorizations include background checks, driver licenses, car inspections, and any other credentials required for legal operation.
+
+For example, if a user’s rideshare app requires a certificate to prove that its phone number has been verified, they can contact a Verifier capable of providing that service. After the usual public key-based handshake described earlier, the Verifier then sends a text message with a code to the user’s phone number.
+
+After the user enters the correct code in either the ride share app or on a dedicated website, the phone number Verifier confirms that the phone number has been verified by transmitting two signed certificates to the user’s rideshare app:
+
+1. A signed certificate stating that “\<Verifier PubKey> has established on \<Date> that \<User PubKey> has a valid phone number.”
+2. A signed certificate stating that “\<Verifier pubKey> has established on \<Date> that \<User PubKey> has a valid phone number, and that this phone number is +1 (415) 000-9999.”
+
+Having received two separate certificates, the user’s app is now in a position to choose whether to prove that their phone number has been verified, or that a specific phone number has been verified for their use, without having to resort to Zero Knowledge Proof techniques. Certificates have an expiration date and can be revoked through a certificate revocation list.
+
+The user is now verified through the Verifier and can prove to any other entities that their phone number has been verified, without needing to disclose the phone number to other protocol participants.
+
+### 3.5 Ordering a Ride
+
+![](.gitbook/assets/64b95177fbce18a5dbc1a3b0\_Initialization.png)
+
+Once at least one Operator and enough Verifiers have been approved to operate within a specific geographic area, the system is considered live in that area.
+
+#### **3.5.1 Secure Connection Establishment**
+
+![](<.gitbook/assets/64b9702b465546b05b40c8c6\_Secure Connection Establishment-1.png>)
+
+When two entities establish a direct network connection, they use their keys to establish an encrypted and mutually authenticated session. The session is protected against impersonation, man-in-the-middle, and replay attacks.
+
+During connection establishment, Operators validate that Drivers and Riders have passed all necessary checks, while Drivers and Riders validate that the Operator has been approved for operation in the region. Upon a successful match by the Operator, Drivers and Riders again verify each other's credentials before beginning a ride.
+
+The multiple redundancies in this process help ensure that rides established via the TRIP protocol are legal and insured, and that drivers and riders are vetted.
+
+#### 3.5.2 Service Area
+
+![](.gitbook/assets/64b951e3b7208774e01946a4\_Geo-Fence.png)
+
+Both riders and drivers can connect to all Operators that are licensed to operate in or near their current geographic region.
+
+Riders can query all applicable Operators for offers. Depending on local insurance, regulatory, and practical requirements, Drivers can be connected to and/or online with one or more Operators at the same time. Drivers can further instantly deactivate their active status with one Operator and switch to another. The specific policy and triggers for switching are up to the rideshare app, but most handovers are expected to happen organically without user intervention.
+
+For example, automatic switching from one Operator to another can occur when crossing state or country lines. Once the driver app crosses a service area border, the rideshare app will automatically become active with an Operator licensed in the newly entered state or country.
+
+In the United States the Interstate Commerce Clause (Article 1, Section 8, Clause 3 of the U.S. Constitution), the Full Faith and Credit Clause (Article 4, Section 1), and the Real Interstate Drivers’ Equity (RIDE) Act (48 U.S.C. 14501(d)) ensure that drivers can drop off customers in states other than the one where the initial pick-up contract was established.
+
+#### **3.5.3 Supply & Demand Indication**
+
+![](<.gitbook/assets/64b951f4a21e999ef4a6da5d\_Supply & Demand.png>)
+
+Once drivers and riders are connected and their credentials are validated by a local Operator, drivers can indicate that they are available to accept rides (supply indication), and riders can request rides (demand indication).
+
+After going active, the driver's rideshare app regularly updates the driver's location with its active Operator.
+
+#### **3.5.4 Matching & Pricing**
+
+![](<.gitbook/assets/64b952051d007fdfdf5a50b9\_Matching\&Pricing (1).png>)
+
+When an Operator with active drivers receives a ride request from an eligible rider it checks the location of nearby drivers and uses its internal pricing engine to prepare an offer to both drivers and riders. Offers include both pricing and ETA estimates. Drivers get offers only from their active Operator, but riders get offers from all validated and licensed Operators in the geographic area. The pricing offered to both drivers and riders need to be mutually accepted before a trip is established. All pricing information and the take-rate of all involved entities is fully transparent to all participants.
+
+#### 3.5.5 Payment Rails
+
+Payments on the rideshare protocol (TRIP) are made using national currencies, such as the US dollar. The system - as much as is possible - supports both traditional payment methods such as credit cards and bank transfers, as well as newer payment methods like stablecoins backed by national currencies.
+
+#### **3.5.6 Payment**
+
+![](.gitbook/assets/Payment.png)
+
+When booking a ride through a mobile app, users have several payment options. They can directly use USDC from their digital wallets, refill their digital wallets with the help of a licensed money transmitter, or pay a booking or aggregation agent by credit card or bank transfer to assist with the booking process.
+
+As soon as the customer begins searching for a ride, USDC funds that cover the ride are placed into an escrow program on the TRIP Marketplace.
+
+After the ride concludes, funds from the escrow are used to settle balances with all entities that receive a payout from the ride.
+
+If the user decides to use a booking or aggregation agent to help book a ride and pay with a credit card or bank transfer, the payment process is similar to the non-custodial flow. The booking agent charges its own fee structure for assisting the customer in securing a ride and assumes all risk for the credit card or bank transfer transaction with the customer and then uses its own segregated USDC funds to order a ride to fulfill its booking contract with the customer.
+
+Since the purchase of a ride by a customer is a normal e-commerce transaction, additional customer identity verification before the credit card transaction is optional and depends in part on the comprehensive risk-management strategy of the booking agent, since they are liable for any and all chargebacks. All recipients of funds (drivers, service providers) are always fully background checked which reduces the potential for fraud.
+
+If a customer wants to refill USDC for direct use in their non-custodial wallet, additional identity verification is required to comply with Anti-Money-Laundering (AML) and Know-Your-Customer (KYC) regulation.
+
+Drivers are always paid in USDC to their non-custodial USDC wallets. The developers of the iPhone and Android apps can work with licensed money transmitters to facilitate withdrawals to drivers' bank accounts via ACH.
+
+If the money transmitter accepts TRIP certificate credentials, it is possible that the driver background checks that were already conducted for passenger safety can be reused by the licensed money transmitters to facilitate ACH withdrawals.
+
+#### **3.5.7 Ride Conclusion**
+
+![](<.gitbook/assets/64b952781c8ab21a4ebdcba2\_Ride Conclusion.png>)
+
+At the end of a ride, the contract settles all outstanding payment balances out of escrow. Both the rider and driver apps report information, including the estimated time of arrival (ETA) and actual ride time, back to The TRIP Marketplace. The TRIP Marketplace can use this information to ensure that Operators provide accurate ETA estimates.
+
+The Operator is fully responsible for compliance with local legal requirements around the collection and reporting of trip data points (such as pick-up/drop-off location, total fare, time of booking, number of passengers, wheelchair accessible requests and fulfillments). This is only necessary in jurisdictions where local law or regulation requires such reporting.
+
+Driver, Rider, and Operator ratings are optionally reported to a rating aggregation service as signed proofs. In the future, zero-knowledge-proofs will be used to remove reliance on aggregation services while preserving privacy for all participants.
+
+#### **3.5.8 Dispute Resolution**
+
+![](<.gitbook/assets/Dispute Resolution.png>)
+
+Operators are responsible for the trips they facilitate and are required to conduct background checks on both riders and drivers before facilitating a match. The TRIP protocol enforces this by ensuring that both Operator and the driver/rider they are matched with are licensed, insured, permitted to operate in their geographic target area, and have passed a background check.
+
+Operators who operate using the TRIP protocol are subject to the same requirements as any other rideshare operator. This includes full compliance with all applicable local regulations and laws, handling customer support requests, and cooperating with law enforcement. Operators also have the final say in resolving disputes and issuing refunds, in compliance with applicable laws and regulations.
+
+To join the network, Operators must establish mechanisms for registering and responding to customer requests and complaints. This process is validated by dedicated compliance auditing firms that review their applications before verifying them via onchain authorization.
+
+Operators that underdeliver on customer support, provide bad estimated times of arrival (ETAs), or are negligent of their duties to comply with safety regulations and ensure the well-being of drivers and riders will be penalized by the TRIP Marketplace or even removed from the network.
+
+Increased competition, closely tracked ratings, and enforcement of high standards by The TRIP Marketplace compel Operators to deliver higher-quality service. Unlike in a centralized monopoly, riders and drivers have plenty of alternative options to choose from.
+
+#### **3.5.9 Privacy**
+
+![](.gitbook/assets/64b9530024baee28cab82d75\_Privacy.png)
+
+TRIP's architecture is carefully designed to select which data is transmitted to which party and where control over the data is located. Data is only shared with the minimum subset of recipients required for legal, safety, and technical reasons.
+
+Transaction and identity-related data never come into contact with a blockchain or any other public repositories. Payments do occur on the public ledger but contain no information about destinations beyond what any normal blockchain payment would reveal.
+
+The public nature of ledger technologies is known to have privacy implications, which have been thoroughly studied and researched. It is possible and reasonable to reduce information leakage from blockchain transactions in the future by introducing privacy-enhancing zk-SNARK technologies, and we do believe that this will be an important addition to future protocol versions.
+
+## 4. TRIP Miles
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -131,11 +307,11 @@ TRIP Miles are non-transferable, non-monetary reward points that network partici
 
 TRIP Miles can be used to claim TRIP Rewards which will be explained in Section 4.
 
-### 3.1 Proof-of-Ride
+### 4.1 Proof-of-Ride
 
 One way that users can receive TRIP Miles is by facilitating rides on the network. These contributions are represented in terms of network revenue to account for variability in rides. Network revenue is gross bookings or total customer spend.
 
-### 3.2 Network Revenue Contribution
+### 4.2 Network Revenue Contribution
 
 Since multiple parties participate in facilitating each ride, revenue of a given ride is considered contributed by participants as follows:
 
@@ -143,7 +319,7 @@ Since multiple parties participate in facilitating each ride, revenue of a given
 
 Note: Drivers contribute 29% of the fare for the purpose of distributing TRIP Miles. This 29% contribution is separate from how much of the fare (on average 85%) the driver earns.
 
-### 3.3 Competition Miles Allocation
+### 4.3 Competition Miles Allocation
 
 TRIP Miles are allocated to competition participants in proportion to how much network revenue each participant contributed during a competition as described in section 3.2.
 
@@ -153,17 +329,17 @@ As network activity increases the allocation interval will increase and the TRIP
 
 While rider and driver contributions are considered equal for an individual ride, drivers typically receive more TRIP Miles due to completing more rides.
 
-### 3.4 Balancing Supply and Demand
+### 4.4 Balancing Supply and Demand
 
-#### 3.4.1 Competition Rollover
+#### 4.4.1 Competition Rollover
 
 When a competition has no rides, its TRIP Miles are rolled over to the next competition, increasing the TRIP Miles pool until a ride occurs. This balances supply and demand by incentivizing rides at off-peak times.
 
-#### 3.4.2 Network Growth Incentives
+#### 4.4.2 Network Growth Incentives
 
 Inviting riders and drivers is incentivized. Invited users must actively participate for their inviters to receive TRIP Miles. TRIP Miles are allocated up the invite chain which encourages quality referrals.
 
-### 3.5 Sybil Protection Fee
+### 4.5 Sybil Protection Fee
 
 ![](<.gitbook/assets/64a7250986c87c63f62500db\_Sybil Avoidance Mechanism.png>)
 
@@ -175,7 +351,7 @@ The TRIP Marketplace holds the Sybil fee, to be exclusively controlled by the ne
 
 In future iterations of the protocol, the USDC Sybil fee could also potentially be used to finance the automated acquisition of gas for the blockchain the protocol utilizes, as well as to facilitate the automated payment of other various blockchain operations.
 
-## 4. TRIP Rewards
+## 5. TRIP Rewards
 
 <figure><img src=".gitbook/assets/trip reards.png" alt=""><figcaption></figcaption></figure>
 
@@ -183,13 +359,13 @@ TRIP Rewards are digital collectibles on The Rideshare Protocol (TRIP).
 
 They are issued as non-fungible tokens (NFTs) on the Solana blockchain and commemorate network activity.
 
-### 4.1 Reward Traits and Attributes
+### 5.1 Reward Traits and Attributes
 
 Each TRIP Reward has various traits such as vehicle, vehicle style, location, and mascot. Within each trait are multiple attributes. For example, vehicle includes supercar, motorcycle, and spaceship. Attributes of higher levels are rarer than attributes of lower levels.
 
 <table><thead><tr><th>Level</th><th>Vehicle</th><th width="131">Vehicle Style</th><th>Location</th><th>Mascot</th></tr></thead><tbody><tr><td>0</td><td>Sled</td><td>Ice</td><td>Iceberg</td><td>Baby Penguin</td></tr><tr><td>1</td><td>Supercar</td><td>Cyberpunk</td><td>Futuristic City</td><td>Baby Raccoon</td></tr><tr><td>2</td><td>Motorcycle</td><td>Art Deco</td><td>Desert</td><td>Baby Giraffe</td></tr><tr><td>3</td><td>Submarine</td><td>Coral</td><td>Underwater</td><td>Baby Octopus</td></tr><tr><td>4</td><td>Helicopter</td><td>Fire</td><td>Volcano</td><td>Baby Dragon</td></tr><tr><td>5</td><td>Hot Air Balloon</td><td>Wonderland</td><td>Sugar Candyland</td><td>Baby Bunny</td></tr><tr><td>6</td><td>Jetpack</td><td>Futuristic</td><td>Mars Colony</td><td>Baby Squirrel</td></tr><tr><td>7</td><td>Airplane</td><td>Folded Paper Origami</td><td>Vaporwave Beach</td><td>Baby Owl</td></tr><tr><td>8</td><td>Speedboat</td><td>Pre-historic</td><td>Dinosaur</td><td>Baby Brontosaurus</td></tr><tr><td>9</td><td>Spaceship</td><td>Fantasy Themed</td><td>Fairytale Fantasy World</td><td>Baby Shiba Inu</td></tr></tbody></table>
 
-### 4.2 Reward Tiers
+### 5.2 Reward Tiers
 
 TRIP Rewards are classified into tiers numbered from 1 to 41. Higher tier TRIP Rewards have rarer attributes on average.
 
@@ -197,7 +373,7 @@ The TRIP Miles needed to advance from one tier to the next doubles. So, Tier 1 r
 
 <figure><img src=".gitbook/assets/image-1.png" alt="" width="563"><figcaption><p>Each colored bar represents the percentage chance an attribute of a given trait occurs at a specific tier.</p></figcaption></figure>
 
-### 4.3 Claiming TRIP Rewards
+### 5.3 Claiming TRIP Rewards
 
 <figure><img src=".gitbook/assets/image-4.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -205,7 +381,7 @@ TRIP Miles determine the tier of the TRIP Reward that can be claimed. When claim
 
 The Solana blockchain might charge nominal gas fees for the minting process, but it is expected that various entities participating in the protocol will choose to serve as payer for those fees while managing the number of claims available to a user each day. The protocol's sybil protection fee could also be utilized to pay network gas for users.
 
-### 4.4 Attribute Rarity
+### 5.4 Attribute Rarity
 
 To select attributes for a trait, a random number is drawn and compared against the probability criteria for each attribute in decreasing rarity (Attribute 9 → Attribute 0) until the random number is less than the probability value.
 
@@ -264,185 +440,9 @@ where:
 
 Once attribute levels have been selected for all of the traits, the selected attribute levels are shuffled between the traits. This maintains the design principle where higher tiers have rarer traits, while introducing more visual variation in the final collection of TRIP Rewards.
 
-## 5. Protocol Design
-
-The operation of the decentralized rideshare network involves the following entities:
-
-1. **Riders** and **Drivers** are **Users** who connect to the protocol to offer or request rides using **Rideshare Apps**. These apps are the equivalent of a web browser or email client.
-2. **Operators** handle the regulatory and operational requirements of providing rideshare service. They are powered by **Rideshare Server** software which is comparable to a web or email server. Depending on the applicable local regulatory framework, an Operator may serve as Transportation Network Company (TNC) or Transportation Network Provider (TNP) or Fleet Manager.
-3. The **TRIP Marketplace** consists of a set of blockchain smart contracts that offer coordination and consensus services to the rideshare network. These smart contracts are governed by a Decentralized Autonomous Organization (DAO) and help the network remain neutral and fair without having to rely on centralized authority.
-4. **Balancers** are network participants that help the TRIP Marketplace overcome supply/demand imbalances by inviting additional drivers and riders.
-5. **Verifiers** are entities who inspect driver licenses, perform car inspections, conduct background checks and verify phone numbers.
-6. **Auditors** are entities that are capable of confirming the legal and operational readiness of both Verifiers and Operators.
-
-Once verified, any entity that is capable and legally permitted of performing a role can fulfill that role within the system.
-
-### 5.1 Key-Centric Identity
-
-![](<.gitbook/assets/64b9506d65b9a4548e700e5d\_Key-Centric Identity.png>)
-
-All entities on the network are uniquely identified by a public/private key pair that they self-generate.
-
-Entities use their keys to identify themselves, authenticate connections, sign messages, and store USDC and other digital tokens, as well as certificates associated with their public key.
-
-### 5.2 Attestations
-
-![](.gitbook/assets/64a723e22fc942c93065fc7b\_Attestations.png)
-
-Entities can make statements about each other by signing statements about the public keys of other entities. These statements can be made either on-chain or off-chain.
-
-### 5.3 The TRIP Marketplace
-
-![](<.gitbook/assets/64a723ff9edfe3959ee670fa\_Coordination Layer.png>)
-
-The TRIP Marketplace is a set of smart contracts that run on a blockchain. It provides consensus, coordination, and governance services for all other components of the rideshare network.
-
-### 5.4 Network Authorization
-
-![](<.gitbook/assets/Authorization (1).png>)
-
-In order to comply with legal and regulatory requirements, maintain high safety standards, and ensure customer satisfaction, all rideshare network participants must undergo an authorization process appropriate for their role before being granted access to the network.
-
-The TRIP Marketplace is democratically governed by network participants and holds ultimate authority on the network. Through voting on the TRIP Marketplace, the authority to make attestations can be temporarily and revocably delegated from the TRIP marketplace to dedicated Auditors and Verifiers.
-
-An Auditor is a firm or individual authorized by the governance of the TRIP Marketplace to verify that Operators and Verifiers are legally permitted and operationally capable of fulfilling their assigned roles on the network.
-
-A Verifier is a service or entity that validates claims or assertions made by users or entities within the decentralized ecosystem. Verifiers play a crucial role in establishing trust and credibility when traditional centralized authorities are not present.
-
-#### 5.4.1 On-Chain Authorization
-
-![](<.gitbook/assets/64b95107ab846bbd967c86be\_On-Chain Authorization.png>)
-
-Verifiers must be in legal and operational compliance with all applicable regulations and laws before they begin providing attestation services to the network.
-
-Operators must obtain licenses and insurance, and be operationally prepared to comply with regulatory and safety requirements in each geography they wish to serve, before they can begin matching riders and drivers within those locations.
-
-To ensure that Verifiers and Operators are compliant with local regulation and operational requirements, the TRIP Marketplace votes to deputize dedicated auditing firms. These firms receive authorization by multi-sig keys to sign off on the regulatory and operational readiness of Operators and Verifiers.
-
-Once Operators and Verifiers have been approved by a majority multi-sig vote, they are publicly listed on the contract together with their public key and DNS address, as well as additional metadata such as geographic zones of operation.
-
-#### 5.4.2 Certificate-Based Authorization
-
-![](.gitbook/assets/Attestations.png)
-
-While Operators and Verifiers are authorized on the blockchain, drivers and riders (users) are authenticated off-chain to preserve privacy and control.
-
-After a Verifier has completed the certificate-based authorization flow, the user's rideshare app receives certificates that they can use to prove their authorization with a high level of precision and control. Types of authorizations include background checks, driver licenses, car inspections, and any other credentials required for legal operation.
-
-For example, if a user’s rideshare app requires a certificate to prove that its phone number has been verified, they can contact a Verifier capable of providing that service. After the usual public key-based handshake described earlier, the Verifier then sends a text message with a code to the user’s phone number.
-
-After the user enters the correct code in either the ride share app or on a dedicated website, the phone number Verifier confirms that the phone number has been verified by transmitting two signed certificates to the user’s rideshare app:
-
-1. A signed certificate stating that “\<Verifier PubKey> has established on \<Date> that \<User PubKey> has a valid phone number.”
-2. A signed certificate stating that “\<Verifier pubKey> has established on \<Date> that \<User PubKey> has a valid phone number, and that this phone number is +1 (415) 000-9999.”
-
-Having received two separate certificates, the user’s app is now in a position to choose whether to prove that their phone number has been verified, or that a specific phone number has been verified for their use, without having to resort to Zero Knowledge Proof techniques. Certificates have an expiration date and can be revoked through a certificate revocation list.
-
-The user is now verified through the Verifier and can prove to any other entities that their phone number has been verified, without needing to disclose the phone number to other protocol participants.
-
-### 5.5 Ordering a Ride
-
-![](.gitbook/assets/64b95177fbce18a5dbc1a3b0\_Initialization.png)
-
-Once at least one Operator and enough Verifiers have been approved to operate within a specific geographic area, the system is considered live in that area.
-
-#### 5.5.1 Secure Connection Establishment
-
-![](<.gitbook/assets/64b9702b465546b05b40c8c6\_Secure Connection Establishment-1.png>)
-
-When two entities establish a direct network connection, they use their keys to establish an encrypted and mutually authenticated session. The session is protected against impersonation, man-in-the-middle, and replay attacks.
-
-During connection establishment, Operators validate that Drivers and Riders have passed all necessary checks, while Drivers and Riders validate that the Operator has been approved for operation in the region. Upon a successful match by the Operator, Drivers and Riders again verify each other's credentials before beginning a ride.
-
-The multiple redundancies in this process help ensure that rides established via the TRIP protocol are legal and insured, and that drivers and riders are vetted.
-
-#### 5.5.2 Service Area
-
-![](.gitbook/assets/64b951e3b7208774e01946a4\_Geo-Fence.png)
-
-Both riders and drivers can connect to all Operators that are licensed to operate in or near their current geographic region.
-
-Riders can query all applicable Operators for offers. Depending on local insurance, regulatory, and practical requirements, Drivers can be connected to and/or online with one or more Operators at the same time. Drivers can further instantly deactivate their active status with one Operator and switch to another. The specific policy and triggers for switching are up to the rideshare app, but most handovers are expected to happen organically without user intervention.
-
-For example, automatic switching from one Operator to another can occur when crossing state or country lines. Once the driver app crosses a service area border, the rideshare app will automatically become active with an Operator licensed in the newly entered state or country.
-
-In the United States the Interstate Commerce Clause (Article 1, Section 8, Clause 3 of the U.S. Constitution), the Full Faith and Credit Clause (Article 4, Section 1), and the Real Interstate Drivers’ Equity (RIDE) Act (48 U.S.C. 14501(d)) ensure that drivers can drop off customers in states other than the one where the initial pick-up contract was established.
-
-#### 5.5.3 Supply & Demand Indication
-
-![](<.gitbook/assets/64b951f4a21e999ef4a6da5d\_Supply & Demand.png>)
-
-Once drivers and riders are connected and their credentials are validated by a local Operator, drivers can indicate that they are available to accept rides (supply indication), and riders can request rides (demand indication).
-
-After going active, the driver's rideshare app regularly updates the driver's location with its active Operator.
-
-#### 5.5.4 Matching & Pricing
-
-![](<.gitbook/assets/64b952051d007fdfdf5a50b9\_Matching\&Pricing (1).png>)
-
-When an Operator with active drivers receives a ride request from an eligible rider it checks the location of nearby drivers and uses its internal pricing engine to prepare an offer to both drivers and riders. Offers include both pricing and ETA estimates. Drivers get offers only from their active Operator, but riders get offers from all validated and licensed Operators in the geographic area. The pricing offered to both drivers and riders need to be mutually accepted before a trip is established. All pricing information and the take-rate of all involved entities is fully transparent to all participants.
-
-#### 5.5.5 Payment Rails
-
-Payments on the rideshare protocol (TRIP) are made using national currencies, such as the US dollar. The system - as much as is possible - supports both traditional payment methods such as credit cards and bank transfers, as well as newer payment methods like stablecoins backed by national currencies.
-
-#### 5.5.6 Payment
-
-![](.gitbook/assets/Payment.png)
-
-When booking a ride through a mobile app, users have several payment options. They can directly use USDC from their digital wallets, refill their digital wallets with the help of a licensed money transmitter, or pay a booking or aggregation agent by credit card or bank transfer to assist with the booking process.
-
-As soon as the customer begins searching for a ride, USDC funds that cover the ride are placed into an escrow program on the TRIP Marketplace.
-
-After the ride concludes, funds from the escrow are used to settle balances with all entities that receive a payout from the ride.
-
-If the user decides to use a booking or aggregation agent to help book a ride and pay with a credit card or bank transfer, the payment process is similar to the non-custodial flow. The booking agent charges its own fee structure for assisting the customer in securing a ride and assumes all risk for the credit card or bank transfer transaction with the customer and then uses its own segregated USDC funds to order a ride to fulfill its booking contract with the customer.
-
-Since the purchase of a ride by a customer is a normal e-commerce transaction, additional customer identity verification before the credit card transaction is optional and depends in part on the comprehensive risk-management strategy of the booking agent, since they are liable for any and all chargebacks. All recipients of funds (drivers, service providers) are always fully background checked which reduces the potential for fraud.
-
-If a customer wants to refill USDC for direct use in their non-custodial wallet, additional identity verification is required to comply with Anti-Money-Laundering (AML) and Know-Your-Customer (KYC) regulation.
-
-Drivers are always paid in USDC to their non-custodial USDC wallets. The developers of the iPhone and Android apps can work with licensed money transmitters to facilitate withdrawals to drivers' bank accounts via ACH.
-
-If the money transmitter accepts TRIP certificate credentials, it is possible that the driver background checks that were already conducted for passenger safety can be reused by the licensed money transmitters to facilitate ACH withdrawals.
-
-#### 5.5.7 Ride Conclusion
-
-![](<.gitbook/assets/64b952781c8ab21a4ebdcba2\_Ride Conclusion.png>)
-
-At the end of a ride, the contract settles all outstanding payment balances out of escrow. Both the rider and driver apps report information, including the estimated time of arrival (ETA) and actual ride time, back to The TRIP Marketplace. The TRIP Marketplace can use this information to ensure that Operators provide accurate ETA estimates.
-
-The Operator is fully responsible for compliance with local legal requirements around the collection and reporting of trip data points (such as pick-up/drop-off location, total fare, time of booking, number of passengers, wheelchair accessible requests and fulfillments). This is only necessary in jurisdictions where local law or regulation requires such reporting.
-
-Driver, Rider, and Operator ratings are optionally reported to a rating aggregation service as signed proofs. In the future, zero-knowledge-proofs will be used to remove reliance on aggregation services while preserving privacy for all participants.
-
-#### 5.5.8 Dispute Resolution
-
-![](<.gitbook/assets/Dispute Resolution.png>)
-
-Operators are responsible for the trips they facilitate and are required to conduct background checks on both riders and drivers before facilitating a match. The TRIP protocol enforces this by ensuring that both Operator and the driver/rider they are matched with are licensed, insured, permitted to operate in their geographic target area, and have passed a background check.
-
-Operators who operate using the TRIP protocol are subject to the same requirements as any other rideshare operator. This includes full compliance with all applicable local regulations and laws, handling customer support requests, and cooperating with law enforcement. Operators also have the final say in resolving disputes and issuing refunds, in compliance with applicable laws and regulations.
-
-To join the network, Operators must establish mechanisms for registering and responding to customer requests and complaints. This process is validated by dedicated compliance auditing firms that review their applications before verifying them via on-chain authorization.
-
-Operators that underdeliver on customer support, provide bad estimated times of arrival (ETAs), or are negligent of their duties to comply with safety regulations and ensure the well-being of drivers and riders will be penalized by the TRIP Marketplace or even removed from the network.
-
-Increased competition, closely tracked ratings, and enforcement of high standards by The TRIP Marketplace compel Operators to deliver higher-quality service. Unlike in a centralized monopoly, riders and drivers have plenty of alternative options to choose from.
-
-#### 5.5.9 Privacy
-
-![](.gitbook/assets/64b9530024baee28cab82d75\_Privacy.png)
-
-TRIP's architecture is carefully designed to select which data is transmitted to which party and where control over the data is located. Data is only shared with the minimum subset of recipients required for legal, safety, and technical reasons.
-
-Transaction and identity-related data never come into contact with a blockchain or any other public repositories. Payments do occur on the public ledger but contain no information about destinations beyond what any normal blockchain payment would reveal.
-
-The public nature of ledger technologies is known to have privacy implications, which have been thoroughly studied and researched. It is possible and reasonable to reduce information leakage from blockchain transactions in the future by introducing privacy-enhancing zk-SNARK technologies, and we do believe that this will be an important addition to future protocol versions.
-
 ## 6. Conclusion
 
-In this paper, we’ve introduced **TRIP**, The Rideshare Protocol, an open and decentralized alternative to centralized rideshare services. TRIP's design provides for on-chain governance and compliance with local regulatory environments.
+In this paper, we’ve introduced **TRIP**, The Rideshare Protocol, an open and decentralized alternative to centralized rideshare services. TRIP's design provides for onchain governance and compliance with local regulatory environments.
 
 With slight modifications, this approach could be applied to a broad range of online marketplaces. As the field develops, we expect that many of the necessary components we’re developing will become interoperable across various protocols. A lot of what we have pioneered with TRIP will also be relevant to developers of future decentralized food delivery, courier service, vacation rental, and auction marketplaces. Some of these marketplace functions could potentially even be served by extensions of the TRIP Marketplace framework.
 
