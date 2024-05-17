@@ -10,7 +10,7 @@ After reading this guide, you will know:
 
 TRIP is everyone's protocol. So far, dozens of people have contributed to TRIP ranging from a single character to massive protocol design changes or significant documentation - all to make TRIP better for everyone. Even if you don't feel up to writing code or documentation yet, there are various other ways that you can contribute, from proposing guides to building the community.
 
-As mentioned in [TRIP's README](https://github.com/TeleportXYZ/TRIP-Guides/blob/main/README.md), everyone interacting in TRIP and its sub-projects' codebases, issue trackers, chat rooms, discussion boards, and mailing lists is expected to follow the TRIP [code of conduct](https://github.com/TeleportXYZ/TRIP-Guides/blob/main/CODE\_OF\_CONDUCT.md).
+As mentioned in [TRIP's README](https://github.com/TeleportXYZ/TRIP-Guides/blob/main/README.md), everyone interacting in TRIP and its sub-projects' codebases, issue trackers, chat rooms, discussion boards, and mailing lists is expected to follow the TRIP [code of conduct](https://github.com/TeleportXYZ/TRIP-RFCs/blob/main/CODE\_OF\_CONDUCT.md).
 
 ***
 

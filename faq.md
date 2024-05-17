@@ -36,19 +36,31 @@ The TRIP Community is not on Discord.
 
 ### How can I buy the token?
 
-Today, TRIP Rewards are issued in the form of NFTs to people who build the network.
+Today, TRIP Rewards are issued as digital collectibles to people who build the network.
 
 Building the network means driving or riding on the network or inviting drivers and riders.
 
-#### How can I earn TRIP Rewards?
+#### What are TRIP Rewards?
 
-You earn TRIP Rewards by building the network.
+TRIP Rewards are digital collectibles.
 
-Building the network means driving or riding on the network or inviting drivers and riders.
+Use TRIP Miles to claim your first TRIP Reward.
 
-#### What can I do with TRIP Rewards once I have them?
+#### What are TRIP Miles?
 
-TRIP Rewards are NFTs. What can be done with NFTs can be done with TRIP Rewards.
+TRIP Miles are reward points you earn by riding, driving, or inviting other active riders or drivers.
+
+#### How can I earn more TRIP Miles?
+
+You can earn more TRIP Miles by:
+
+1. Taking more or longer trips.
+2. Inviting friends who take trips.
+3. Inviting friends who invite their friends who take trips.
+
+So whether you ride or drive, you will want to spread the word.
+
+Message your friends your invite link, have them take trips, and earn more TRIP Miles today.
 
 ### Is the app available on Android?
 
@@ -165,7 +177,7 @@ Until then, here are some ways you can get our attention to prioritize your city
 
 The more self-starting you can be on these fronts, the better.
 
-Share your progress regularly on X (tag us @teleportxyz) and on Telegram as well.
+Share your progress regularly on X (tag us [@teleportxyz](https://x.com/teleportxyz)) and on Telegram as well.
 
 #### How can I know when the app is available in my city?
 

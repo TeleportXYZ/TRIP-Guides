@@ -44,8 +44,7 @@
 
 ***
 
-* [FAQ](faq/README.md)
-  * [Atomic Network Estimates](faq/atomic-network-estimates.md)
+* [FAQ](faq.md)
 * [Contributors](contributors.md)
 * [Teleport](https://www.teleport.xyz/)
 * [Contribute on GitHub](https://github.com/TeleportXYZ/TRIP-Guides/issues)

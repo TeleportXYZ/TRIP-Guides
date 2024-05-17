@@ -1,12 +1,18 @@
 # Balancer Basics
 
-As a Balancer, you can bring the TRIP protocol to your city by referring others in your city to form an atomic network of riders and drivers. Every successful referral is recorded in the Teleport app.&#x20;
+As a Balancer, you can bring the TRIP protocol to your city by referring others in your city to form an atomic network of riders and drivers.&#x20;
 
-You can track how your city compares against other cities below!
+Every successful referral is recorded in the Teleport app.&#x20;
 
-More cities will be added to this list and estimates may change.&#x20;
+We use rideshare simulations to estimate the atomic network for each city.
 
-Check back regularly.
+{% embed url="https://www.youtube.com/watch?v=8RmK6ql8XtA" %}
+
+Right now, there might not be an estimate for your specific city.
+
+In that case, look for a similar city to get an idea of how many riders and drivers will be needed.
+
+We will add more cities to this list and update the estimates over time. Check back regularly.
 
 {% embed url="https://dec.metabaseapp.com/public/dashboard/2a7828b4-e76b-4db9-94cd-dbd316757b6a" fullWidth="false" %}
 
