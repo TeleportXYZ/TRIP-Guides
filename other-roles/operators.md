@@ -49,7 +49,7 @@ Yes. One of the reasons prices on TRIP are fairer is that multiple Operators can
 
 The process will require you to get a license from your state, country, or municipality, and get all the required insurance. An auditor will then validate that your business is capable of and permitted to operate. Next, [fill in this form](https://teleportxyz.typeform.com/to/YFyZeLuy?typeform-source=44kus966t0o.typeform.com), and someone from the TRIP core team can help you set up the rideshare server so your company can get ready to operate.
 
-## How to Apply for a TNC License
+## Getting Your TNC License
 
 A Transportation Network Company (TNC) permit or license enables an entity to operate pre-arranged transportation rides in a given state. It is important to note that each state that you operate in requires its own TNC permit.
 
@@ -73,7 +73,7 @@ If you already have a legal business entity set up in the state where you plan t
   * Open a bank account that allows you to write paper checks.
 * **Foreign State Registration:** If you incorporate in Delaware but want to operate in another state, such as Arizona, you must do a foreign qualification with the Secretary of State. Please note that rideshare is taxable in some states. You may need a Sales Tax permit from the Department of Revenue. This whole process can take up to 3 weeks.
 
-### **Applying for a TNC License**
+### **Applying for the TNC License**
 
 Now, you're ready to start applying for the Transportation Network Company license in the desired state. It is important to track down the right application and read through it before starting. We learned two lessons:
 

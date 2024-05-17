@@ -2,14 +2,14 @@
 
 ## Overview
 
-Drivers on the TRIP get paid in US dollar stablecoin (USD Coin). This is held in your Teleport wallet. There are two ways to cash out your earnings. This guide will walk you through how to use both options:
+Drivers on the TRIP protocol get paid in US dollar stablecoin (USD Coin). This is held in your Teleport wallet. There are two ways to cash out your earnings. This guide will walk you through how to use both options:
 
 1. Transfer to your bank account (recommended).
 2. Transfer from a third party wallet (advanced).
 
 ## Transfer to your bank account
 
-The simplest way to cash out is transferring to your bank account. We've partnered with [Coinflow](https://coinflow.cash/) to give you the ability to cash out USDC directly into your bank account.
+The simplest way to cash out is transferring to your bank account.
 
 <figure><img src="../.gitbook/assets/Cash out guides -- bank transfer.png" alt=""><figcaption></figcaption></figure>
 
@@ -29,7 +29,7 @@ That's it! Your earnings are on the way.
 
 ## Transfer from a third party wallet
 
-To access your USDC and to transfer it from another wallet, you need two things:
+To access your USDC and transfer it from a third party wallet, you need two things:
 
 1. A free Solana wallet (like [Phantom](https://phantom.app/download), [Solflare](https://solflare.com/) or [Backpack](https://backpack.app/)).
 2. A free account on an exchange (like Coinbase).
@@ -62,7 +62,7 @@ To connect to another Solana wallet:
 4. Once you confirm. If it says No Active Wallets Found, tap Quick setup to continue.
 5. Follow the rest of the onboarding steps (creating a passcode, etc).  You should now see your earnings in your new Solana wallet.&#x20;
 
-Here are some of their guides to help you: [Phantom](https://help.phantom.app/hc/en-us/articles/15079894392851-Importing-Your-Existing-Wallet-into-Phantom), [Solflare](https://academy.solflare.com/guides/how-to-import-your-solana-wallet-into-solflare-using-a-private-key-mobile/), [Backpack](https://support.backpack.exchange/en/articles/1062209)
+Here are some of their guides to help you: [Phantom](https://help.phantom.app/hc/en-us/articles/15079894392851-Importing-Your-Existing-Wallet-into-Phantom), [Solflare](https://academy.solflare.com/guides/how-to-import-your-solana-wallet-into-solflare-using-a-private-key-mobile/), and [Backpack](https://support.backpack.exchange/en/articles/1062209).
 
 ### Creating your exchange account
 
@@ -78,7 +78,7 @@ To create your Coinbase account:
 Coinbase requires the following to create an account:
 
 * Be at least 18 years old.
-* A [valid photo ID](https://help.coinbase.com/en-au/coinbase/getting-started/getting-started-with-coinbase/id-doc-verification).
+* A [valid photo ID](https://help.coinbase.com/en/coinbase/getting-started/getting-started-with-coinbase/id-doc-verification).
 * A passport, medicare card, or driver's license.
 * A computer or smartphone connected to the internet.
 * A phone number connected to your smartphone (we'll send SMS text messages).
