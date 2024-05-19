@@ -301,7 +301,7 @@ The public nature of ledger technologies is known to have privacy implications, 
 
 ## 4. TRIP Miles
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 TRIP Miles are non-transferable, non-monetary reward points that network participants receive by contributing to the network.
 
@@ -315,7 +315,7 @@ One way that users can receive TRIP Miles is by facilitating rides on the networ
 
 Since multiple parties participate in facilitating each ride, revenue of a given ride is considered contributed by participants as follows:
 
-<figure><img src=".gitbook/assets/image-11.png" alt="" width="563"><figcaption><p>Revenue contribution of a completed ride for the purpose of distributing TRIP Miles</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Note: Drivers contribute 29% of the fare for the purpose of distributing TRIP Miles. This 29% contribution is separate from how much of the fare (on average 85%) the driver earns.
 
