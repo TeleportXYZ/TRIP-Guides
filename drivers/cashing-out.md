@@ -2,14 +2,16 @@
 
 ## Overview
 
-Drivers on the TRIP protocol get paid in US dollar stablecoin (USD Coin). This is held in your Teleport wallet. There are two ways to cash out your earnings. This guide will walk you through how to use both options:
+Drivers on the TRIP protocol get paid in US dollar stablecoin (USD Coin). All those who ride, drive or invite active riders and drivers [earn TRIP Miles which can be redeemed for TRIP Rewards](https://www.trip.dev/rewards) in the app.&#x20;
 
-1. Transfer to your bank account (recommended).
-2. Transfer from a third party wallet (advanced).
+Both the USDC and TRIP Rewards are held in your Teleport wallet. There are two ways to cash out your earnings. This guide will walk you through how to use both options:
 
-## Transfer to your bank account
+1. Cash out your USDC earnings directly to your bank account.
+2. Transfer USDC or TRIP Rewards to a third party wallet.
 
-The simplest way to cash out is transferring to your bank account.
+## Cash out directly to your bank account
+
+The simplest way to cash out your earnings is by transferring to your bank account. This applies only for the USDC drivers earn.
 
 <figure><img src="../.gitbook/assets/Cash out guides -- bank transfer.png" alt=""><figcaption></figcaption></figure>
 
@@ -27,9 +29,9 @@ In the Teleport app:
 
 That's it! Your earnings are on the way.
 
-## Transfer from a third party wallet
+## Transfer to a third party wallet
 
-To access your USDC and transfer it from a third party wallet, you need two things:
+To access your TRIP Rewards or USDC and transfer it from a third party wallet, you need two things:
 
 1. A free Solana wallet (like [Phantom](https://phantom.app/download), [Solflare](https://solflare.com/) or [Backpack](https://backpack.app/)).
 2. A free account on an exchange (like Coinbase).
