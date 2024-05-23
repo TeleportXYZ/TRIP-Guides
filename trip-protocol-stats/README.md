@@ -4,7 +4,7 @@ description: Network stats for The Rideshare Protocol
 
 # TRIP Protocol Stats
 
-Learn more about TRIP Miles: [trip.dev/rewards](https://www.trip.dev/rewards)
+Learn more about TRIP Miles: [trip.dev/rewards](https://www.trip.dev/rewards).
 
 \
 
