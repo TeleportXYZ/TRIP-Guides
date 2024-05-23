@@ -4,6 +4,7 @@
 * [Litepaper](litepaper.md)
 * [TRIP Protocol Stats](trip-protocol-stats/README.md)
   * [TRIP Miles Dashboard](https://dec.metabaseapp.com/public/dashboard/82f6c027-0d2b-49ff-be7f-56feba2b9d57)
+* [Redeem Rewards](redeem-rewards.md)
 
 ## Riders
 
