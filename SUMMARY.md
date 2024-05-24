@@ -1,10 +1,11 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Litepaper](litepaper.md)
-* [TRIP Protocol Stats](trip-protocol-stats/README.md)
-  * [TRIP Miles Dashboard](https://dec.metabaseapp.com/public/dashboard/82f6c027-0d2b-49ff-be7f-56feba2b9d57)
-* [Redeem Rewards](redeem-rewards.md)
+
+## Miles
+
+* [Miles Basics](miles/miles-basics.md)
+* [Miles Stats](miles/miles-stats.md)
 
 ## Riders
 
@@ -48,6 +49,7 @@
 ***
 
 * [FAQ](faq.md)
+* [Litepaper](litepaper.md)
 * [Contributors](contributors.md)
 * [Teleport](https://www.teleport.xyz/)
 * [Contribute on GitHub](https://github.com/TeleportXYZ/TRIP-Guides/issues)
