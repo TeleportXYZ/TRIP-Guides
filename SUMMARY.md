@@ -2,11 +2,6 @@
 
 * [Welcome](README.md)
 
-## Miles
-
-* [Miles Basics](miles/miles-basics.md)
-* [Miles Stats](miles/miles-stats.md)
-
 ## Riders
 
 * [Rider Basics](riders/rider-basics.md)
@@ -19,6 +14,11 @@
 ## Balancers
 
 * [Balancer Basics](balancers/balancer-basics.md)
+
+## Miles
+
+* [Miles Basics](miles/miles-basics.md)
+* [Miles Stats](miles/miles-stats.md)
 
 ## Explorer
 
