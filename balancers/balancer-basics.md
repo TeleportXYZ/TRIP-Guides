@@ -3,7 +3,7 @@
 As a Balancer, you can bring the TRIP protocol to your city by referring others in your city to form an atomic network of riders and drivers.&#x20;
 
 {% hint style="info" %}
-**Want seat placards, flyers, or cards to handout?** Add your QR code to these templates and use them as much as you'd like to sign up riders and drivers.\
+**Want seat placards for your car, flyers to hang up, or cards to handout?** Add your QR code to these templates and use them as much as you'd like to sign up riders.\
 \
 \- [Seat Placard](https://www.canva.com/design/DAGGQ-TUv6Y/Hatpzjc0CIHTbGYa1PBcjw/edit?utm\_content=DAGGQ-TUv6Y\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton)\
 \- [Flyer](https://www.canva.com/design/DAGGQghAKLo/EwvgBQPp1VebPO26AKmZUg/edit?utm\_content=DAGGQghAKLo\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton)\
