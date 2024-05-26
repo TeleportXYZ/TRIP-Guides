@@ -9,7 +9,9 @@ As a Balancer, you can bring the TRIP protocol to your city by referring others 
 \- [Flyer](https://www.canva.com/design/DAGGQghAKLo/EwvgBQPp1VebPO26AKmZUg/edit?utm\_content=DAGGQghAKLo\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton)\
 \- [Flyer - Explainer](https://www.canva.com/design/DAGGQj7ds0Q/-2A2E1F77zhkMbFelv67Ig/edit?utm\_content=DAGGQj7ds0Q\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton)\
 \- [Postcard](https://www.canva.com/design/DAGGQdjYNZk/35Gfi9cQGOREbyKJ-3wz5w/edit)\
-\- [Business Card](https://www.canva.com/design/DAGGWc6HLog/cDYanCZV1D\_Xb1PmUNWnZg/edit?utm\_content=DAGGWc6HLog\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton)
+\- [Business Card](https://www.canva.com/design/DAGGWc6HLog/cDYanCZV1D\_Xb1PmUNWnZg/edit?utm\_content=DAGGWc6HLog\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton)\
+\- [T-Shirt](https://www.canva.com/design/DAGGWlyH2Ds/e9TeAMo72HQy7-L-IMLaCQ/edit?utm\_content=DAGGWlyH2Ds\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton)\
+\- [T-Shirt - Light](https://www.canva.com/design/DAGGWrRQUzg/DfOts5IKx-QYhrDDg6ruZQ/edit?utm\_content=DAGGWrRQUzg\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton)
 {% endhint %}
 
 Every successful referral is recorded in the Teleport app.&#x20;
