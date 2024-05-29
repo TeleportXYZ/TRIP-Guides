@@ -28,9 +28,9 @@ Necesitas:
 1. Una cartera Solana gratuita (como [Phantom](https://phantom.app/download), [Solflare](https://solflare.com/) o [Backpack](https://backpack.app/)).
 2. Una cuenta en un intercambio (como Coinbase).
 
+<figure><img src="../.gitbook/assets/Cash out guides -- connect wallet (2).png" alt=""><figcaption></figcaption></figure>
 
-
-![](<../.gitbook/assets/Cash out guides -- connect wallet (2).png>)Para conectar una cartera Solana:
+Para conectar una cartera Solana:
 
 1. Descarga una aplicación de cartera compatible.
 2. Usa la frase secreta de recuperación de Teleport para importar tu cartera.
