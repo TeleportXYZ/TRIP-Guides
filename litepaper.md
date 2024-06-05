@@ -8,7 +8,7 @@ This is because traditional ridesharing companies spend a lot on recruiting ride
 
 This paper proposes an alternative approach. In this alternative approach, almost nothing is spent on recruiting. Instead, an open protocol (the TRIP Rideshare Protocol or **TRIP**) with onchain rewards is used to motivate current users to sign up new users.
 
-This results in cost savings that are split between riders and drivers. In this system riders, on average, pay less and drivers, on average, earn a much higher percentage of the fare. 
+This results in cost savings that are split between riders and drivers. In this system riders, on average, pay less and drivers, on average, earn a much higher percentage of the fare.
 
 As a result, a freer and more fair rideshare emerges that benefits riders and drivers while opening up avenues for entrepreneurs to build businesses and innovate. This paper will explore in detail exactly how the TRIP Rideshare Protocol works.
 
@@ -47,7 +47,7 @@ Similarly, Riders can indicate that they are in need of a ride (demand indicatio
 
 ![](<.gitbook/assets/64b952051d007fdfdf5a50b9\_Matching\&Pricing (1).png>)
 
-When an Operator with active Drivers receives a ride request from a Rider it checks the location of nearby Drivers and uses its internal pricing engine to prepare an offer both to Drivers and to the Rider. Offers include both pricing and ETA estimates. 
+When an Operator with active Drivers receives a ride request from a Rider it checks the location of nearby Drivers and uses its internal pricing engine to prepare an offer both to Drivers and to the Rider. Offers include both pricing and ETA estimates.
 
 Drivers get offers only from their active Operator, but Riders get offers from all validated and licensed Operators in the geographic area. The pricing offered to both Drivers and Riders need to be mutually accepted before a trip is established. All pricing information and the take-rate of all roles involved is fully transparent to all participants.
 
@@ -75,7 +75,7 @@ Drivers, and all other roles that receive a payout from the ride, receive paymen
 
 ![](<.gitbook/assets/64b952781c8ab21a4ebdcba2\_Ride Conclusion.png>)
 
-At the end of a ride, the Driver, and all other roles that receive a payout from the ride, receive their payments. 
+At the end of a ride, the Driver, and all other roles that receive a payout from the ride, receive their payments.
 
 Both the Rider and Driver Apps report information, including the estimated time of arrival (ETA) and actual ride time, back to The TRIP Marketplace. The TRIP Marketplace can use this information to ensure that Operators provide accurate ETA estimates.
 
@@ -206,7 +206,7 @@ While rider and driver contributions are considered equal for an individual ride
 
 #### 4.4.1 Competition Rollover
 
-When a competition has no rides, its TRIP Miles are rolled over to the next competition, increasing the TRIP Miles pool until a ride occurs. This balances supply and demand by incentivizing rides at off-peak times.
+When a competition has no rides, its TRIP Miles are rolled over to the next competition, increasing the TRIP Miles pool up to a 180x multiplier and until a ride occurs. This balances supply and demand by incentivizing rides at off-peak times.
 
 #### 4.4.2 Network Growth Incentives
 
