@@ -2,12 +2,14 @@
 
 ## Overview
 
-On the TRIP protocol, drivers earn in US dollar stablecoin (USD Coin). Riders, drivers and inviters also [earn TRIP Miles which can be redeemed for TRIP Rewards](https://www.trip.dev/rewards) in the app.&#x20;
+On the TRIP protocol, drivers earn in US dollar stablecoin (USD Coin).
 
-Both driver earnings and TRIP Rewards are held in your Teleport wallet. There are two ways to cash out your earnings or access your TRIP Rewards. This guide will walk you through how to use both options:
+There are two ways to cash out your earnings.&#x20;
+
+This guide will walk you through how to use both options:
 
 1. Cash out your driver earnings directly to your bank account.
-2. Transfer your driver earnings or TRIP Rewards to a third party wallet.
+2. Transfer your driver earnings to a third party wallet.
 
 ## Cash out directly to your bank account
 
@@ -31,7 +33,7 @@ That's it! Your earnings are on the way.
 
 ## Transfer to a third party wallet
 
-To access your driver earnings or TRIP Rewards in a third party wallet, you need two things:
+To access your driver earnings in a third party wallet, you need two things:
 
 1. A free Solana wallet (like [Phantom](https://phantom.app/download), [Solflare](https://solflare.com/) or [Backpack](https://backpack.app/)).
 2. A free account on an exchange (like Coinbase).
