@@ -7,6 +7,10 @@ description: >-
 
 # Miles Basics
 
+{% hint style="info" %}
+See the [cash out instructions](../drivers/cashing-out.md#transfer-to-a-third-party-wallet) page, if you are looking to move your rewards from the Teleport app to another wallet
+{% endhint %}
+
 TRIP Miles build up until someone claims them. That means if no rides have happened for the last 10 minutes, all rides that end on the 10th minute receive 10x the TRIP Miles they usually would and the counter restarts. These rollover miles can really stack up so make sure you get on the road early and often to increase your chances of getting them!
 
 ### How can I earn more TRIP Miles?
