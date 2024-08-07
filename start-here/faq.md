@@ -1,4 +1,4 @@
-# FAQ
+# Frequently Asked Questions
 
 ### How can I get an invitation?
 
@@ -36,13 +36,11 @@ The TRIP Community is not on Discord.
 
 ### How can I buy the token?
 
-Today, TRIP Rewards are issued as digital collectibles to people who build the network.
-
-Building the network means driving or riding on the network or inviting drivers and riders.
+There is no token currently. We’re focused on building a great decentralized rideshare experience. We have done research on potentially using tokens for governance, but it’s not our current focus and we have nothing to announce.
 
 #### What are TRIP Rewards?
 
-TRIP Rewards are digital collectibles.
+TRIP Rewards are digital collectibles (NFTs) that users can claim for driving, riding, and inviting drivers and riders [https://trip.dev/rewards](https://trip.dev/rewards). One way to think of them is as recorded work on the network through TRIP’s proof-of-ride system.
 
 Use TRIP Miles to claim your first TRIP Reward.
 
@@ -124,9 +122,8 @@ We will add more cities to this list and update the estimates over time. Check b
 
 In the app:
 
-1. Tap the “Rewards” tab.
-2. Scroll to where it says “Refer a friend”. Tap “Invite”.
-3. Either click the Share button or have them scan your QR code.
+1. On the "Ride" page find the “Invite to Earn Rewards” card.
+2. Either tap the Share button or the QR code button to share your link.
 
 From there, they will:
 
@@ -139,9 +136,8 @@ They are now signed up as a rider.
 
 In the app:
 
-1. Tap the “Rewards” tab.
-2. Scroll to where it says “Refer a friend”. Tap “Invite”.
-3. Either click the Share button or have them scan your QR code.
+1. On the "Ride" page find the “Invite to Earn Rewards” card.
+2. Either tap the Share button or the QR code button to share your link.
 
 From there, they will:
 
@@ -152,8 +148,7 @@ They are now signed up as a rider.
 
 Next on their phone in the app have them:
 
-1. Click “Learn More” on the “Ride” tab.
-2. Click “Become a driver”.
+1. Click “Become a driver” on the “TRIP” tab.
 
 From there they will submit a driver application by answering a few questions.
 
@@ -239,9 +234,8 @@ With your help, we’ll make it happen.
 
 In the app:
 
-1. Tap the “Rewards” tab.
-2. Scroll to where it says “Refer a friend”. Tap “Invite”.
-3. Either click the Share button or have them scan your QR code.
+1. On the "Ride" page find the “Invite to Earn Rewards” card.
+2. Either tap the Share button or the QR code button to share your link.
 
 From there, they will:
 
@@ -293,8 +287,7 @@ First, make sure you have an invitation and that you have installed the app.
 
 Next in the app:
 
-1. Click “Learn More” on the “Ride” tab.
-2. Click “Become a driver”.
+1. Click “Become a driver” on the "TRIP" tab.
 
 From there you will submit a driver application by answering a few questions.
 
@@ -618,7 +611,7 @@ Safety regulations are monitored and enforced by a number of actors on the netwo
 
 These include:
 
-* Dedicated compliance auditing firms.
+* Auditors.
 * Verifiers.
 * Operators.
 * Riders and Drivers.
