@@ -19,7 +19,7 @@ The operation of the decentralized rideshare network involves the following enti
 1. **Riders** and **Drivers** connect to the protocol to offer or request rides using **Apps**.
 2. **Operators** handle the regulatory and operational requirements of providing rideshare service. They are powered by **Rideshare Server** software. Depending on the applicable local regulatory framework, an Operator may serve as Transportation Network Company (TNC) or Transportation Network Provider (TNP) or Fleet Manager.
 3. The **TRIP Marketplace** consists of a set of blockchain smart contracts that offer coordination and consensus services to the rideshare network. These smart contracts are governed by a Decentralized Autonomous Organization (DAO) and help the network remain neutral and fair without having to rely on centralized authority.
-4. **Balancers** help the TRIP Marketplace overcome supply/demand imbalances by inviting additional Drivers and Riders to the protocol.
+4. **Ambassadors** (aka Balancers) help the TRIP Marketplace overcome supply/demand imbalances by inviting additional Drivers and Riders to the protocol.
 5. **Verifiers** inspect driver licenses, perform car inspections, conduct background checks and verify phone numbers.
 6. **Auditors** confirm the legal and operational readiness of both Verifiers and Operators.
 
