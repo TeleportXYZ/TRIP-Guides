@@ -29,7 +29,7 @@ When at least one Operator and enough Verifiers have been approved to operate wi
 
 ### 2.1 Ordering a Ride
 
-![](.gitbook/assets/64b95177fbce18a5dbc1a3b0\_Initialization.png)
+![](../.gitbook/assets/64b95177fbce18a5dbc1a3b0\_Initialization.png)
 
 When ordering a ride, Operators validate that Drivers and Riders have passed all necessary checks, while Drivers and Riders validate that the Operator has been approved for operation in the region.
 
@@ -37,7 +37,7 @@ This mutual validation process helps ensure that rides established via TRIP are 
 
 ### 2.2 Supply & Demand Indication
 
-![](<.gitbook/assets/64b951f4a21e999ef4a6da5d\_Supply & Demand.png>)
+![](<../.gitbook/assets/64b951f4a21e999ef4a6da5d\_Supply & Demand.png>)
 
 Once Drivers are connected and validated by a local Operator, they can indicate that they are available to accept rides (supply indication). After going active, the Driver's App regularly updates the Driver's location with its active Operator.
 
@@ -45,7 +45,7 @@ Similarly, Riders can indicate that they are in need of a ride (demand indicatio
 
 ### 2.3 Matching & Pricing
 
-![](<.gitbook/assets/64b952051d007fdfdf5a50b9\_Matching\&Pricing (1).png>)
+![](<../.gitbook/assets/64b952051d007fdfdf5a50b9\_Matching\&Pricing (1).png>)
 
 When an Operator with active Drivers receives a ride request from a Rider it checks the location of nearby Drivers and uses its internal pricing engine to prepare an offer both to Drivers and to the Rider. Offers include both pricing and ETA estimates.
 
@@ -53,7 +53,7 @@ Drivers get offers only from their active Operator, but Riders get offers from a
 
 ### 2.4 Service Area
 
-![](.gitbook/assets/64b951e3b7208774e01946a4\_Geo-Fence.png)
+![](../.gitbook/assets/64b951e3b7208774e01946a4\_Geo-Fence.png)
 
 Both Riders and Drivers can connect to all Operators that are licensed to operate in or near their current geographic region.
 
@@ -65,7 +65,7 @@ In the United States the Interstate Commerce Clause (Article 1, Section 8, Claus
 
 ### 2.5 Payment
 
-![](.gitbook/assets/Payment.png)
+![](../.gitbook/assets/Payment.png)
 
 When booking a ride, Riders pay with traditional payment methods like credit card, debit card, Apple Pay, or stablecoins like USDC.
 
@@ -73,7 +73,7 @@ Drivers, and all other roles that receive a payout from the ride, receive paymen
 
 ### 2.6 Ride Conclusion
 
-![](<.gitbook/assets/64b952781c8ab21a4ebdcba2\_Ride Conclusion.png>)
+![](<../.gitbook/assets/64b952781c8ab21a4ebdcba2\_Ride Conclusion.png>)
 
 At the end of a ride, the Driver, and all other roles that receive a payout from the ride, receive their payments.
 
@@ -85,7 +85,7 @@ Driver, Rider, and Operator ratings are optionally reported to a rating aggregat
 
 ### 2.7 Dispute Resolution
 
-![](<.gitbook/assets/Dispute Resolution.png>)
+![](<../.gitbook/assets/Dispute Resolution.png>)
 
 Operators are responsible for the trips they facilitate and are legally required to conduct background checks on Drivers before facilitating a match. The TRIP protocol enforces this by ensuring that the Operator and Driver are both licensed, insured, permitted to operate in their geographic target area, and have passed a background check.
 
@@ -99,7 +99,7 @@ Increased competition, closely tracked ratings, and enforcement of high standard
 
 ## 3. Marketplace Economics
 
-![](<.gitbook/assets/64a71c15ea78e92b88749bc4\_Marketplace Economics.png>)
+![](<../.gitbook/assets/64a71c15ea78e92b88749bc4\_Marketplace Economics.png>)
 
 Marketplaces enable direct competitors to benefit from cooperation with each other. It is no coincidence that in many cities, restaurants of the same cuisine and stores with similar wares cluster together and form neighborhoods. Although these shops still compete on price, selection, and quality of goods and services, they all benefit from increasing foot traffic to their area by working together.
 
@@ -113,7 +113,7 @@ Bringing open marketplace technology to rideshare will unlock the advantages of 
 
 ### 3.1 Network Effects and Competitive Moats
 
-![](<.gitbook/assets/64a723808cb80a7220e1e5de\_Network Effects and Competitive Moats.png>)
+![](<../.gitbook/assets/64a723808cb80a7220e1e5de\_Network Effects and Competitive Moats.png>)
 
 When a networked service starts gaining users, its value proposition becomes stronger: more drivers on a rideshare app mean shorter wait times for riders, while more riders mean higher chances of drivers finding a fare nearby. This positive feedback loop is called a _network effect_, and it can fuel rapid growth of a new service.
 
@@ -123,7 +123,7 @@ Understanding how network effects are built was key to first building out the di
 
 ### 3.2 Habit and Brand Recognition
 
-![](<.gitbook/assets/64a7235a6922dc7097de77a2\_Habit and Brand Recognition.png>)
+![](<../.gitbook/assets/64a7235a6922dc7097de77a2\_Habit and Brand Recognition.png>)
 
 Habit, brand recognition, and trust can create strong barriers to entry on their own, but they do not represent good examples of network effects. In the absence of a network effect, a formerly unknown but superior product with better customer experience and/or cheaper prices can still become a competitive threat by first serving a subgroup of users to build trust and brand recognition and then expanding from there.
 
@@ -138,7 +138,7 @@ A moat only protects the incumbent if there is no "bridge": a contiguous and gro
 
 ### 3.3 Your Margin is my Opportunity
 
-![](<.gitbook/assets/64a723aa339568621e1b3e1b\_Your margin is my opportunitity.png>)
+![](<../.gitbook/assets/64a723aa339568621e1b3e1b\_Your margin is my opportunitity.png>)
 
 While network effects provide the incumbent with an advantage, operational inefficiencies can negate these advantages. Such operational inefficiencies can include:
 
@@ -148,7 +148,7 @@ While network effects provide the incumbent with an advantage, operational ineff
 
 These unfavorable conditions are present in current rideshare incumbents.
 
-<figure><img src=".gitbook/assets/image-litepaper.png" alt=""><figcaption><p>Cost structure of rideshare on legacy rideshare services.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-litepaper.png" alt=""><figcaption><p>Cost structure of rideshare on legacy rideshare services.</p></figcaption></figure>
 
 In[ TRIP Rideshare Economics 101](https://guides.trip.dev/newsletter/rideshare-economics-101) we further explore how the fares differ between legacy rideshare and the TRIP rideshare protocol.
 
@@ -158,13 +158,13 @@ A market-operated rideshare network would be able to operate far more efficientl
 
 ### 3.4 Building the Bridge
 
-![](<.gitbook/assets/64a723c4f453b3b6804966b3\_Global Maxium.png>)
+![](<../.gitbook/assets/64a723c4f453b3b6804966b3\_Global Maxium.png>)
 
 Rideshare companies have fought long and hard to classify their drivers as independent contractors rather than employees. Although drivers theoretically have the freedom to work for other rideshare companies or multiple networks, in reality, network effects have kept them locked into the dominant platform.
 
 If all drivers and riders were to switch services at the same time, they could transition to a more free and fair system. However, such coordination has often been considered impossible.
 
-<figure><img src=".gitbook/assets/image-litepaper-2.png" alt=""><figcaption><p>Cost structure of rideshare on The Rideshare Protocol (TRIP).</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-litepaper-2.png" alt=""><figcaption><p>Cost structure of rideshare on The Rideshare Protocol (TRIP).</p></figcaption></figure>
 
 What has been missing is a mechanism to coordinate this switch. We call a tool to enable such decentralized social coordination a "Bridge," because it can overcome the moat of a network effect.
 
@@ -174,7 +174,7 @@ A rideshare marketplace that is fairer, with the participants - not middlemen - 
 
 ## 4. TRIP Miles
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 TRIP Miles are non-transferable, non-monetary reward points that network participants receive by contributing to the network.
 
@@ -188,7 +188,7 @@ One way that users can receive TRIP Miles is by facilitating rides on the networ
 
 Since multiple parties participate in facilitating each ride, revenue of a given ride is considered contributed by participants as follows:
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Note: Drivers contribute 29% of the fare for the purpose of distributing TRIP Miles. This 29% contribution is separate from how much of the fare (on average 85%) the driver earns.
 
@@ -214,7 +214,7 @@ Inviting riders and drivers is incentivized. Invited users must actively partici
 
 ## 5. TRIP Rewards
 
-<figure><img src=".gitbook/assets/trip reards.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/trip reards.png" alt=""><figcaption></figcaption></figure>
 
 TRIP Rewards are digital collectibles on The Rideshare Protocol (TRIP).
 
@@ -232,11 +232,11 @@ TRIP Rewards are classified into tiers numbered from 1 to 41. Higher tier TRIP R
 
 The TRIP Miles needed to advance from one tier to the next doubles. So, Tier 1 rewards can be claimed with 1 TRIP Mile, while Tier 2 with 2, Tier 6 with 32, Tier 11 with 1024, and so on.
 
-<figure><img src=".gitbook/assets/image-1.png" alt="" width="563"><figcaption><p>Each colored bar represents the percentage chance an attribute of a given trait occurs at a specific tier.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-1.png" alt="" width="563"><figcaption><p>Each colored bar represents the percentage chance an attribute of a given trait occurs at a specific tier.</p></figcaption></figure>
 
 ### 5.3 Claiming TRIP Rewards
 
-<figure><img src=".gitbook/assets/image-4.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-4.png" alt="" width="375"><figcaption></figcaption></figure>
 
 TRIP Miles determine the tier of the TRIP Reward that can be claimed. When claiming a TRIP Reward using TRIP Miles always the highest tier available is claimed. Leftover TRIP Miles can be used to claim additional lower tier TRIP Rewards.
 
@@ -280,11 +280,11 @@ The way $$A$$ and $$Q$$ vary for trait 1 staggers sigmoid (S-shaped) probability
 
 <div>
 
-<figure><img src=".gitbook/assets/image-10.png" alt="" width="450"><figcaption><p>Staggered sigmoid-like probability curves for each attribute in trait 1.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-10.png" alt="" width="450"><figcaption><p>Staggered sigmoid-like probability curves for each attribute in trait 1.</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/image-9.png" alt="" width="450"><figcaption><p>Rarity distribution of trait 1 attributes as a variation of TRIP Rewards tier.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-9.png" alt="" width="450"><figcaption><p>Rarity distribution of trait 1 attributes as a variation of TRIP Rewards tier.</p></figcaption></figure>
 
 </div>
 
@@ -311,19 +311,19 @@ When two entities establish a direct network connection, they use their keys to 
 
 ### 6.1 Attestations
 
-![](.gitbook/assets/64a723e22fc942c93065fc7b\_Attestations.png)
+![](../.gitbook/assets/64a723e22fc942c93065fc7b\_Attestations.png)
 
 Entities can make statements about each other by signing statements about the public keys of other entities. These statements can be made either onchain or off chain.
 
 ### 6.2 The TRIP Marketplace
 
-![](<.gitbook/assets/64a723ff9edfe3959ee670fa\_Coordination Layer.png>)
+![](<../.gitbook/assets/64a723ff9edfe3959ee670fa\_Coordination Layer.png>)
 
 The TRIP Marketplace is a set of smart contracts that run on a blockchain. It provides consensus, coordination, and governance services for all other components of the rideshare network.
 
 ### 6.3 Network Authorization
 
-![](<.gitbook/assets/Authorization (1).png>)
+![](<../.gitbook/assets/Authorization (1).png>)
 
 In order to comply with legal and regulatory requirements, maintain high safety standards, and ensure customer satisfaction, all rideshare network participants must undergo an authorization process appropriate for their role before being granted access to the network.
 
@@ -335,7 +335,7 @@ A Verifier is a service or entity that validates claims or assertions made by us
 
 #### **6.3.1 Onchain Authorization**
 
-![](<.gitbook/assets/64b95107ab846bbd967c86be\_On-Chain Authorization.png>)
+![](<../.gitbook/assets/64b95107ab846bbd967c86be\_On-Chain Authorization.png>)
 
 Verifiers must be in legal and operational compliance with all applicable regulations and laws before they begin providing attestation services to the network.
 
@@ -347,7 +347,7 @@ Once Operators and Verifiers have been approved they are publicly listed on the 
 
 #### **6.3.2 Certificate-Based Authorization**
 
-![](.gitbook/assets/Attestations.png)
+![](../.gitbook/assets/Attestations.png)
 
 While Operators and Verifiers are authorized on the blockchain, drivers and riders (users) are authenticated off-chain to preserve privacy and control.
 
@@ -370,7 +370,7 @@ Payments on the rideshare protocol (TRIP) are made using national currencies, su
 
 ### 6.5 Sybil Protection Fee
 
-![](<.gitbook/assets/64a7250986c87c63f62500db\_Sybil Avoidance Mechanism.png>)
+![](<../.gitbook/assets/64a7250986c87c63f62500db\_Sybil Avoidance Mechanism.png>)
 
 In protocol design, a sybil attack is an attempt by an individual to manipulate the network by creating multiple fake identities or transactions.
 
@@ -382,7 +382,7 @@ In future iterations of the protocol, the USDC Sybil fee could also potentially 
 
 ### 6.6 Privacy
 
-![](.gitbook/assets/64b9530024baee28cab82d75\_Privacy.png)
+![](../.gitbook/assets/64b9530024baee28cab82d75\_Privacy.png)
 
 TRIP's architecture is carefully designed to select which data is transmitted to which party and where control over the data is located. Data is only shared with the minimum subset of recipients required for legal, safety, and technical reasons.
 
