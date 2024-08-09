@@ -9,8 +9,6 @@
 ## Drivers
 
 * [Driver Basics](drivers/basics.md)
-* [Cashing Out](drivers/cashing-out.md)
-* [Retiro de Fondos](drivers/retiro-de-fondos.md)
 
 ## Riders
 

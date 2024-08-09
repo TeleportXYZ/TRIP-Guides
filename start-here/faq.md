@@ -40,7 +40,7 @@ There is no token currently. We’re focused on building a great decentralized r
 
 #### What are TRIP Rewards?
 
-TRIP Rewards are digital collectibles (NFTs) that users can claim for driving, riding, and inviting drivers and riders [https://trip.dev/rewards](https://trip.dev/rewards). One way to think of them is as recorded work on the network through TRIP’s proof-of-ride system.
+TRIP Rewards are digital collectibles that users can claim for driving, riding, and inviting drivers and riders [https://trip.dev/rewards](https://trip.dev/rewards). One way to think of them is as recorded work on the network through TRIP’s proof-of-ride system.
 
 Use TRIP Miles to claim your first TRIP Reward.
 

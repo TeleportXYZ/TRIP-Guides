@@ -8,7 +8,7 @@ description: >-
 # Miles Basics
 
 {% hint style="info" %}
-See the [cash out instructions](../drivers/cashing-out.md#transfer-to-a-third-party-wallet) page, if you are looking to move your rewards from the Teleport app to another wallet
+See the [cash out instructions](broken-reference) page, if you are looking to move your rewards from the Teleport app to another wallet
 {% endhint %}
 
 TRIP Miles build up until someone claims them. That means if no rides have happened for the last 10 minutes, all rides that end on the 10th minute receive 10x the TRIP Miles they usually would and the counter restarts. These rollover miles can really stack up so make sure you get on the road early and often to increase your chances of getting them!
@@ -47,7 +47,7 @@ That's it!
 
 To confirm the sale, check your wallet balance and you should be all set!
 
-From there, you can [cash out](../drivers/cashing-out.md) your wallet balance directly to your bank account.
+From there, you can [cash out](broken-reference) your wallet balance directly to your bank account.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-07-02 at 12.05.27 PM.jpeg" alt="" width="188"><figcaption></figcaption></figure>
 

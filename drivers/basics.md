@@ -1,32 +1,136 @@
 # Driver Basics
 
-## **Insurance Coverage**
+## **Introduction**
 
-Here's how insurance coverage works today in the state of Texas.
+### What is a Driver on TRIP?
+
+A Driver on TRIP is a key part of our rideshare ecosystem, responsible for providing transportation services to riders using the Teleport app. Drivers use their own vehicles to pick up riders and transport them to their destinations.
+
+### Benefits of Being a Driver
+
+Being a driver offers flexible working hours and the potential for high earnings, especially during peak hours. It also provides an opportunity to meet new people and explore different areas while earning TRIP Rewards for additional benefits.
+
+## Getting Started
+
+### Driver Requirements
+
+Firstly, you need to meet the minimum age to drive in your city and possess an in-state driver's license. You should have at least one year of licensed driving experience in the US, or three years if you are under 25 years old. Additionally, you must use an eligible 4-door vehicle to ensure passenger comfort and safety.
+
+### Sign-Up Process
+
+To sign up as a driver, start by downloading the Teleport app and creating an account. Next, tap "Become a Driver" on the "TRIP" tab. Complete the online application, providing both your personal and vehicle information. Finally, undergo a background check and wait for approval to start driving.
+
+### Going Online as a Driver
+
+After approval, log in to the Teleport app. On the "Ride" tab, tap the dropdown arrow to toggle over to the Driver view of the app. Tap "Go Online" to start accepting ride requests.
+
+## Role Responsibilities
+
+### Providing Safe and Reliable Rides
+
+Drivers must adhere to traffic laws, drive safely, and ensure their vehicle is clean and well-maintained. Following the suggested route by the navigation tool is important unless the rider requests a different route.
+
+### Communication with Riders
+
+Clear and polite communication with riders is essential. Confirm rider details before starting the trip and handle any concerns or questions professionally.
+
+### Maintaining Vehicle Standards
+
+Regular servicing and maintenance of the vehicle is expected. Keeping the vehicle clean and ensuring all safety features are functional is important.
+
+## Insurance Coverage
+
+Understanding how insurance coverage works is crucial for drivers using the TRIP app. Here’s an overview of the insurance provisions currently in place in the state of Texas:
 
 ### **Offline Coverage**
 
-When you're not driving for the service, your own personal auto insurance applies.
+When you are not driving for the service, your own personal auto insurance applies. This means that your regular insurance policy covers you during all non-working hours.
 
 ### **Online and Waiting for a Trip**
 
-* Up to $50,000 for individual bodily injuries and $100,000 per accident.
-* Property damage coverage up to $25,000 per accident.
-* Coverage is contingent on the excess liability of your personal auto insurance
+While you are online and waiting for a trip request, TRIP provides coverage up to $50,000 for individual bodily injuries and $100,000 per accident. Additionally, property damage is covered up to $25,000 per accident. It’s important to note that this coverage is contingent on the excess liability of your personal auto insurance.
 
 ### **During a Trip or Driving to Pick Up a Passenger**
 
-* Third-party damages compliant with Texas TNC guidelines.
-* Your vehicle repair costs are covered up to its actual cash value of $50,000, with a deductible of $2,500, contingent on your personal policy including comprehensive and collision coverage.
+During a trip or when you are driving to pick up a passenger, TRIP's insurance covers third-party damages in compliance with Texas TNC guidelines. If your vehicle is damaged, repair costs are covered up to its actual cash value of $50,000, with a deductible of $2,500. This coverage applies only if your personal policy includes comprehensive and collision coverage.
 
-### Insurance Policy Holder
+### **Insurance Policy Holder**
 
-The insurance policy is held by Emory Peak, a TRIP Operator approved in the state of Texas.
+The insurance policy for TRIP drivers is held by [Emory Peak](#user-content-fn-1)[^1], a TRIP Operator approved in the state of Texas. This ensures that all necessary insurance requirements are met, providing you with peace of mind while you drive.
 
-## Driver Cancelations
+## Using the App
 
-* **Driver en route to pickup:** While en route to the rider, the rider can cancel the ride for a full refund.
-* **After pickup:** The driver is unable to cancel the ride. To end the ride, the driver must complete the ride and will receive their full payment.
+### Accepting and Completing Rides
+
+Ride requests are received through the app. Drivers can accept or decline requests. Drivers can also cancel rides before the rider has been picked up whereby the rider will receive a full refund. After pick up, the driver is unable to cancel the ride. To end the ride, the driver must complete the ride and will receive full payment. Following the app’s instructions to pick up the rider and complete the trip ensures a smooth experience.
+
+### Navigation Tools
+
+The app can integrate with popular mapping apps on your phone like Apple Maps, Google Maps, Waze and more. Apple CarPlay is supported as well. Use the supported maps for optimal routing. Familiarity with alternative routes in case of traffic or road closures is also beneficial.
+
+### Handling Ride Issues
+
+Use your good judgment and common sense when resolving disputes with riders and contact support when you feel it's necessary. Any incidents or issues can be reported through the app. From the "Profile" tab, tap "Help Center" and then "Contact Us".&#x20;
+
+## Earnings and Rewards
+
+### Fare Calculation
+
+Fares are calculated based on a combination of base fare, distance, time, and surge pricing. Drivers can keep track of their earnings with the app’s wallet balance.
+
+### TRIP Rewards
+
+TRIP Rewards are digital collectibles that drivers claim for driving or inviting other active riders and drivers. The more you drive and the more the people you invite ride and drive, the more TRIP Rewards you earn. Drivers can hold their TRIP Rewards or sell them directly in the app.
+
+### Cashing Out
+
+Earnings can be cashed out by connecting a bank account in the app. Alternatively, drivers can export their private key from the app and access their funds in a wallet app like Phantom, Backpack, or Solflare.
+
+## Community and Support
+
+### TRIP Community
+
+TRIP offers a supportive community for drivers. Joining the [TRIP community](https://trip.dev/chat) allows you to share experiences and tips, participate in conversations, local meetups, and online groups.
+
+### Contacting Support
+
+Support is available through the app for any questions or issues. The in-app help center provides guides and troubleshooting tips.
+
+## Frequently Asked Questions (FAQs)
+
+### Common Driver Questions
+
+#### How do I handle a difficult rider?
+
+If you encounter a difficult rider, remain calm and professional. Politely address their concerns and try to resolve any issues. If the situation escalates, you can report the incident through the app and contact support for assistance.
+
+**What should I do if my car breaks down during a ride?**
+
+In the event of a car breakdown during a ride, ensure the safety of both you and the rider by pulling over to a safe location. Inform the rider of the situation and arrange alternative transportation for them if possible. You should also report the breakdown to support and follow their guidance.
+
+**How do I report an accident or incident?**
+
+To report an accident or incident, contact support in the app. Provide detailed information about the event, including the time, location, and any other relevant details. Support will then assist you in handling the situation and guide you through the next steps.
+
+**Why am I not receiving ride requests?**
+
+If you are not receiving ride requests, check your app settings to ensure you are online and available. Make sure your location services are enabled and the app has the necessary permissions. If the problem persists, restart the app or your device, and contact support if the issue continues.
+
+## Advanced Tips and Tricks
+
+### Peak Hours and Hotspots
+
+Identifying peak hours and high-demand areas can help maximize earnings. While the app does not have a heat map feature yet, you can reasonably estimate that hotspots for traditional rideshare apps will also be hotspots for Teleport.
+
+### Enhancing Rider Experience
+
+Providing amenities like bottled water, phone chargers, and music options can enhance the rider experience. Maintaining a friendly and professional demeanor are good practices.
+
+### Maximizing TRIP Rewards
+
+To maximize your TRIP rewards, you can actively and passively earn miles. Actively earning miles involves driving and riding as much as possible. The more revenue you contribute by riding or driving, the more miles you accumulate, increasing your rewards.&#x20;
+
+On the passive side, inviting others to join TRIP can significantly boost your miles. If you refer riders from other apps, you'll earn miles every time they take a ride, even if you’re not the one driving them. Similarly, by referring driver friends, you'll earn miles whenever they drive. Furthermore, if the people you invite also refer others, you'll earn miles for every ride or drive their referrals make. Encouraging your referrals to invite others can create a network effect, allowing you to earn even more passive miles.
 
 {% hint style="info" %}
 #### Feedback
@@ -41,3 +145,5 @@ If for whatever reason you spot something to improve but cannot do it yourself, 
 
 And last but not least, any kind of discussion regarding TRIP documentation is very welcome in the [official TRIP Community on Telegram](https://trip.dev/chat).
 {% endhint %}
+
+[^1]: This should be Denali Mobility LLC
