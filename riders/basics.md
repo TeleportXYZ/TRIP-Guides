@@ -4,7 +4,7 @@
 
 ### What is a Rider on TRIP?
 
-A Rider on TRIP is an individual who uses the TRIP app to request and pay for rides. Riders are matched with nearby drivers who transport them to their desired destinations in a safe, reliable, and efficient manner.
+A Rider on TRIP is an individual who uses the Teleport app to request and pay for rides. Riders are matched with nearby drivers who transport them to their desired destinations in a safe, reliable, and efficient manner.
 
 ### Benefits of Using the TRIP Protocol
 
