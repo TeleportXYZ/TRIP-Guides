@@ -58,7 +58,7 @@ Once your ride is confirmed, you can track the progress of your driver as they m
 
 If you encounter any issues during your ride, you can use the app’s support feature to report the problem. Teleport's support team is available to help resolve any issues promptly.
 
-## Earnings and Rewards
+## Pricing and Rewards
 
 ### Fare Breakdown
 
@@ -66,7 +66,11 @@ Fares in the Teleport app are calculated based on a combination of factors, incl
 
 ### TRIP Rewards
 
-TRIP Rewards are digital collectibles that rides claim for riding or inviting other active riders and drivers. The more you ride and the more the people you invite ride and drive, the more TRIP Rewards you earn. Riders can hold their TRIP Rewards or sell them directly in the app.
+TRIP Rewards are digital collectibles that riders claim for riding or inviting other active riders and drivers. The more you ride and the more the people you invite ride and drive, the more TRIP Rewards you earn. Riders can hold their TRIP Rewards or sell them directly in the app.
+
+### Cashing Out
+
+Earnings from TRIP Rewards can be cashed out by connecting a bank account in the app. Alternatively, riders can export their private key from the app and access their funds in a wallet app like Phantom, Backpack, or Solflare.
 
 ## Community and Support
 
