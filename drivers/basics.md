@@ -14,7 +14,7 @@ Being a driver offers flexible working hours and the potential for high earnings
 
 ### Driver Requirements
 
-Firstly, you need to meet the minimum age to drive in your city and possess a valid driver's license. You should have at least one year of licensed driving experience in the US, or three years if you are under 25 years old. Additionally, you must use an eligible 4-door vehicle to ensure passenger comfort and safety.
+[First, you need to meet the minimum age to drive in your city and possess a valid driver's license. You should have at least one year of licensed driving experience in the US, or three years if you are under 25 years old. Additionally, you must use an eligible 4-door vehicle to ensure passenger comfort and safety.](#user-content-fn-1)[^1]
 
 ### Sign-Up Process
 
@@ -28,7 +28,7 @@ After approval, log in to the Teleport app. On the "Ride" tab, tap the dropdown 
 
 ### Providing Safe and Reliable Rides
 
-Drivers must adhere to traffic laws, drive safely, and ensure their vehicle is clean and well-maintained. Following the suggested route by the navigation tool is important unless the rider requests a different route.
+Drivers must adhere to traffic laws, drive safely, and ensure their vehicle is clean and well-maintained. Following the suggested route by supported mapping app is important unless the rider requests a different route.
 
 ### Communication with Riders
 
@@ -40,29 +40,29 @@ Regular servicing and maintenance of the vehicle is expected. Keeping the vehicl
 
 ## Insurance Coverage
 
-Understanding how insurance coverage works is crucial for drivers using the TRIP app. Here’s an overview of the insurance provisions currently in place in the state of Texas:
+Understanding how insurance coverage works is crucial for drivers using the T[^2]eleport app. Here’s an overview of the insurance provisions currently in place in the state of Texas:
 
 ### **Offline Coverage**
 
 When you are not driving for the service, your own personal auto insurance applies. This means that your regular insurance policy covers you during all non-working hours.
 
-### **Online and Waiting for a Trip**
-
-While you are online and waiting for a trip request, TRIP provides coverage up to $50,000 for individual bodily injuries and $100,000 per accident. Additionally, property damage is covered up to $25,000 per accident. It’s important to note that this coverage is contingent on the excess liability of your personal auto insurance.
-
-### **During a Trip or Driving to Pick Up a Passenger**
-
-During a trip or when you are driving to pick up a passenger, TRIP's insurance covers third-party damages in compliance with Texas TNC guidelines. If your vehicle is damaged, repair costs are covered up to its actual cash value of $50,000, with a deductible of $2,500. This coverage applies only if your personal policy includes comprehensive and collision coverage.
-
 ### **Insurance Policy Holder**
 
 The insurance policy for TRIP drivers is held by Denali Mobility LLC, a TRIP Operator approved in the state of Texas. This ensures that all necessary insurance requirements are met, providing you with peace of mind while you drive.
+
+### **Online and Waiting for a Trip**
+
+While you are online and waiting for a trip request, Denali Mobility LLC provides coverage up to $50,000 for individual bodily injuries and $100,000 per accident. Additionally, property damage is covered up to $25,000 per accident. It’s important to note that this coverage is contingent on the excess liability of your personal auto insurance.
+
+### **During a Trip or Driving to Pick Up a Passenger**
+
+During a trip or when you are driving to pick up a passenger, Denali Mobility LLC's insurance covers third-party damages in compliance with Texas TNC guidelines. If your vehicle is damaged, repair costs are covered up to its actual cash value of $50,000, with a deductible of $2,500. This coverage applies only if your personal policy includes comprehensive and collision coverage.
 
 ## Using the App
 
 ### Accepting and Completing Rides
 
-Ride requests are received through the app. Drivers can accept or decline requests. Drivers can also cancel rides before the rider has been picked up whereby the rider will receive a full refund. After pick up, the driver is unable to cancel the ride. To end the ride, the driver must complete the ride and will receive full payment. Following the app’s instructions to pick up the rider and complete the trip ensures a smooth experience.
+Ride requests are received through the app. Drivers can accept or decline requests. Drivers can also cancel rides before the rider has been picked up whereby the rider will receive a full refund. After pick up, the driver is unable to cancel the ride. To end the ride, the driver must complete the ride and will receive full payment.
 
 ### Navigation Tools
 
@@ -80,7 +80,9 @@ Fares are calculated based on a combination of base fare, distance, time, and su
 
 ### TRIP Rewards
 
-TRIP Rewards are digital collectibles that drivers claim for driving or inviting other active riders and drivers. The more you drive and the more the people you invite ride and drive, the more TRIP Rewards you earn. Drivers can hold their TRIP Rewards or sell them directly in the app.
+The more ride revenue that flows through TRIP, the more successful the network becomes. To incentivize you as a driver to contribute toward this goal, you earn TRIP Miles for every drive you take, whether directly by using TRIP or indirectly through referring other active riders or drivers.&#x20;
+
+TRIP Miles are redeemable for TRIP Rewards which are digital collectibles that you can either hold or sell within the app. Check out [TRIP Miles for Drivers](trip-miles-for-drivers.md) to learn more.
 
 ### Cashing Out
 
@@ -110,27 +112,11 @@ In the event of a car breakdown during a ride, ensure the safety of both you and
 
 **How do I report an accident or incident?**
 
-To report an accident or incident, contact support in the app. Provide detailed information about the event, including the time, location, and any other relevant details. Support will then assist you in handling the situation and guide you through the next steps.
+To report an accident or incident, contact support in the app. Provide detailed information about the event, including the time, location, and any other relevant details, including photos/videos taken. Support will then assist you in handling the situation and guide you through the next steps.
 
 **Why am I not receiving ride requests?**
 
 If you are not receiving ride requests, check your app settings to ensure you are online and available. Make sure your location services are enabled and the app has the necessary permissions. If the problem persists, restart the app or your device, and contact support if the issue continues.
-
-## Advanced Tips and Tricks
-
-### Peak Hours and Hotspots
-
-Identifying peak hours and high-demand areas can help maximize earnings. While the app does not have a heat map feature yet, you can reasonably estimate that hotspots for traditional rideshare apps will also be hotspots for Teleport.
-
-### Enhancing Rider Experience
-
-Providing amenities like bottled water, phone chargers, and music options can enhance the rider experience. Maintaining a friendly and professional demeanor are good practices.
-
-### Maximizing TRIP Rewards
-
-To maximize your TRIP rewards, you can actively and passively earn miles. Actively earning miles involves driving and riding as much as possible. The more revenue you contribute by riding or driving, the more miles you accumulate, increasing your rewards.&#x20;
-
-On the passive side, inviting others to join TRIP can significantly boost your miles. If you refer riders from other apps, you'll earn miles every time they take a ride, even if you’re not the one driving them. Similarly, by referring driver friends, you'll earn miles whenever they drive. Furthermore, if the people you invite also refer others, you'll earn miles for every ride or drive their referrals make. Encouraging your referrals to invite others can create a network effect, allowing you to earn even more passive miles.
 
 {% hint style="info" %}
 #### Feedback
@@ -145,3 +131,7 @@ If for whatever reason you spot something to improve but cannot do it yourself, 
 
 And last but not least, any kind of discussion regarding TRIP documentation is very welcome in the [official TRIP Community on Telegram](https://trip.dev/chat).
 {% endhint %}
+
+[^1]: We currently don't accept drivers under 25. What is the source for this? I would replace this with something more general like "Drivers on TRIP need to be at least 25, and meet the necessary legal rideshare driver requirements for their local jurisdiction."&#x20;
+
+[^2]: Teleport app

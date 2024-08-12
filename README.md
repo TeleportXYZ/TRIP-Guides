@@ -4,7 +4,7 @@ description: Drivers earn more. Riders pay less. Early adopters get rewarded.
 
 # Welcome
 
-{% embed url="https://youtu.be/XtFIRyKmZDk" %}
+{% embed url="https://youtu.be/Xrvw2JvcC-o" %}
 Teleport: Ride and drive on the TRIP rideshare protocol.
 {% endembed %}
 

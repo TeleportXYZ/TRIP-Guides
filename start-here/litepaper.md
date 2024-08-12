@@ -178,7 +178,7 @@ A rideshare marketplace that is fairer, with the participants - not middlemen - 
 
 TRIP Miles are non-transferable, non-monetary reward points that network participants receive by contributing to the network.
 
-TRIP Miles can be used to claim TRIP Rewards which will be explained in Section 4.
+TRIP Miles can be used to claim TRIP Rewards which will be explained in Section 5.
 
 ### 4.1 Proof-of-Ride
 

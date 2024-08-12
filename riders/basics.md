@@ -4,7 +4,7 @@
 
 ### What is a Rider on TRIP?
 
-A Rider on TRIP is an individual who uses the Teleport app to request and pay for rides. Riders are matched with nearby drivers who transport them to their desired destinations in a safe, reliable, and efficient manner.
+As a rider on TRIP, you are able to request rides through the Teleport app. Simply enter your destination, review the estimated fare, and confirm your request. The app will match you with the nearest available driver.
 
 ### Benefits of Using the TRIP Protocol
 
@@ -20,11 +20,23 @@ To sign up as a rider, download the Teleport app, get an invite, and create an a
 
 Riders can pay for rides with credit/debit cards or Apple Pay. We recommend using Apple Pay. If you don't have Apple Pay set up, it takes only a few moments to add a card for ongoing use and quickly booking rides.
 
+## Using the App
+
+### Booking a Ride
+
+To book a ride, open the app, enter your pick-up location and destination, and confirm your request. The app will show you the estimated fare and match you with a nearby driver. You can track your driver’s arrival in real-time.
+
+### Tracking Your Ride
+
+Once your ride is confirmed, you can track the progress of your driver as they make their way to your pick-up location. During the ride, the app will provide live updates on your route and estimated arrival time.
+
+### Resolving Ride Issues
+
+If you encounter any issues during your ride, you can use the app to contact support to report the problem. Teleport's support team is available to help resolve any issues promptly.
+
 ## Role Responsibilities
 
 ### Requesting Rides
-
-As a rider, you are able to request rides through the Teleport app. Simply enter your destination, review the estimated fare, and confirm your request. The app will match you with the nearest available driver.
 
 Make sure you are ready and at the designated pick-up location before your driver arrives. This helps avoid delays and ensures a smooth pick-up process.&#x20;
 
@@ -44,20 +56,6 @@ As a rider, your feedback is valuable in helping us improve.&#x20;
 
 You can submit feature requests and participate in discussions around existing suggestions at the [Teleport Feedback](https://feedback.teleport.xyz/) board. Engaging with the community in this way allows you to influence future updates and share your ideas for enhancing the service.
 
-## Using the App
-
-### Booking a Ride
-
-To book a ride, open the app, enter your pick-up location and destination, and confirm your request. The app will show you the estimated fare and match you with a nearby driver. You can track your driver’s arrival in real-time.
-
-### Tracking Your Ride
-
-Once your ride is confirmed, you can track the progress of your driver as they make their way to your pick-up location. During the ride, the app will provide live updates on your route and estimated arrival time.
-
-### Resolving Ride Issues
-
-If you encounter any issues during your ride, you can use the app’s support feature to report the problem. Teleport's support team is available to help resolve any issues promptly.
-
 ## Pricing and Rewards
 
 ### Fare Breakdown
@@ -66,7 +64,9 @@ Fares in the Teleport app are calculated based on a combination of factors, incl
 
 ### TRIP Rewards
 
-TRIP Rewards are digital collectibles that riders claim for riding or inviting other active riders and drivers. The more you ride and the more the people you invite ride and drive, the more TRIP Rewards you earn. Riders can hold their TRIP Rewards or sell them directly in the app.
+The more ride revenue that flows through TRIP, the more successful the network becomes. To incentivize you as a rider to contribute toward this goal, you earn TRIP Miles for every ride you take, whether directly by using TRIP or indirectly through referring other active riders or drivers.&#x20;
+
+TRIP Miles are redeemable for TRIP Rewards which are digital collectibles that you can either hold or sell within the app. Check out [TRIP Miles for Riders](trip-miles-for-riders.md) to learn more.
 
 ### Cashing Out
 
@@ -92,19 +92,13 @@ If you leave an item in the car, reach out to support in the app for assistance 
 
 #### How do I cancel a ride?
 
-Riders can cancel the ride at any time before the ride starts. Riders do not incur charges for the trip if canceled. Once the driver has started the trip, riders can no longer cancel the trip. At that point, riders are responsible for paying the full fare.
+Riders can cancel the ride at any time before the ride starts. Riders do not incur charges for the trip if canceled.&#x20;
+
+Once the driver has started the trip, riders can no longer cancel the trip in the app. In most cases the rider, at this point, the rider is responsible for the full fare. That said, if you have an issue or emergency requiring you to end the trip early, let support know and they will help you out as best as they can.
 
 ### Troubleshooting App Issues
 
 If you experience issues with the Teleport app, such as difficulty booking a ride or problems with payment, first try restarting the app or your device. If the issue persists, contact support in the app for further assistance.
-
-## Advanced Tips and Tricks
-
-### Maximizing TRIP Rewards
-
-To maximize your TRIP rewards, you can actively and passively earn miles. Actively earning miles involves riding as much as possible. The more revenue you contribute by riding, the more miles you accumulate, increasing your rewards.
-
-On the passive side, inviting others to join TRIP can significantly boost your miles. If you refer drivers from other apps, you'll earn miles every time they drive, even if you’re not the one riding with them. Similarly, by referring rider friends, you'll earn miles whenever they ride. Furthermore, if the people you invite also refer others, you'll earn miles for every ride or drive their referrals make. Encouraging your referrals to invite others can create a network effect, allowing you to earn even more passive miles.
 
 {% hint style="info" %}
 #### Feedback

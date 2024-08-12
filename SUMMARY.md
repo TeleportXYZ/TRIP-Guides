@@ -9,10 +9,12 @@
 ## Drivers
 
 * [Driver Basics](drivers/basics.md)
+* [TRIP Miles for Drivers](drivers/trip-miles-for-drivers.md)
 
 ## Riders
 
 * [Rider Basics](riders/basics.md)
+* [TRIP Miles for Riders](riders/trip-miles-for-riders.md)
 
 ## Ambassadors
 
@@ -32,11 +34,6 @@
 ## Newsletter
 
 * [Rideshare Economics 101](newsletter/rideshare-economics-101.md)
-
-## Miles
-
-* [Miles Basics](miles/miles-basics.md)
-* [Miles Stats](miles/miles-stats.md)
 
 ## Contributing
 

@@ -4,7 +4,7 @@
 
 ### What is an Ambassador on TRIP?
 
-An Ambassador on TRIP, also known as a Balancer, plays a crucial role in expanding the TRIP network by promoting the Teleport app and building a local community of riders and drivers. Ambassadors are the frontline advocates who help grow the TRIP protocol in cities around the world.
+An Ambassador on TRIP plays a crucial role in expanding the TRIP network by promoting the Teleport app and building a local community of riders and drivers. Ambassadors are the frontline advocates who help grow the TRIP protocol in cities around the world.
 
 ### Benefits of Being an Ambassador
 
@@ -12,13 +12,9 @@ As an Ambassador, you gain the opportunity to be a key part of TRIP's growth and
 
 ## Getting Started
 
-### Ambassador Requirements
+You don't need permission to be a TRIP Ambassador.&#x20;
 
-To become an Ambassador, you should have a strong interest in promoting decentralized technologies and a commitment to helping TRIP grow in your area. Basic requirements include being familiar with the TRIP protocol, having a willingness to engage with potential users, and a readiness to actively share and promote TRIP within your community.
-
-### Registration Process
-
-To be an Ambassador, no registration is required. That said, we do recommend that you download and use the Teleport app regularly, join the TRIP Community, and familiarize yourself with the content and resources made available on this page and the TRIP Guides more broadly.
+If you feel strongly about TRIP, simply get out there and spread the word!
 
 ## Role Responsibilities
 
