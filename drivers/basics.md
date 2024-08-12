@@ -14,7 +14,7 @@ Being a driver offers flexible working hours and the potential for high earnings
 
 ### Driver Requirements
 
-[First, you need to meet the minimum age to drive in your city and possess a valid driver's license. You should have at least one year of licensed driving experience in the US, or three years if you are under 25 years old. Additionally, you must use an eligible 4-door vehicle to ensure passenger comfort and safety.](#user-content-fn-1)[^1]
+Drivers on TRIP need to be at least 25 years old and meet the necessary legal rideshare driver requirements for their local jurisdiction.
 
 ### Sign-Up Process
 
@@ -40,7 +40,7 @@ Regular servicing and maintenance of the vehicle is expected. Keeping the vehicl
 
 ## Insurance Coverage
 
-Understanding how insurance coverage works is crucial for drivers using the T[^2]eleport app. Here’s an overview of the insurance provisions currently in place in the state of Texas:
+Understanding how insurance coverage works is crucial for drivers using the Teleport app. Here’s an overview of the insurance provisions currently in place in the state of Texas:
 
 ### **Offline Coverage**
 
@@ -100,21 +100,19 @@ Support is available through the app for any questions or issues. The in-app hel
 
 ## Frequently Asked Questions (FAQs)
 
-### Common Driver Questions
-
-#### How do I handle a difficult rider?
+### How do I handle a difficult rider?
 
 If you encounter a difficult rider, remain calm and professional. Politely address their concerns and try to resolve any issues. If the situation escalates, you can report the incident through the app and contact support for assistance.
 
-**What should I do if my car breaks down during a ride?**
+### **What should I do if my car breaks down during a ride?**
 
 In the event of a car breakdown during a ride, ensure the safety of both you and the rider by pulling over to a safe location. Inform the rider of the situation and arrange alternative transportation for them if possible. You should also report the breakdown to support and follow their guidance.
 
-**How do I report an accident or incident?**
+### **How do I report an accident or incident?**
 
 To report an accident or incident, contact support in the app. Provide detailed information about the event, including the time, location, and any other relevant details, including photos/videos taken. Support will then assist you in handling the situation and guide you through the next steps.
 
-**Why am I not receiving ride requests?**
+### **Why am I not receiving ride requests?**
 
 If you are not receiving ride requests, check your app settings to ensure you are online and available. Make sure your location services are enabled and the app has the necessary permissions. If the problem persists, restart the app or your device, and contact support if the issue continues.
 
@@ -131,7 +129,3 @@ If for whatever reason you spot something to improve but cannot do it yourself, 
 
 And last but not least, any kind of discussion regarding TRIP documentation is very welcome in the [official TRIP Community on Telegram](https://trip.dev/chat).
 {% endhint %}
-
-[^1]: We currently don't accept drivers under 25. What is the source for this? I would replace this with something more general like "Drivers on TRIP need to be at least 25, and meet the necessary legal rideshare driver requirements for their local jurisdiction."&#x20;
-
-[^2]: Teleport app

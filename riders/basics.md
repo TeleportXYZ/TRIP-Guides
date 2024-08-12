@@ -84,13 +84,11 @@ Support is available through the app for any questions or issues. The in-app hel
 
 ## Frequently Asked Questions (FAQs)
 
-### Common Rider Questions
-
-#### What should I do if I leave something in my car?
+### What should I do if I leave something in my car?
 
 If you leave an item in the car, reach out to support in the app for assistance in retrieving your belongings.&#x20;
 
-#### How do I cancel a ride?
+### How do I cancel a ride?
 
 Riders can cancel the ride at any time before the ride starts. Riders do not incur charges for the trip if canceled.&#x20;
 
