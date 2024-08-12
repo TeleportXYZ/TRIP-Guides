@@ -38,10 +38,6 @@
 * [Miles Basics](miles/miles-basics.md)
 * [Miles Stats](miles/miles-stats.md)
 
-## Explorer
-
-* [Explorer Basics](explorer/explorer-basics.md)
-
 ## Contributing
 
 * [Contributing to TRIP](contributing/contributing-to-trip.md)
