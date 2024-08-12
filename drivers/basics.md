@@ -14,7 +14,7 @@ Being a driver offers flexible working hours and the potential for high earnings
 
 ### Driver Requirements
 
-Firstly, you need to meet the minimum age to drive in your city and possess an in-state driver's license. You should have at least one year of licensed driving experience in the US, or three years if you are under 25 years old. Additionally, you must use an eligible 4-door vehicle to ensure passenger comfort and safety.
+Firstly, you need to meet the minimum age to drive in your city and possess a valid driver's license. You should have at least one year of licensed driving experience in the US, or three years if you are under 25 years old. Additionally, you must use an eligible 4-door vehicle to ensure passenger comfort and safety.
 
 ### Sign-Up Process
 
@@ -56,7 +56,7 @@ During a trip or when you are driving to pick up a passenger, TRIP's insurance c
 
 ### **Insurance Policy Holder**
 
-The insurance policy for TRIP drivers is held by [Emory Peak](#user-content-fn-1)[^1], a TRIP Operator approved in the state of Texas. This ensures that all necessary insurance requirements are met, providing you with peace of mind while you drive.
+The insurance policy for TRIP drivers is held by Denali Mobility LLC, a TRIP Operator approved in the state of Texas. This ensures that all necessary insurance requirements are met, providing you with peace of mind while you drive.
 
 ## Using the App
 
@@ -145,5 +145,3 @@ If for whatever reason you spot something to improve but cannot do it yourself, 
 
 And last but not least, any kind of discussion regarding TRIP documentation is very welcome in the [official TRIP Community on Telegram](https://trip.dev/chat).
 {% endhint %}
-
-[^1]: This should be Denali Mobility LLC
