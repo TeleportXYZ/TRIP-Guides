@@ -37,9 +37,7 @@
 
 ## Contributing
 
-* [Contributing to TRIP](contributing/contributing-to-trip.md)
-* [Guides Guidelines](contributing/guides-guidelines.md)
-* [Newsletter Guidelines](contributing/newsletter-guidelines.md)
+* [Contributing to the TRIP Guides](contributing/contributing-to-trip.md)
 * [Contributors](contributing/contributors.md)
 * [Contribute on GitHub](https://github.com/TeleportXYZ/TRIP-Guides/issues)
 

@@ -1,16 +1,22 @@
 # Contributors
 
+* Paul Bohm
+* Harry Whelchel
+* Danie Beukman
+* Thaddeus Low
+* Matt Brigante
+* Lili Welch
+* Ivan Diaz
+* Abhi Jayakumar
 * Ryan Woosley
 * Daniel Paulino
 * Gustavo Meghirditchian
-* Harry Whelchel
-* Matt Brigante
-* Thaddeus Low
-* Ivan Diaz
-* Lili Welch
-* Danie Beukman
 
-_The content on this site is provided by our community and is for informational purposes only. While we hope the content is helpful, there may be errors, inaccuracies, or other issues with it. The content is not investment advice, legal or other professional advice, or an endorsement or offering of any investment opportunity. We are not responsible for independently verifying it. You use the content at your own risk._
+_The content on this site is provided by our community and is for informational purposes only._&#x20;
+
+_While we hope the content is helpful, there may be errors, inaccuracies, or other issues with it. The content is not investment advice, legal or other professional advice, or an endorsement or offering of any investment opportunity. We are not responsible for independently verifying it._&#x20;
+
+_You use the content at your own risk._
 
 {% hint style="info" %}
 #### Feedback
