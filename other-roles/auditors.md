@@ -1,4 +1,4 @@
-# Auditors
+# Auditor Basics
 
 {% hint style="info" %}
 This guide documents the basics of TRIP Auditors.
@@ -30,9 +30,9 @@ As mentioned above, the TRIP protocol is not fully decentralized at this time. D
 
 You're encouraged to help improve the quality of this guide.
 
-Please contribute if you see any typos or factual errors. To get started, you can read our [Contributing to TRIP](https://guides.trip.dev/contributing/contributing-to-trip) section.
+Please contribute if you see any typos or factual errors. To get started, you can read our [Contributing to the TRIP Guides](../contributing/contributing-to-trip.md) section.
 
-You may also find incomplete content or stuff that is not up to date. Please do add any missing content by [creating a free account in GitBook](https://app.gitbook.com/invite/0WSd8UiSeH2xhfJrSbUr/YFiygcuBiy7oN3WJyDRs). Check the [TRIP Guides Guidelines](https://guides.trip.dev/contributing/guides-guidelines) for style and conventions.
+You may also find incomplete content or stuff that is not up to date. Please do add any missing content by [creating a free account in GitBook](https://app.gitbook.com/invite/0WSd8UiSeH2xhfJrSbUr/YFiygcuBiy7oN3WJyDRs).
 
 If for whatever reason you spot something to improve but cannot do it yourself, please [open an issue](https://github.com/TeleportXYZ/TRIP-Guides/issues/).
 

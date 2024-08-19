@@ -37,3 +37,17 @@ If a driver seems interested but doesn’t have time to sign up on the spot, tex
 ## Conclusion
 
 Recruiting drivers is a crucial part of your role as a TRIP Ambassador, and engaging with drivers at your local airport queue is one of the most effective strategies. By approaching drivers directly, explaining the benefits of Teleport, and assisting with the sign-up process, you can significantly contribute to the growth of the TRIP network. Remember, every new driver you recruit not only strengthens the community but also boosts your own TRIP Miles earnings.
+
+{% hint style="info" %}
+**Feedback**
+
+You're encouraged to help improve the quality of this guide.
+
+Please contribute if you see any typos or factual errors. To get started, you can read our [Contributing to the TRIP Guides](../contributing/contributing-to-trip.md) section.
+
+You may also find incomplete content or stuff that is not up to date. Please do add any missing content by [creating a free account in GitBook](https://app.gitbook.com/invite/0WSd8UiSeH2xhfJrSbUr/YFiygcuBiy7oN3WJyDRs).
+
+If for whatever reason you spot something to improve but cannot do it yourself, please [open an issue](https://github.com/TeleportXYZ/TRIP-Guides/issues/).
+
+And last but not least, any kind of discussion regarding TRIP documentation is very welcome in the [official TRIP Community on Telegram](https://trip.dev/chat).
+{% endhint %}
