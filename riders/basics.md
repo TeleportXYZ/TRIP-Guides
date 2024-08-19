@@ -6,7 +6,7 @@
 
 As a rider on TRIP, you are able to request rides through the Teleport app. Simply enter your destination, review the estimated fare, and confirm your request. The app will match you with the nearest available driver.
 
-### Benefits of Using the TRIP Protocol
+### Benefits of Being a Rider
 
 TRIP offers a convenient and cost-effective way to travel, with the flexibility to request rides at any time. Riders benefit from competitive pricing, the ability to earn rewards, and the assurance of traveling with drivers who meet strict safety and vehicle standards.
 
