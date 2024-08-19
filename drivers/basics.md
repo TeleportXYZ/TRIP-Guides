@@ -48,15 +48,15 @@ When you are not driving for the service, your own personal auto insurance appli
 
 ### **Insurance Policy Holder**
 
-The insurance policy for TRIP drivers is held by Denali Mobility LLC, a TRIP Operator approved in the state of Texas. This ensures that all necessary insurance requirements are met, providing you with peace of mind while you drive.
+The insurance policy for Teleport drivers is held by Emory Peak Mobility LLC, a TRIP Operator approved in the state of Texas. This ensures that all necessary insurance requirements are met, providing you with peace of mind while you drive.
 
 ### **Online and Waiting for a Trip**
 
-While you are online and waiting for a trip request, Denali Mobility LLC provides coverage up to $50,000 for individual bodily injuries and $100,000 per accident. Additionally, property damage is covered up to $25,000 per accident. It’s important to note that this coverage is contingent on the excess liability of your personal auto insurance.
+While you are online and waiting for a trip request, Emory Peak Mobility LLC provides coverage up to $50,000 for individual bodily injuries and $100,000 per accident. Additionally, property damage is covered up to $25,000 per accident. It’s important to note that this coverage is contingent on the excess liability of your personal auto insurance.
 
 ### **During a Trip or Driving to Pick Up a Passenger**
 
-During a trip or when you are driving to pick up a passenger, Denali Mobility LLC's insurance covers third-party damages in compliance with Texas TNC guidelines. If your vehicle is damaged, repair costs are covered up to its actual cash value of $50,000, with a deductible of $2,500. This coverage applies only if your personal policy includes comprehensive and collision coverage.
+During a trip or when you are driving to pick up a passenger, Emory Peak Mobility LLC's insurance covers third-party damages in compliance with Texas TNC guidelines. If your vehicle is damaged, repair costs are covered up to its actual cash value of $50,000, with a deductible of $2,500. This coverage applies only if your personal policy includes comprehensive and collision coverage.
 
 ## Using the App
 
