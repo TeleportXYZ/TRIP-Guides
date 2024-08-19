@@ -19,6 +19,7 @@
 ## Ambassadors
 
 * [Ambassador Basics](ambassadors/basics.md)
+* [Recruiting Drivers](ambassadors/recruiting-drivers.md)
 
 ## Other Roles
 
