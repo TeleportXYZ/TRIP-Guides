@@ -1,37 +1,42 @@
 # Developer Basics
 
 {% hint style="info" %}
-This guide documents the basics of TRIP Apps.
-
-Apps are software clients that allow riders and drivers to access the TRIP protocol.
-
-After reading this guide, you will know:
-
-* What is an App.
-* How to create an App.
+**Not Adding New Developers Presently**\
+\
+New Developers are not presently being added to the network. Guidance will be provided when the network is ready for more. As a future Dev, [earn rewards as an Ambassador](../ambassadors/basics.md) today.
 {% endhint %}
 
-{% hint style="info" %}
-**Note:** The TRIP protocol is not fully decentralized at this time. Guidance will be provided when the network is ready for more Apps.
-{% endhint %}
+## Introduction
 
-## What is an App
+### What is a Developer on TRIP?
 
 <figure><img src="../.gitbook/assets/spaces_NwtZr1A5O8eLe1w4Pmm4_uploads_awEiVViUMOZYiLSG9Ubs_TRIP Deck_MB Harry 3.webp" alt=""><figcaption></figcaption></figure>
 
-An app is a software client that allows riders and drivers to access the TRIP protocol.
+Developers on the TRIP network play a crucial role in creating the software clients, or apps, that allow riders and drivers to access and interact with the TRIP protocol. Just as a web browser like Chrome allows you to explore the internet or an email client like Gmail lets you send and receive messages, an app on TRIP enables users to ride or drive on the network.&#x20;
 
-Think of a web browser like Chrome that allows you to access the internet or a mail app like Gmail that allows you to send and receive email.
+The first app built on the TRIP protocol is Teleport, but as TRIP evolves, more apps will be developed, allowing for greater experimentation, innovation, and a richer experience for both riders and drivers.
 
-The first app on the TRIP protocol is [Teleport](https://www.teleport.xyz/).
+### The Importance of Developers
 
-Because TRIP is an open protocol in time there will be multiple apps like Teleport built on TRIP.
+Developers are at the forefront of innovation within the TRIP ecosystem.&#x20;
 
-This allows for greater experimentation and innovation leading to a better rideshare experience for both riders and drivers.
+By building diverse and innovative apps on the TRIP protocol, they enhance the rideshare experience, offering users more choices and better services. As TRIP grows, the contribution of Developers will be vital in driving the decentralized rideshare revolution, ensuring that the protocol remains flexible, user-friendly, and at the cutting edge of technology.
 
-## How to create an App
+### Not Adding New Developers Presently
 
-As mentioned above, the TRIP protocol is not fully decentralized at this time. Public API documentation or developer SDKs for TRIP have not yet been released. Guidance will be provided when the network is ready for more Apps.
+New Developers are not presently being added to the network. Guidance will be provided when the network is ready for more Developers. As a future Developer, [earn rewards as an Ambassador](../ambassadors/basics.md) today.
+
+## Contributing Now
+
+### Become an Ambassador
+
+Today you can earn rewards on the TRIP network as an Ambassador. Ambassadors promote TRIP, recruit new riders and drivers, and help build a strong local community. As an Ambassador, you earn TRIP Miles every time someone you referred rides or drives—even if you were not the Developer responsible for the app the driver and rider used. This is an extremely effective way for entrepreneurial, ambitious individuals to earn rewards and play a key role in the network's growth.&#x20;
+
+Learn more about [being an Ambassador](../ambassadors/basics.md) here.
+
+### Join the TRIP Community
+
+TRIP offers a supportive community for future Verifiers. Joining the [TRIP community](https://trip.dev/chat) allows you to share experiences and tips, participate in conversations, local meetups, and online groups.
 
 {% hint style="info" %}
 #### Feedback

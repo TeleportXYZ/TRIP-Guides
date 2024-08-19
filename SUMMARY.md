@@ -24,10 +24,6 @@
 ## Other Roles
 
 * [Operator Basics](other-roles/operators.md)
-  * [North America](other-roles/operators/caribbean/README.md)
-    * [Dominican Republic](other-roles/operators/caribbean/dominican-republic.md)
-  * [South America](other-roles/operators/south-america/README.md)
-    * [Uruguay](other-roles/operators/south-america/uruguay.md)
 * [Verifier Basics](other-roles/verifiers.md)
 * [Developer Basics](other-roles/developers.md)
 * [Auditor Basics](other-roles/auditors.md)

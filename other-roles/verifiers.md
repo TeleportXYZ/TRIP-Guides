@@ -1,45 +1,40 @@
 # Verifier Basics
 
 {% hint style="info" %}
-This guide documents the basics of TRIP Verifiers.
-
-Verifiers validate assertions made by the different roles on the TRIP protocol.
-
-After reading this guide, you will know:
-
-* What is a Verifier.
-* How to become a Verifier.
+**Not Adding New Verifiers Presently**\
+\
+New Verifiers are not presently being added. Guidance will be provided when the network is ready for more Verifiers. As a future Verifier, [earn rewards as an Ambassador](../ambassadors/basics.md) today.
 {% endhint %}
 
-{% hint style="info" %}
-**Note:** The TRIP protocol is not fully decentralized at this time. Demonstrating Verifier eligibility does not guarantee you will be added to the network. Guidance will be provided when the network is ready for more Verifiers.
-{% endhint %}
+## Introduction
 
-## What is a Verifier
-
-A verifier validate assertions made by the different roles on the TRIP protocol.
-
-For example, if a driver provides a driver's license, a verifier inspects the license and validates whether it is a valid driver's license or not.
-
-Verifiers not only inspect driver licenses they also perform car inspections, conduct background checks and verify phone numbers.
+### What is a Verifier on TRIP?
 
 <figure><img src="../.gitbook/assets/Attestations (1).png" alt=""><figcaption></figcaption></figure>
 
-Once a verifier has validated an assertion, they provide a cryptographic attestation (think stamp of approval) that the assertion is true.
+Verifiers on the TRIP network are responsible for validating the accuracy of information provided by different roles within the protocol. For example, when a driver submits their driver’s license, a Verifier inspects and confirms the validity of the license. Verifiers also perform vehicle inspections, conduct background checks, and verify phone numbers.&#x20;
 
-Therefore, verifiers play a crucial role in establishing trust and credibility when traditional centralized authorities are not present.
+Once a Verifier has validated an assertion, they provide a cryptographic attestation—essentially a stamp of approval—that the information is accurate. This role is critical for establishing trust and credibility within the TRIP network, especially in the absence of traditional centralized authorities.
 
-## How to become a Verifier
+### The Importance of Verifiers
 
-Verifiers must be in legal and operational compliance with all applicable regulations and laws before they begin providing attestation services to the protocol.
+As the TRIP network grows, Verifiers will become increasingly essential to maintaining the integrity and reliability of the protocol. By providing accurate and trustworthy attestations, Verifiers ensure that all participants—drivers, riders, and other stakeholders—can participate with confidence. Verifiers help uphold the decentralized nature of TRIP while ensuring that safety and regulatory standards are met.
 
-To ensure that Verifiers are compliant with local regulation and operational requirements, the TRIP Marketplace votes to deputize dedicated auditing firms. These firms receive authorization by multi-sig keys to sign off on the regulatory and operational readiness of Verifiers.
+### Not Adding New Verifiers Presently
 
-Once Verifiers have been approved by a majority multi-sig vote, they are publicly listed on the contract together with their public key and DNS address, as well as additional metadata such as geographic zones of operation.
+New Verifiers are not presently being added to the TRIP network. Guidance will be provided when the network is ready for more Verifiers. As a future Verifier, earn rewards as an Ambassador today.
 
-As mentioned above, the TRIP protocol is not fully decentralized at this time. Demonstrating Verifier eligibility does not guarantee you will be added to the network. Guidance will be provided when the network is ready for more Verifiers.
+## Contributing Now
 
-If you or your firm would like to be considered as a Verifier on TRIP, [reach out to us](mailto:verifier@dec.dev).
+### Become an Ambassador
+
+Today you can earn rewards on the TRIP network as an Ambassador. Ambassadors promote TRIP, recruit new riders and drivers, and help build a strong local community. As an Ambassador, you earn TRIP Miles every time someone you referred rides or drives—even if you were not the Verifier responsible for verifying the driver or rider. This is an extremely effective way for entrepreneurial, ambitious individuals to earn rewards and play a key role in the network's growth.&#x20;
+
+Learn more about [being an Ambassador](../ambassadors/basics.md) here.
+
+### Join the TRIP Community
+
+TRIP offers a supportive community for future Verifiers. Joining the [TRIP community](https://trip.dev/chat) allows you to share experiences and tips, participate in conversations, local meetups, and online groups.
 
 {% hint style="info" %}
 #### Feedback

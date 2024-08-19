@@ -16,7 +16,7 @@ As a result, a freer and more fair rideshare emerges that benefits riders and dr
 
 The operation of the decentralized rideshare network involves the following entities:
 
-1. **Riders** and **Drivers** connect to the protocol to offer or request rides using **Apps**.
+1. **Riders** and **Drivers** connect to the protocol to offer or request rides using **Developer** Apps.
 2. **Operators** handle the regulatory and operational requirements of providing rideshare service. They are powered by **Rideshare Server** software. Depending on the applicable local regulatory framework, an Operator may serve as Transportation Network Company (TNC) or Transportation Network Provider (TNP) or Fleet Manager.
 3. The **TRIP Marketplace** consists of a set of blockchain smart contracts that offer coordination and consensus services to the rideshare network. These smart contracts are governed by a Decentralized Autonomous Organization (DAO) and help the network remain neutral and fair without having to rely on centralized authority.
 4. **Ambassadors** (aka Balancers) help the TRIP Marketplace overcome supply/demand imbalances by inviting additional Drivers and Riders to the protocol.
