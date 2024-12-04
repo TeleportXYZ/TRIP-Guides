@@ -29,7 +29,7 @@ When at least one Operator and enough Verifiers have been approved to operate wi
 
 ### 2.1 Ordering a Ride
 
-![](../.gitbook/assets/64b95177fbce18a5dbc1a3b0\_Initialization.png)
+![](../.gitbook/assets/64b95177fbce18a5dbc1a3b0_Initialization.png)
 
 When ordering a ride, Operators validate that Drivers and Riders have passed all necessary checks, while Drivers and Riders validate that the Operator has been approved for operation in the region.
 
@@ -37,7 +37,7 @@ This mutual validation process helps ensure that rides established via TRIP are 
 
 ### 2.2 Supply & Demand Indication
 
-![](<../.gitbook/assets/64b951f4a21e999ef4a6da5d\_Supply & Demand.png>)
+![](<../.gitbook/assets/64b951f4a21e999ef4a6da5d_Supply & Demand.png>)
 
 Once Drivers are connected and validated by a local Operator, they can indicate that they are available to accept rides (supply indication). After going active, the Driver's App regularly updates the Driver's location with its active Operator.
 
@@ -45,7 +45,7 @@ Similarly, Riders can indicate that they are in need of a ride (demand indicatio
 
 ### 2.3 Matching & Pricing
 
-![](<../.gitbook/assets/64b952051d007fdfdf5a50b9\_Matching\&Pricing (1).png>)
+![](<../.gitbook/assets/64b952051d007fdfdf5a50b9_Matching\&Pricing (1).png>)
 
 When an Operator with active Drivers receives a ride request from a Rider it checks the location of nearby Drivers and uses its internal pricing engine to prepare an offer both to Drivers and to the Rider. Offers include both pricing and ETA estimates.
 
@@ -53,7 +53,7 @@ Drivers get offers only from their active Operator, but Riders get offers from a
 
 ### 2.4 Service Area
 
-![](../.gitbook/assets/64b951e3b7208774e01946a4\_Geo-Fence.png)
+![](../.gitbook/assets/64b951e3b7208774e01946a4_Geo-Fence.png)
 
 Both Riders and Drivers can connect to all Operators that are licensed to operate in or near their current geographic region.
 
@@ -73,7 +73,7 @@ Drivers, and all other roles that receive a payout from the ride, receive paymen
 
 ### 2.6 Ride Conclusion
 
-![](<../.gitbook/assets/64b952781c8ab21a4ebdcba2\_Ride Conclusion.png>)
+![](<../.gitbook/assets/64b952781c8ab21a4ebdcba2_Ride Conclusion.png>)
 
 At the end of a ride, the Driver, and all other roles that receive a payout from the ride, receive their payments.
 
@@ -99,7 +99,7 @@ Increased competition, closely tracked ratings, and enforcement of high standard
 
 ## 3. Marketplace Economics
 
-![](<../.gitbook/assets/64a71c15ea78e92b88749bc4\_Marketplace Economics.png>)
+![](<../.gitbook/assets/64a71c15ea78e92b88749bc4_Marketplace Economics.png>)
 
 Marketplaces enable direct competitors to benefit from cooperation with each other. It is no coincidence that in many cities, restaurants of the same cuisine and stores with similar wares cluster together and form neighborhoods. Although these shops still compete on price, selection, and quality of goods and services, they all benefit from increasing foot traffic to their area by working together.
 
@@ -113,7 +113,7 @@ Bringing open marketplace technology to rideshare will unlock the advantages of 
 
 ### 3.1 Network Effects and Competitive Moats
 
-![](<../.gitbook/assets/64a723808cb80a7220e1e5de\_Network Effects and Competitive Moats.png>)
+![](<../.gitbook/assets/64a723808cb80a7220e1e5de_Network Effects and Competitive Moats.png>)
 
 When a networked service starts gaining users, its value proposition becomes stronger: more drivers on a rideshare app mean shorter wait times for riders, while more riders mean higher chances of drivers finding a fare nearby. This positive feedback loop is called a _network effect_, and it can fuel rapid growth of a new service.
 
@@ -123,7 +123,7 @@ Understanding how network effects are built was key to first building out the di
 
 ### 3.2 Habit and Brand Recognition
 
-![](<../.gitbook/assets/64a7235a6922dc7097de77a2\_Habit and Brand Recognition.png>)
+![](<../.gitbook/assets/64a7235a6922dc7097de77a2_Habit and Brand Recognition.png>)
 
 Habit, brand recognition, and trust can create strong barriers to entry on their own, but they do not represent good examples of network effects. In the absence of a network effect, a formerly unknown but superior product with better customer experience and/or cheaper prices can still become a competitive threat by first serving a subgroup of users to build trust and brand recognition and then expanding from there.
 
@@ -138,7 +138,7 @@ A moat only protects the incumbent if there is no "bridge": a contiguous and gro
 
 ### 3.3 Your Margin is my Opportunity
 
-![](<../.gitbook/assets/64a723aa339568621e1b3e1b\_Your margin is my opportunitity.png>)
+![](<../.gitbook/assets/64a723aa339568621e1b3e1b_Your margin is my opportunitity.png>)
 
 While network effects provide the incumbent with an advantage, operational inefficiencies can negate these advantages. Such operational inefficiencies can include:
 
@@ -158,7 +158,7 @@ A market-operated rideshare network would be able to operate far more efficientl
 
 ### 3.4 Building the Bridge
 
-![](<../.gitbook/assets/64a723c4f453b3b6804966b3\_Global Maxium.png>)
+![](<../.gitbook/assets/64a723c4f453b3b6804966b3_Global Maxium.png>)
 
 Rideshare companies have fought long and hard to classify their drivers as independent contractors rather than employees. Although drivers theoretically have the freedom to work for other rideshare companies or multiple networks, in reality, network effects have kept them locked into the dominant platform.
 
@@ -204,11 +204,7 @@ While rider and driver contributions are considered equal for an individual ride
 
 ### 4.4 Balancing Supply and Demand
 
-#### 4.4.1 Competition Rollover
-
-When a competition has no rides, its TRIP Miles are rolled over to the next competition, increasing the TRIP Miles pool up to a 180x multiplier and until a ride occurs. This balances supply and demand by incentivizing rides at off-peak times.
-
-#### 4.4.2 Network Growth Incentives
+#### 4.4.1 Network Growth Incentives
 
 Inviting riders and drivers is incentivized. Invited users must actively participate for their inviters to receive TRIP Miles. TRIP Miles are allocated up the invite chain which encourages quality referrals.
 
@@ -278,15 +274,7 @@ The $$A_{1j}$$ parameter now increases by a factor of 2.5 with increasing attrib
 
 The way $$A$$ and $$Q$$ vary for trait 1 staggers sigmoid (S-shaped) probability curves for each attribute, with the most common attribute starting at the lower end of the tier spectrum, and the most rare attribute ending at the upper end of the tier spectrum.
 
-<div>
-
-<figure><img src="../.gitbook/assets/image-10.png" alt="" width="450"><figcaption><p>Staggered sigmoid-like probability curves for each attribute in trait 1.</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image-9.png" alt="" width="450"><figcaption><p>Rarity distribution of trait 1 attributes as a variation of TRIP Rewards tier.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image-10.png" alt="" width="450"><figcaption><p>Staggered sigmoid-like probability curves for each attribute in trait 1.</p></figcaption></figure> <figure><img src="../.gitbook/assets/image-9.png" alt="" width="450"><figcaption><p>Rarity distribution of trait 1 attributes as a variation of TRIP Rewards tier.</p></figcaption></figure></div>
 
 Across each trait's set of attributes, $$Q_i$$ increases by a factor of 40 with increasing trait $$i$$, indicating the increasing relative rarity with increasing trait index.
 
@@ -311,13 +299,13 @@ When two entities establish a direct network connection, they use their keys to 
 
 ### 6.1 Attestations
 
-![](../.gitbook/assets/64a723e22fc942c93065fc7b\_Attestations.png)
+![](../.gitbook/assets/64a723e22fc942c93065fc7b_Attestations.png)
 
 Entities can make statements about each other by signing statements about the public keys of other entities. These statements can be made either onchain or off chain.
 
 ### 6.2 The TRIP Marketplace
 
-![](<../.gitbook/assets/64a723ff9edfe3959ee670fa\_Coordination Layer.png>)
+![](<../.gitbook/assets/64a723ff9edfe3959ee670fa_Coordination Layer.png>)
 
 The TRIP Marketplace is a set of smart contracts that run on a blockchain. It provides consensus, coordination, and governance services for all other components of the rideshare network.
 
@@ -335,7 +323,7 @@ A Verifier is a service or entity that validates claims or assertions made by us
 
 #### **6.3.1 Onchain Authorization**
 
-![](<../.gitbook/assets/64b95107ab846bbd967c86be\_On-Chain Authorization.png>)
+![](<../.gitbook/assets/64b95107ab846bbd967c86be_On-Chain Authorization.png>)
 
 Verifiers must be in legal and operational compliance with all applicable regulations and laws before they begin providing attestation services to the network.
 
@@ -370,7 +358,7 @@ Payments on the rideshare protocol (TRIP) are made using national currencies, su
 
 ### 6.5 Sybil Protection Fee
 
-![](<../.gitbook/assets/64a7250986c87c63f62500db\_Sybil Avoidance Mechanism.png>)
+![](<../.gitbook/assets/64a7250986c87c63f62500db_Sybil Avoidance Mechanism.png>)
 
 In protocol design, a sybil attack is an attempt by an individual to manipulate the network by creating multiple fake identities or transactions.
 
@@ -382,7 +370,7 @@ In future iterations of the protocol, the USDC Sybil fee could also potentially 
 
 ### 6.6 Privacy
 
-![](../.gitbook/assets/64b9530024baee28cab82d75\_Privacy.png)
+![](../.gitbook/assets/64b9530024baee28cab82d75_Privacy.png)
 
 TRIP's architecture is carefully designed to select which data is transmitted to which party and where control over the data is located. Data is only shared with the minimum subset of recipients required for legal, safety, and technical reasons.
 
