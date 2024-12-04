@@ -16,10 +16,6 @@ As a rider, you earn TRIP Miles directly each time you book and complete a ride.
 
 You can also earn TRIP Miles by inviting others to ride or drive on TRIP. Whenever someone you invite completes a trip—whether as a rider or driver—you earn TRIP Miles based on their activity. The higher the fare and the more frequent their trips—whether they ride or drive—the more TRIP Miles you earn from their activity. Additionally, you earn TRIP Miles from the activity of riders and drivers referred by your referrals. The further down the referral chain, the fewer TRIP Miles you earn per trip, but these can add up quickly, especially if you have a large, engaged network.
 
-### Earning Rollover Miles
-
-A fixed number of TRIP Miles are apportioned each minute to individuals who contributed to completed rides during that time. If no rides are completed during a minute, the TRIP Miles roll over to the next minute. This rollover can accumulate up to a 180x multiplier as long as no rides take place. This mechanism can significantly boost your TRIP Miles earnings as a rider, particularly during less busy times. To maximize rollover miles, it is beneficial for you to ride during off-peak hours, increasing your chances of completing a ride when the rollover multiplier is in effect.
-
 ## Detailed Breakdown of Referral Earnings
 
 **Direct Referrals:** Every time one of your referrals rides or drives, you’ll earn about 40% of the TRIP Miles that the rider or driver you referred earned for that trip. This is a significant way to boost your TRIP Miles passively.
